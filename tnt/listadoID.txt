@@ -1,0 +1,145 @@
+albohirta_Lago Pelegrin_1==ID=albohirta_Lago Pelegrin_1==albohirta1
+albohirta_Lago Pelegrin_2==ID=albohirta_Lago Pelegrin_2==albohirta2
+albohirta_Lago Pelegrin_3==ID=albohirta_Lago Pelegrin_3==albohirta3
+albosignata_Sto Domingo_ 1==ID=albosignata_Sto Domingo_ 1==albosignata1
+albosignata_Sto Domingo_2==ID=albosignata_Sto Domingo_2==albosignata2
+albosignata_Sto Domingo_3==ID=albosignata_Sto Domingo_3==albosignata3
+albosignata_Sto Domingo_4==ID=albosignata_Sto Domingo_4==albosignata4
+alticola_Angastaco Salta_1==ID=alticola_Angastaco Salta_1==alticola1
+alticola_Angastaco Salta_2==ID=alticola_Angastaco Salta_2==alticola2
+alticola_Angastaco Salta_3==ID=alticola_Angastaco Salta_3==alticola3
+andicola_Río Clarillo_1.tps==andicola1
+andicola_Rio Clarillo_2==ID=andicola_Rio Clarillo_2==andicola2
+andicola_Sn Martín de Los Andes_3.tps==andicola3
+andicola_Sn Martín de Los Andes_4.tps==andicola4
+antilope_Bajada del Agrio Neuquén_4.tps==antilope4
+antilope_Bajada del Agrio Nquen_3==ID=antilope_Bajada del Agrio Nquen_3==antilope3
+antilope_Guaijaina_2==ID=antilope_Guaijaina_2==antilope2
+antilope_Rio Tecka Chubut_1==ID=antilope_Rio Tecka Chubut_1==antilope1
+arauca_Canto Del Agua_1==ID=arauca_Canto Del Agua_1==arauca1
+arauca__Canto del Agua_2==ID=arauca__Canto del Agua_2==arauca2
+arauca_Canto del Agua_3==ID=arauca_Canto del Agua_3==arauca3
+arauca_Sto Domingo_4==ID=arauca_Sto Domingo_4==arauca4
+arica_Calama_1==ID=arica_Calama_1==arica1
+arica_Calama_2==ID=arica_Calama_2==arica2
+arica_Calama_3==ID=arica_Calama_3==arica3
+bejeranoi_San Juan_1==ID=bejeranoi_San Juan_1==bejeranoi1
+bejeranoi_San Juan_2==ID=bejeranoi_San Juan_2==bejeranoi2
+bejeranoi_San Juan_3==ID=bejeranoi_San Juan_3==bejeranoi3
+bejeranoi_San Juan_4==ID=bejeranoi_San Juan_4==bejeranoi4
+belenensis_Qda Murmuntani_1==ID=belenensis_Qda Murmuntani_1==belenensis1
+belenensis_Qda. Murmuntani_2==ID=belenensis_Qda. Murmuntani_2==belenensis2
+bruchii_Punitaqui_2==ID=bruchii_Punitaqui_2==bruchii2
+bruchii_Punitaqui_3==ID=bruchii_Punitaqui_3==bruchii3
+bruchii_Toconao_1==ID=bruchii_Toconao_1==bruchii1
+bulbula _Camiña_2.tps==bulbula2
+bulbula_Mamiña_1.tps==bulbula1
+bulbula_Mamiña_3.tps==bulbula3
+canipilis_Catan Lil Nquen_1==ID=canipilis_Catan Lil Nquen_1==canipilis1
+canipilis_Catan Li Neu_4==ID=canipilis_Catan Li Neu_4==canipilis4
+canipilis_Catan Li Neu_5==ID=canipilis_Catan Li Neu_5==canipilis5
+canipilis_Catan Li Neuq_2==ID=canipilis_Catan Li Neuq_2==canipilis2
+canipilis_Catan Li Nquen_3==ID=canipilis_Catan Li Nquen_3==canipilis3
+chilensis_Antillanca_1==ID=chilensis_Antillanca_1==chilensis1
+chilensis_Rio Clarillo_2==ID=chilensis_Rio Clarillo_2==chilensis2
+chilensis_Rio Clarillo_3==ID=chilensis_Rio Clarillo_3==chilensis3
+chilensis_Rio Clarillo_4==ID=chilensis_Rio Clarillo_4==chilensis4
+chillan_Lgna del Diamante Mdza_1==ID=chillan_Lgna del Diamante Mdza_1==chillan1
+chillan_Lgna del Diamante Mndza_3==ID=chillan_Lgna del Diamante Mndza_3==chillan3
+chillan_Lgna del Diamante Mndza_4==ID=chillan_Lgna del Diamante Mndza_4==chillan4
+chillan_Lgna del Diamante Mnza_2==ID=chillan_Lgna del Diamante Mnza_2==chillan2
+chillan_Lgna del Maule_5==ID=chillan_Lgna del Maule_5==chillan5
+chubutensis_Tierra del Fuego_1==ID=chubutensis_Tierra del Fuego_1==chubutensis1
+chubutensis_Tierra del Fuego_2==ID=chubutensis_Tierra del Fuego_2==chubutensis2
+chubutensis_Varvarco Nquen_3==ID=chubutensis_Varvarco Nquen_3==chubutensis3
+chubutensis_Varvarco Nquen_4==ID=chubutensis_Varvarco Nquen_4==chubutensis4
+coquimbo_El Naranjo_1==ID=coquimbo_El Naranjo_1==coquimbo1
+coquimbo_El Naranjo_2==ID=coquimbo_El Naranjo_2==coquimbo2
+coquimbo_El Naranjo_3==ID=coquimbo_El Naranjo_3==coquimbo3
+delpontei sepiapes_Termas Chillan_1==ID=delpontei sepiapes_Termas Chillan_1==delpontei_sepiapes1
+delpontei sepiapes_Termas de Chillan_3==ID=delpontei sepiapes_Termas de Chillan_3==delpontei_sepiapes3
+depontei sepiapes_Termas de Chillan_2==ID=depontei sepiapes_Termas de Chillan_2==depontei_sepiapes2
+dixoni_Australia Three Springs_1==ID=dixoni_Australia Three Springs_1==dixoni1
+dixoni_Australia Three Springs_2==ID=dixoni_Australia Three Springs_2==dixoni2
+dubiosa_Warwick_1==ID=dubiosa_Warwick_1==dubiosa1
+dubiosa_Warwick_2==ID=dubiosa_Warwick_2==dubiosa2
+dubiosa_Warwick_3==ID=dubiosa_Warwick_3==dubiosa3
+dubiosa_Warwick_4==ID=dubiosa_Warwick_4==dubiosa4
+elquiensis_Elqui_1==ID=elquiensis_Elqui_1==elquiensis1
+elquiensis_Elqui_2==ID=elquiensis_Elqui_2==elquiensis2
+erynnis_Lago Pelegrin_1==ID=erynnis_Lago Pelegrin_1.jpg==erynnis1
+erynnis_Lago Pelegrin_2==ID=erynnis_Lago Pelegrin_2==erynnis2
+erynnis_Lago Pelegrin_3==ID=erynnis_Lago Pelegrin_3==erynnis3
+erynnis_Neuquen Capital_4==ID=erynnis_Neuquen Capital_4==erynnis4
+fornesi _Campo Quijano_1==ID=fornesi _Campo Quijano_1==fornesi1
+fornesi_Campo Quijano_2==ID=fornesi_Campo Quijano_2==fornesi2
+fornesi_Campo Quijano_3==ID=fornesi_Campo Quijano_3==fornesi3
+gentilis_Australia Australian Territory_1==ID=gentilis_Australia Australian Territory_1==gentilis1
+gentilis_Australia Mongarlowe_2==ID=gentilis_Australia Mongarlowe_2==gentilis2
+hirsuta_Putre_1==ID=hirsuta_Putre_1==hirsuta1
+hirsuta_Putre_2==ID=hirsuta_Putre_2==hirsuta2
+inata_Chungará_1.tps==inata1
+inata_Chungará_2.tps==inata2
+kroeberi_Peine_2==ID=kroeberi_Peine_2==kroeberi2
+kroeberi_Toconao_3==ID=kroeberi_Toconao_3==kroeberi3
+kroeberi_Toconao_4==ID=kroeberi_Toconao_4==kroeberi4
+kroeberi_Toconce_1==ID=kroeberi_Toconce_1==kroeberi1
+mendozana_Salta_1==ID=mendozana_Salta_1==mendozana1
+mendozana_Salta_2==ID=mendozana_Salta_2==mendozana2
+mendozana_Salta_3==ID=mendozana_Salta_3==mendozana3
+mendozana_Salta_4==ID=mendozana_Salta_4==mendozana4
+minor_Bs Aires_5==ID=minor_Bs Aires_5==minor5
+minor_Lago Pelegrin_1==ID=minor_Lago Pelegrin_1==minor1
+minor_Lago Pelegrin_2==ID=minor_Lago Pelegrin_2==minor2
+minor_Lago Pelegrin_3==ID=minor_Lago Pelegrin_3==minor3
+minor_Lgo Pelegrin_4==ID=minor_Lgo Pelegrin_4==minor4
+missionum_Abra del Hinojo Bs Aires_1==ID=missionum_Abra del Hinojo Bs Aires_1==missionum1
+missionum_Bs Aires Abra de la Ventana_2==ID=missionum_Bs Aires Abra de la Ventana_2==missionum2
+missionum_Bs Aires Abra de la Ventana_3==ID=missionum_Bs Aires Abra de la Ventana_3==missionum3
+neobasis_Australia Mongarlowe_1==ID=neobasis_Australia Mongarlowe_1==neobasis1
+nigra_Laguna Colorada Antgasta_1==ID=nigra_Laguna Colorada Antgasta_1==nigra1
+nigra_Tilama_2==ID=nigra_Tilama_2==nigra2
+nigrifrons_El Granizo_1==ID=nigrifrons_El Granizo_1==nigrifrons1
+nigrifrons_El Granizo_2==ID=nigrifrons_El Granizo_2==nigrifrons2
+nigrifrons_Rio Clarillo_3==ID=nigrifrons_Rio Clarillo_3==nigrifrons3
+nigrifrons_Rio Clarillo_4==ID=nigrifrons_Rio Clarillo_4==nigrifrons4
+oculata _SomersetDam Qld_1==ID=oculata _SomersetDam Qld_1==oculata1
+oculata_Warwick_2==ID=oculata_Warwick_2==oculata2
+oculata_Warwick_3==ID=oculata_Warwick_3==oculata3
+opaca_Termas de Chillán_1.tps==opaca1
+opaca_Termas de Chillan_2==ID=opaca_Termas de Chillan_2==opaca2
+pallipes_Cuesta Obispo Salta_1==ID=pallipes_Cuesta Obispo Salta_1==pallipes1
+pallipes_Cuesta Obispo Salta_2==ID=pallipes_Cuesta Obispo Salta_2==pallipes2
+pallipes_Cuesta Obispo Salta_3==ID=pallipes_Cuesta Obispo Salta_3==pallipes3
+pereirai _Lago Aluminé Nquen_1.tps==pereirai1
+pereirai_Lago Aluminé Nquen_3.tps==pereirai3
+pereirai_Lago Aluminé Salta_2.tps==pereirai2
+persignata Cuesta El Obispo Salta_2==ID=persignata Cuesta El Obispo Salta_2==persignata2
+persignata_Termas Palguin_1==ID=persignata_Termas Palguin_1==persignata1
+poroma_macho Lago Chungará_1.tps==poroma1
+pruinivitta_Punitaqui_2==ID=pruinivitta_Punitaqui_2==pruinivitta2
+pruinivitta_Valle Nevado_3==ID=pruinivitta_Valle Nevado_3==pruinivitta3
+pruinivitta_Valle Nevado_4==ID=pruinivitta_Valle Nevado_4==pruinivitta4
+pruinivitta_Villarrica_1==ID=pruinivitta_Villarrica_1==pruinivitta1
+senilis_Las Docas_2==ID=senilis_Las Docas_2==senilis2
+senilis_Las Docas_3==ID=senilis_Las Docas_3==senilis3
+senilis_Las Docas_4==ID=senilis_Las Docas_4==senilis4
+senilis_Pucatrihue_1==ID=senilis_Pucatrihue_1==senilis1
+subtrita_Huaca huasi Tuc_1==ID=subtrita_Huaca huasi Tuc_1==subtrita1
+subtrita_Huaca huasi Tuc_2==ID=subtrita_Huaca huasi Tuc_2==subtrita2
+subtrita_Huaca huasi Tuc_3==ID=subtrita_Huaca huasi Tuc_3==subtrita3
+testaceomaculata_Chiloé_4.tps==testaceomaculata4
+testaceomaculata_ Dalcahue_1==ID=testaceomaculata_ Dalcahue_1==testaceomaculata1
+testaceomaculata_Valdivia_2==ID=testaceomaculata_Valdivia_2==testaceomaculata2
+testaceomaculata_Valdivia_3==ID=testaceomaculata_Valdivia_3==testaceomaculata3
+trita_Bahia Azul Est Las Vegas_3==ID=trita_Bahia Azul Est Las Vegas_3==trita3
+tritaBahia Azul Est Las Vegas_3==ID=tritaBahia Azul Est Las Vegas_3==tritab3
+trita_Bahia Azul Est Las Vegas_4==ID=trita_Bahia Azul Est Las Vegas_4==trita4
+tritaBahia Azul Est Las Vegas_4==ID=tritaBahia Azul Est Las Vegas_4==tritab4
+trita_Laguna Amarga_1==ID=trita_Laguna Amarga_1==trita1
+trita_Magallanes Puerto_2==ID=trita_Magallanes Puerto_2==trita2
+trita_Seno Ottway_5==ID=trita_Seno Ottway_5==trita5
+vasta_Ariquilda_1==ID=vasta_Ariquilda_1==vasta1a
+vasta_Ariquilda_2==ID=vasta_Ariquilda_2==vasta2a
+vasta_Zapahuira_1==ID=vasta_Zapahuira_1==vasta1b
+vasta_Zapahuira_2==ID=vasta_Zapahuira_2==vasta2b

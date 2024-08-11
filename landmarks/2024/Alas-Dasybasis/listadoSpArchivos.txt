@@ -1,0 +1,197 @@
+albosignata_Sto Domingo_ 1
+albosignata_Sto Domingo_2
+albosignata_Sto Domingo_3
+albosignata_Sto Domingo_4
+alticola_Angastaco Salta_1
+alticola_Angastaco Salta_2
+alticola_Angastaco Salta_3
+andicola_Cerro Catedral-cropped
+andicola_Chapelco-cropped
+andicola_Curacautín-cropped
+andicola_Qda. Macul-cropped
+andicola_Río Clarillo_1
+andicola_Rio Clarillo_2
+andicola_SM de Los Andes-cropped
+andicola_Sn Martín de Los Andes_3
+andicola_Sn Martín de Los Andes_4
+angusta_Montevideo 1-cropped
+angusta_Montevideo 2-cropped
+angusta_Sierra Ventana_1-cropped
+angusta_Sierra Ventana 2-cropped
+angusta_Tandil-cropped
+angusta_Tres Arroyos-cropped
+antilope_Bajada del Agrio Neuquén_4
+antilope_Bajada del Agrio Nquen_3
+antilope_Guaijaina_2
+antilope_Rio Tecka Chubut_1
+appendiculata_Sutton NSW Austra-cropped
+arauca_Canto Del Agua_1
+arauca__Canto del Agua_2
+arauca_Canto del Agua_3
+arauca_Lago Maquehue-cropped
+arauca_Pta. Teatinos L. Serena-cropped
+arauca_Sto Domingo_4
+arica_Calama_1
+arica_Calama_2
+arica_Calama_3
+bejeranoi_San Juan_1
+bejeranoi_San Juan_2
+bejeranoi_San Juan_3
+bejeranoi_San Juan_4
+bonariensis_Campo Quijaro-cropped
+bonariensis_Chosmalal Nq-cropped
+bonariensis_Conhello-cropped
+bonariensis_La Toma-cropped
+bruchi_Cuesta del Obispo-cropped
+bruchi_Huanuco-cropped
+bruchi_ Huma Huaca_1-cropped
+bruchi_ Huma Huaca_2-cropped
+bruchii_Punitaqui_2
+bruchii_Punitaqui_3
+bruchii_Toconao_1
+bruchi_ Las Placetas-cropped
+bruchi_Mayinte A Pampa-cropped
+bruchi_Mayinte A Pampa Jujuy-cropped
+bulbiscapens_Cumbres La Paz-cropped
+bulbula _Camiña_2
+bulbula_Mamiña_1
+bulbula_Mamiña_3
+canipilis_Catan Lil Nquen_1
+canipilis_Catan Li Neu_4
+canipilis_Catan Li Neu_5
+canipilis_Catan Li Neuq_2
+canipilis_Catan Li Nquen_3
+caprii_Niquiril_1-cropped
+chilensis_Bariloche-cropped
+chilensis_Cerro Catedral-cropped
+chilensis_Kilka Nq-cropped
+chilensis_Lago Lacar-cropped
+chilensis_Lago Mascardi-cropped
+chilensis_Rio Clarillo_2
+chilensis_Rio Clarillo_3
+chilensis_Rio Clarillo_4
+chilensis_SM de los Andes_2-cropped
+chilensis_SM de los Andes_3-cropped
+chilensis_SM de Los Andes-cropped
+chilensis_Techos Chapelco-cropped
+chilensis_Valle de las moscas_1-cropped
+chilensis_Valle de las Moscas_3-cropped
+chillan_Lgna del Diamante Mdza_1
+chillan_Lgna del Diamante Mndza_3
+chillan_Lgna del Diamante Mndza_4
+chillan_Lgna del Diamante Mnza_2
+chubutensis_ C. Costa-cropped
+chubutensis_C. Costa Genoa-cropped
+chubutensis_ Est. Shamian-cropped
+chubutensis_Río Gallegos-cropped
+chubutensis_Tierra del Fuego_1
+chubutensis_Tierra del Fuego_2
+chubutensis_Varvarco Nquen_3
+colla_Mina Piquitas_2-cropped
+coquimbo_El Naranjo_1
+coquimbo_El Naranjo_2
+coquimbo_El Naranjo_3
+coquimbo_Río Seco_1-cropped
+coquimbo_Río Seco_2-cropped
+cumelafquen_Lago Fontana-cropped
+delpontei sepiapes_Termas de Chillan_3
+diaguita_Huaca Huasi_1-cropped
+diaguita_Huaca Huasi_2-cropped
+dixoni_Australia Three Springs_1
+dixoni_Australia Three Springs_2
+elquiensis_Elqui_1
+erynnis_Lago Pelegrin_1
+erynnis_Lago Pelegrin_2
+erynnis_Lago Pelegrin_3
+fairchildi_Tincopalea Puno Peru-cropped
+fornesi _Campo Quijano_1
+fornesi_Campo Quijano_2
+fornesi_Campo Quijano_3
+fornesi_Campo Quijaro_1-cropped
+fornesi_Campo Quijaro_2-cropped
+fornesi_Chosmalal-cropped
+fornesi_Peña Boya-cropped
+frequens_Limbani-cropped
+gentilis_Australia Australian Territory_1
+gentilis_Australia Mongarlowe_2
+gregaria_Gibba Swep NSW Aust-cropped
+hepperi_Col. Mackinlay-cropped
+hirsuta_Putre_1
+hirsuta_Putre_2
+inata_Belén Arica-cropped
+inata_Inata Puno Peru-cropped
+kroeberi_Los Carpitos-cropped
+kroeberi_Peine_2
+kroeberi_Toconce_1
+listadoSpArchivos.txt
+mendozana_Salta_1
+mendozana_Salta_3
+mendozana_Salta_4
+minor_Bs Aires_5
+minor_Lago Pelegrin_1
+minor_Lago Pelegrin_2
+minor_Lago Pelegrin_3
+minor_Lgo Pelegrin_4
+missionum_Abra del Hinojo Bs Aires_1
+missionum_Bs Aires Abra de la Ventana_2
+missionum_Bs Aires Abra de la Ventana_3
+neobasis_Australia Mongarlowe_1
+nigra_Tilama_2
+nigrifrons_El Granizo_1
+nigrifrons_El Granizo_2
+nigrifrons_Rio Clarillo_3
+opaca_Chapelco_2-cropped
+opaca_Collón Curo-cropped
+opaca_Termas de Chillan_2
+ornatissima_Uruguau-cropped
+pallipes_Cuesta Obispo Salta_1
+pallipes_Cuesta Obispo Salta_2
+pallipes_Cuesta Obispo Salta_3
+pallipes_El Manchado_1-cropped
+pallipes_El Manchado_2-cropped
+penai_Belén Arica-cropped
+penai_Chapiquiña_1-cropped
+penai_Chapiquiña_2-cropped
+pereirai dureti_Pucará PN Lanín-cropped
+pereirai dureti_Puyehue-cropped
+pereirai _Lago Aluminé Nquen_1
+pereirai_Lago Aluminé Nquen_3
+pereirai_Lago Aluminé Salta_2
+pereirai pereirai_V. Huemules_2-cropped
+pereirai pereira_V. Huemules_1-cropped
+persignata_Col. Mackinlay-cropped
+persignata Cuesta El Obispo Salta_2
+persignata_Termas Palguin_1
+poroma_macho Lago Chungará_1
+pruinivitta_Chapelco-cropped
+pruinivitta_Punitaqui_2
+pruinivitta_SM de Los Andes_1-cropped
+pruinivitta_SM de Los Andes_2-cropped
+pruinivitta_Valle Nevado_3
+pruinivitta_Villarrica_1
+rubricallosa_Neumoea Australia-cropped
+senilis_Las Docas_2
+senilis_Las Docas_3
+senilis_Las Docas_4
+senilis_Pucatrihue_1
+subtrita_El Manchado_1-cropped
+subtrita_El Manchado_2-cropped
+subtrita_El Manchado_3-cropped
+subtrita_Huaca huasi Tuc_1
+subtrita_Huaca huasi Tuc_2
+subtrita_Huaca huasi Tuc_3
+testaceomaculata_Chiloé_4
+testaceomaculata_ Dalcahue_1
+testaceomaculata_Valdivia_2
+testaceomaculata_Valdivia_3
+trigonophora_Iguazu-cropped
+trita_Bahia Azul Est Las Vegas_4
+tritaBahia Azul Est Las Vegas_4
+trita_Laguna Amarga_1
+trita_Magallanes Puerto_2
+trita_Seno Ottway_5
+vasta_Ariquilda_1
+vasta_Ariquilda_2
+vasta_Miraflores-cropped
+vasta_Rinconada_1-cropped
+vasta_Rinconada_2-cropped
