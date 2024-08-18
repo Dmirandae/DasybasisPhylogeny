@@ -30,5 +30,5 @@ LM=30
 1339.24775276232 497.467442053668
 1329.18752180776 507.527673008225
 SCALE=4.77537770688506
-ID=Tabanidae_Dasybasis rubricallosa_Neumoea Australia-cropped.jpg
+ID=rubricallosa_Neumoea Australia-cropped.jpg
 

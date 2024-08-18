@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.48615571245299
-ID=Tabanidae_Dasybasis pruinivitta_Valle Nevado_3.jpg
+ID=pruinivitta_Valle Nevado_3.jpg
 

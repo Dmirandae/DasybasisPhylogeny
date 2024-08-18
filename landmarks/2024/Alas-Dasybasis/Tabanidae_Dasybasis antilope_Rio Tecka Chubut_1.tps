@@ -30,5 +30,5 @@ LM=30
 342.76621253406 489.399455040872
 356.717166212534 497.770027247957
 SCALE=5.27056525735294
-ID=Tabanidae_Dasybasis antilope_Rio Tecka Chubut_1.jpg
+ID=antilope_Rio Tecka Chubut_1.jpg
 

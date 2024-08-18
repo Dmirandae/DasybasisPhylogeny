@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.9392370997877
-ID=Tabanidae_Dasybasis andicola_SM de Los Andes.jpg
+ID=andicola_SM de Los Andes.jpg
 

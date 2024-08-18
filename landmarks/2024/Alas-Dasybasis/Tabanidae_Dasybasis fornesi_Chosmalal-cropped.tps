@@ -30,5 +30,5 @@ LM=30
 1197.57137546468 397.623048327137
 1184.65687732342 404.08029739777
 SCALE=4.14551887212391
-ID=Tabanidae_Dasybasis fornesi_Chosmalal-cropped.jpg
+ID=fornesi_Chosmalal-cropped.jpg
 

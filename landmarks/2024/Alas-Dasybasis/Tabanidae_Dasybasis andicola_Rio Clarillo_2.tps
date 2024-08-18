@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=3.44613882211539
-ID=Tabanidae_Dasybasis andicola_Rio Clarillo_2.jpg
+ID=andicola_Rio Clarillo_2.jpg
 

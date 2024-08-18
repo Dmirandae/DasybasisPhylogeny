@@ -1,0 +1,3 @@
+readtps function read the tps and in case od scale it scales the results
+readtps function is not creating a s3 output
+readtps function is not creating a s3 output, it crate an array

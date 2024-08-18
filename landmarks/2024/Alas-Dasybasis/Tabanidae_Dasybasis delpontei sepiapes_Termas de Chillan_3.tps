@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.73640950520833
-ID=Tabanidae_Dasybasis delpontei sepiapes_Termas de Chillan_3.jpg
+ID=delpontei sepiapes_Termas de Chillan_3.jpg
 

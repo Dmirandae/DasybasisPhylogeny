@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.64025623300329
-ID=Tabanidae_Dasybasis chilensis_Lago Lacar-cropped.jpg
+ID=chilensis_Lago Lacar-cropped.jpg
 

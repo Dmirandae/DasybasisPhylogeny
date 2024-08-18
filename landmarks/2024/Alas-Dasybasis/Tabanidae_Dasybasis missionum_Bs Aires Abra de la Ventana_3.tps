@@ -30,5 +30,5 @@ LM=30
 762.218587360595 866.402973977695
 796.478810408922 889.24312267658
 SCALE=2.89323247920605
-ID=Tabanidae_Dasybasis missionum_Bs Aires Abra de la Ventana_3.jpg
+ID=missionum_Bs Aires Abra de la Ventana_3.jpg
 

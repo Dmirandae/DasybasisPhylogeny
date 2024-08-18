@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.59650041515701
-ID=Tabanidae_Dasybasis pruinivitta_Villarrica_1.jpg
+ID=pruinivitta_Villarrica_1.jpg
 

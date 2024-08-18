@@ -30,5 +30,5 @@ LM=30
 1436.79582936488 421.601082761041
 1421.36648453557 426.744197704146
 SCALE=4.85480273106093
-ID=Tabanidae_Dasybasis bruchi_Huanuco-cropped.jpg
+ID=bruchi_Huanuco-cropped.jpg
 

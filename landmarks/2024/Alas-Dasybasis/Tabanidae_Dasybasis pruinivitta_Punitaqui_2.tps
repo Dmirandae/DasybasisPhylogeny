@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.98597547743055
-ID=Tabanidae_Dasybasis pruinivitta_Punitaqui_2.jpg
+ID=pruinivitta_Punitaqui_2.jpg
 

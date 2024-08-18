@@ -30,5 +30,5 @@ LM=30
 1752.91003717472 900.663197026022
 1730.06988847584 912.083271375465
 SCALE=2.73640950520835
-ID=Tabanidae_Dasybasis dixoni_Australia Three Springs_2.jpg
+ID=dixoni_Australia Three Springs_2.jpg
 

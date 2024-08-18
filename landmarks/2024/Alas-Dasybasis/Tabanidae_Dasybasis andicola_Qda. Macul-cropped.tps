@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.3262510159062
-ID=Tabanidae_Dasybasis andicola_Qda. Macul-cropped.jpg
+ID=andicola_Qda. Macul-cropped.jpg
 

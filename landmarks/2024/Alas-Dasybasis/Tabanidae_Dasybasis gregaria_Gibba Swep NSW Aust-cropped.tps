@@ -30,5 +30,5 @@ LM=30
 1219.35892193309 387.236617100372
 1170.58661710037 405.816542750929
 SCALE=4.48512738428704
-ID=Tabanidae_Dasybasis gregaria_Gibba Swep NSW Aust-cropped.jpg
+ID=gregaria_Gibba Swep NSW Aust-cropped.jpg
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.73108056245826
-ID=Tabanidae_Dasybasis chilensis_Rio Clarillo_3.jpg
+ID=chilensis_Rio Clarillo_3.jpg
 

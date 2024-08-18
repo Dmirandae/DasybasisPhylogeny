@@ -30,5 +30,5 @@ LM=30
 339.457220708447 397.270844686649
 366.792370572207 410.938419618529
 SCALE=4.76718340592245
-ID=Tabanidae_Dasybasis appendiculata_Sutton NSW Austra-cropped.jpg
+ID=appendiculata_Sutton NSW Austra-cropped.jpg
 

@@ -30,5 +30,5 @@ LM=30
 1921.356133829 912.083271375465
 1881.38587360595 940.633457249071
 SCALE=2.73108056245826
-ID=Tabanidae_Dasybasis chubutensis_Tierra del Fuego_1.jpg
+ID=chubutensis_Tierra del Fuego_1.jpg
 

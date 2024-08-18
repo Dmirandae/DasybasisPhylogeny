@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.73640950520833
-ID=Tabanidae_Dasybasis nigrifrons_El Granizo_1.jpg
+ID=nigrifrons_El Granizo_1.jpg
 

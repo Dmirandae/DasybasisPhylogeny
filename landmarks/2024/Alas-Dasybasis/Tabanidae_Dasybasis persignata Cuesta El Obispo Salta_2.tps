@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.84378616898147
-ID=Tabanidae_Dasybasis persignata Cuesta El Obispo Salta_2.jpg
+ID=persignata Cuesta El Obispo Salta_2.jpg
 

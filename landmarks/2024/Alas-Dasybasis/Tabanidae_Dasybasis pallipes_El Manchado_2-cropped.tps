@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.62048128833461
-ID=Tabanidae_Dasybasis pallipes_El Manchado_2-cropped.jpg
+ID=pallipes_El Manchado_2-cropped.jpg
 

@@ -30,5 +30,5 @@ LM=30
 1255.10232342007 431.864126394052
 1234.381133829 449.995167286245
 SCALE=4.38725250350654
-ID=Tabanidae_Dasybasis chubutensis_ C. Costa-cropped.jpg
+ID=chubutensis_ C. Costa-cropped.jpg
 

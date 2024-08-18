@@ -30,5 +30,5 @@ LM=30
 1077.73382899628 493.15687732342
 1046.32862453532 513.142007434944
 SCALE=6.23875535375902
-ID=Tabanidae_Dasybasis canipilis_Catan Li Nquen_3.jpg
+ID=canipilis_Catan Li Nquen_3.jpg
 

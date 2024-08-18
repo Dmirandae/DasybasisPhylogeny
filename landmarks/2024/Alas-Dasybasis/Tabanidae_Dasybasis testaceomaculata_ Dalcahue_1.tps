@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.91883680555556
-ID=Tabanidae_Dasybasis testaceomaculata_ Dalcahue_1.jpg
+ID=testaceomaculata_ Dalcahue_1.jpg
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=3.12586199430979
-ID=Tabanidae_Dasybasis senilis_Las Docas_2.jpg
+ID=senilis_Las Docas_2.jpg
 

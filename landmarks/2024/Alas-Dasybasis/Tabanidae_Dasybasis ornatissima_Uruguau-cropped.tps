@@ -30,5 +30,5 @@ LM=30
 1157.1031598513 345.460966542751
 1142.85594795539 351.566914498141
 SCALE=4.69313318843228
-ID=Tabanidae_Dasybasis ornatissima_Uruguau-cropped.jpg
+ID=ornatissima_Uruguau-cropped.jpg
 

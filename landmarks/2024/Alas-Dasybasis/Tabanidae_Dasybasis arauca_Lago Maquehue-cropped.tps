@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.96482683982684
-ID=Tabanidae_Dasybasis arauca_Lago Maquehue-cropped.jpg
+ID=arauca_Lago Maquehue-cropped.jpg
 

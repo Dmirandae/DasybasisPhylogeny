@@ -30,5 +30,5 @@ LM=30
 1042.04609665428 601.647583643123
 1030.62602230483 610.212639405205
 SCALE=5.14199996905778
-ID=Tabanidae_Dasybasis erynnis_Lago Pelegrin_3.jpg
+ID=erynnis_Lago Pelegrin_3.jpg
 

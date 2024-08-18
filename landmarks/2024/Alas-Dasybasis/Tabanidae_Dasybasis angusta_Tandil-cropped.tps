@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.20975364677171
-ID=Tabanidae_Dasybasis angusta_Tandil-cropped.jpg
+ID=angusta_Tandil-cropped.jpg
 

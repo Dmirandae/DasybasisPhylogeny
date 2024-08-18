@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.06902513712704
-ID=Tabanidae_Dasybasis chilensis_Bariloche-cropped.jpg
+ID=chilensis_Bariloche-cropped.jpg
 

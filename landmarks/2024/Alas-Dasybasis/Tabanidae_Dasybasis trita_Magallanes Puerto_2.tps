@@ -30,5 +30,5 @@ NA NA
 1915.64609665427 1077.67434944238
 1904.22602230483 1106.22453531599
 SCALE=3.12732514880953
-ID=Tabanidae_Dasybasis trita_Magallanes Puerto_2.jpg
+ID=trita_Magallanes Puerto_2.jpg
 

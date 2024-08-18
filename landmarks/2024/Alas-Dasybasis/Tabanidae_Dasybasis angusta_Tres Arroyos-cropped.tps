@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.75980461895954
-ID=Tabanidae_Dasybasis angusta_Tres Arroyos-cropped.jpg
+ID=angusta_Tres Arroyos-cropped.jpg
 

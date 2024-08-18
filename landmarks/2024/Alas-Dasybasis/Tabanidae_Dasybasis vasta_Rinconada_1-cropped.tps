@@ -30,5 +30,5 @@ LM=30
 1370.74526022305 420.545724907063
 1319.50548327138 449.012267657992
 SCALE=4.3856411876941
-ID=Tabanidae_Dasybasis vasta_Rinconada_1-cropped.jpg
+ID=vasta_Rinconada_1-cropped.jpg
 

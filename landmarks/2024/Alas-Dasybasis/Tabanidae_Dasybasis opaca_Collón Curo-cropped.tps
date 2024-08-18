@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.52280848100244
-ID=Tabanidae_Dasybasis opaca_Collón Curo-cropped.jpg
+ID=opaca_Collón Curo-cropped.jpg
 

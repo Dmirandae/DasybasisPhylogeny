@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.30434484649123
-ID=Tabanidae_Dasybasis testaceomaculata_Valdivia_2.jpg
+ID=testaceomaculata_Valdivia_2.jpg
 

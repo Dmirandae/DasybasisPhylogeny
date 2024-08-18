@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=6.25465029761904
-ID=Tabanidae_Dasybasis pallipes_Cuesta Obispo Salta_1.jpg
+ID=pallipes_Cuesta Obispo Salta_1.jpg
 

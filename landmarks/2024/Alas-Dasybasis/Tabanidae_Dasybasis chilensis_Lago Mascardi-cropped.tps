@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.34732235034973
-ID=Tabanidae_Dasybasis chilensis_Lago Mascardi-cropped.jpg
+ID=chilensis_Lago Mascardi-cropped.jpg
 

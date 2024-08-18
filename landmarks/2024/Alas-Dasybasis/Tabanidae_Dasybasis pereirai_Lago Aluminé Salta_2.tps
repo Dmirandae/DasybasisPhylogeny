@@ -30,5 +30,5 @@ NA NA
 NA NA
 NA NA
 SCALE=7.9626012731482
-ID=Tabanidae_Dasybasis pereirai_Lago Aluminé Salta_2.jpg
+ID=pereirai_Lago Aluminé Salta_2.jpg
 

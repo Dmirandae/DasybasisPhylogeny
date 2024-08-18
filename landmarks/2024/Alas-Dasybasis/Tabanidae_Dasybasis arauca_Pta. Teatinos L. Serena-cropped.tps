@@ -30,5 +30,5 @@ LM=30
 1251.41753512006 397.277936634453
 1160.37155524559 421.704906844675
 SCALE=4.49962089090364
-ID=Tabanidae_Dasybasis arauca_Pta. Teatinos L. Serena-cropped.jpg
+ID=arauca_Pta. Teatinos L. Serena-cropped.jpg
 

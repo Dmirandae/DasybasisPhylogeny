@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.34461862470444
-ID=Tabanidae_Dasybasis cumelafquen_Lago Fontana-cropped.jpg
+ID=cumelafquen_Lago Fontana-cropped.jpg
 

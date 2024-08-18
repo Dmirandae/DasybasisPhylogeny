@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.48333333333333
-ID=Tabanidae_Dasybasis diaguita_Huaca Huasi_2-cropped.jpg
+ID=diaguita_Huaca Huasi_2-cropped.jpg
 

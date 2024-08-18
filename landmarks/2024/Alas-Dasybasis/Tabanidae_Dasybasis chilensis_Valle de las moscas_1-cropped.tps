@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.18705119647896
-ID=Tabanidae_Dasybasis chilensis_Valle de las moscas_1-cropped.jpg
+ID=chilensis_Valle de las moscas_1-cropped.jpg
 

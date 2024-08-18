@@ -30,5 +30,5 @@ LM=30
 409.730790190736 450.336784741144
 426.471934604905 455.917166212534
 SCALE=6.39997209821428
-ID=Tabanidae_Dasybasis alticola_Angastaco Salta_2.jpg
+ID=alticola_Angastaco Salta_2.jpg
 

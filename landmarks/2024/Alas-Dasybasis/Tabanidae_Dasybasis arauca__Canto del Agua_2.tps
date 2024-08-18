@@ -30,5 +30,5 @@ LM=30
 2035.98474114441 1168.53188010899
 1913.21634877384 1202.01416893733
 SCALE=2.98665364583334
-ID=Tabanidae_Dasybasis arauca__Canto del Agua_2.jpg
+ID=arauca__Canto del Agua_2.jpg
 

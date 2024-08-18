@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.79492236018909
-ID=Tabanidae_Dasybasis angusta_Montevideo 2-cropped.jpg
+ID=angusta_Montevideo 2-cropped.jpg
 

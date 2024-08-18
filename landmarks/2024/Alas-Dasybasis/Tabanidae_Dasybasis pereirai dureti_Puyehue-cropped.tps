@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.83497610513739
-ID=Tabanidae_Dasybasis pereirai dureti_Puyehue-cropped.jpg
+ID=pereirai dureti_Puyehue-cropped.jpg
 

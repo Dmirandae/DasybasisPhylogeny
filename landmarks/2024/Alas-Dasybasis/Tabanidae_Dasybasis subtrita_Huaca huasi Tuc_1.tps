@@ -30,5 +30,5 @@ LM=30
 1881.38587360595 917.793308550186
 1852.83568773234 946.343494423792
 SCALE=2.73640950520834
-ID=Tabanidae_Dasybasis subtrita_Huaca huasi Tuc_1.jpg
+ID=subtrita_Huaca huasi Tuc_1.jpg
 

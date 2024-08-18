@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.74454442031235
-ID=Tabanidae_Dasybasis andicola_Curacautín-cropped.jpg
+ID=andicola_Curacautín-cropped.jpg
 

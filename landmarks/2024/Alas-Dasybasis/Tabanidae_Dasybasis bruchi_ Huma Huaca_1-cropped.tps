@@ -30,5 +30,5 @@ LM=30
 1337.64302973978 433.280855018587
 1332.50734200743 440.9843866171
 SCALE=4.42536110288554
-ID=Tabanidae_Dasybasis bruchi_ Huma Huaca_1-cropped.jpg
+ID=bruchi_ Huma Huaca_1-cropped.jpg
 

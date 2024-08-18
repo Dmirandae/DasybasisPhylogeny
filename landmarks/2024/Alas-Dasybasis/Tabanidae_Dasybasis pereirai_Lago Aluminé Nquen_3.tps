@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=7.01370070128921
-ID=Tabanidae_Dasybasis pereirai_Lago Aluminé Nquen_3.jpg
+ID=pereirai_Lago Aluminé Nquen_3.jpg
 

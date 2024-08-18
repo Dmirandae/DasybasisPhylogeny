@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.73108056245825
-ID=Tabanidae_Dasybasis missionum_Bs Aires Abra de la Ventana_2.jpg
+ID=missionum_Bs Aires Abra de la Ventana_2.jpg
 

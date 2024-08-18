@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.91883680555555
-ID=Tabanidae_Dasybasis testaceomaculata_Chiloé_4.jpg
+ID=testaceomaculata_Chiloé_4.jpg
 

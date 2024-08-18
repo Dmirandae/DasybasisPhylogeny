@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.01947458834455
-ID=Tabanidae_Dasybasis inata_Inata Puno Peru-cropped.jpg
+ID=inata_Inata Puno Peru-cropped.jpg
 

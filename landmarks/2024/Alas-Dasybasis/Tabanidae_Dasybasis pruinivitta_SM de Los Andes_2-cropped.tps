@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.68432983084632
-ID=Tabanidae_Dasybasis pruinivitta_SM de Los Andes_2-cropped.jpg
+ID=pruinivitta_SM de Los Andes_2-cropped.jpg
 

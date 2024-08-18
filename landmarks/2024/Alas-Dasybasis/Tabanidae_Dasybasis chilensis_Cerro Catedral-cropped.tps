@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.50244882298508
-ID=Tabanidae_Dasybasis chilensis_Cerro Catedral-cropped.jpg
+ID=chilensis_Cerro Catedral-cropped.jpg
 

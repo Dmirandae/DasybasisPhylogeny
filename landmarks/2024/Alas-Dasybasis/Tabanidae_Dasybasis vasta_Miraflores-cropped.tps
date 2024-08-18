@@ -30,5 +30,5 @@ LM=30
 430.572676579926 383.912267657993
 465.295724907063 402.609293680297
 SCALE=4.89913135618537
-ID=Tabanidae_Dasybasis vasta_Miraflores-cropped.jpg
+ID=vasta_Miraflores-cropped.jpg
 

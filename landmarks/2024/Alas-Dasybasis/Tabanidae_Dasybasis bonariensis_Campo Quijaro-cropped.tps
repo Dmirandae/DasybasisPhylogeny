@@ -30,5 +30,5 @@ LM=30
 1589.96942379182 417.054646840149
 1564.90157992565 436.551858736059
 SCALE=4.72402226788192
-ID=Tabanidae_Dasybasis bonariensis_Campo Quijaro-cropped.jpg
+ID=bonariensis_Campo Quijaro-cropped.jpg
 

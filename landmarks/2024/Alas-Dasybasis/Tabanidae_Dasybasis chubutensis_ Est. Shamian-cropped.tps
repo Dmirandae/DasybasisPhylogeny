@@ -30,5 +30,5 @@ LM=30
 1282.78336431227 413.823605947955
 1257.6625464684 443.968587360595
 SCALE=4.52359331382639
-ID=Tabanidae_Dasybasis chubutensis_ Est. Shamian-cropped.jpg
+ID=chubutensis_ Est. Shamian-cropped.jpg
 

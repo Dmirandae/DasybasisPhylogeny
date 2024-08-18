@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.73640950520833
-ID=Tabanidae_Dasybasis bruchii_Punitaqui_3.jpg
+ID=bruchii_Punitaqui_3.jpg
 

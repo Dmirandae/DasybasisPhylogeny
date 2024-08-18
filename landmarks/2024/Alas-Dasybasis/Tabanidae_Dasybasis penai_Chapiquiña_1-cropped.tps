@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.50388660265203
-ID=Tabanidae_Dasybasis penai_Chapiquiña_1-cropped.jpg
+ID=penai_Chapiquiña_1-cropped.jpg
 

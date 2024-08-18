@@ -30,5 +30,5 @@ LM=30
 1089.7868364329 358.889809012983
 1055.6555015289 368.370735375207
 SCALE=4.63537611641219
-ID=Tabanidae_Dasybasis bonariensis_La Toma-cropped.jpg
+ID=bonariensis_La Toma-cropped.jpg
 

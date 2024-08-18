@@ -30,5 +30,5 @@ LM=30
 331.605449591281 550.783651226158
 348.34659400545 564.734604904632
 SCALE=5.58907007298614
-ID=Tabanidae_Dasybasis antilope_Bajada del Agrio Nquen_3.jpg
+ID=antilope_Bajada del Agrio Nquen_3.jpg
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.57544424019608
-ID=Tabanidae_Dasybasis opaca_Termas de Chillan_2.jpg
+ID=opaca_Termas de Chillan_2.jpg
 

@@ -30,5 +30,5 @@ LM=30
 967.8156133829 661.602973977695
 942.120446096654 684.44312267658
 SCALE=4.85723804637326
-ID=Tabanidae_Dasybasis fornesi_Campo Quijano_3.jpg
+ID=fornesi_Campo Quijano_3.jpg
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.44067408683768
-ID=Tabanidae_Dasybasis coquimbo_Río Seco_2-cropped.jpg
+ID=coquimbo_Río Seco_2-cropped.jpg
 

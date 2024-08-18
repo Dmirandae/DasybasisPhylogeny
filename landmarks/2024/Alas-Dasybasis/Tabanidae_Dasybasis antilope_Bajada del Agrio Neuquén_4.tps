@@ -30,5 +30,5 @@ LM=30
 2142.01198910082 1179.69264305177
 2119.69046321526 1196.43378746594
 SCALE=2.63528262867646
-ID=Tabanidae_Dasybasis antilope_Bajada del Agrio Neuquén_4.jpg
+ID=antilope_Bajada del Agrio Neuquén_4.jpg
 

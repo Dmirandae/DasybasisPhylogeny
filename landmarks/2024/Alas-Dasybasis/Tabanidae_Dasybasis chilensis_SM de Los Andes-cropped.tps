@@ -30,5 +30,5 @@ LM=30
 1123.55483271375 309.836431226766
 1099.29832713755 319.539033457249
 SCALE=4.67994666173059
-ID=Tabanidae_Dasybasis chilensis_SM de Los Andes-cropped.jpg
+ID=chilensis_SM de Los Andes-cropped.jpg
 
