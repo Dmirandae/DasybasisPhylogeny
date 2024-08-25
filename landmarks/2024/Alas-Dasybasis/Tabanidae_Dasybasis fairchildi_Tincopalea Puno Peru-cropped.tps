@@ -30,5 +30,5 @@ LM=30
 1210.84089219331 315.710408921933
 1195.67639405204 326.54219330855
 SCALE=4.80421129454175
-ID=fairchildi_Tincopalea Puno Peru-cropped.jpg
+ID=fairchildi_Tincopalea Puno Peru-cropped
 

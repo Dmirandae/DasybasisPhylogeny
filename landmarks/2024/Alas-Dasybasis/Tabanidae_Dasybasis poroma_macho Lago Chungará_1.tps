@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.98597547743055
-ID=poroma_macho Lago Chungará_1.jpg
+ID=poroma_macho Lago Chungará_1
 

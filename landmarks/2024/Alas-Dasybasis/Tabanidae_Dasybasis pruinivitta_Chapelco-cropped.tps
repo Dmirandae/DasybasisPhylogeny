@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.16928150883493
-ID=pruinivitta_Chapelco-cropped.jpg
+ID=pruinivitta_Chapelco-cropped
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.30341359595546
-ID=chilensis_SM de los Andes_2-cropped.jpg
+ID=chilensis_SM de los Andes_2-cropped
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.93088155420125
-ID=penai_Chapiquiña_2-cropped.jpg
+ID=penai_Chapiquiña_2-cropped
 

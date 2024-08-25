@@ -30,5 +30,5 @@ LM=30
 2072.67211895911 917.793308550186
 2021.28178438662 946.343494423792
 SCALE=2.57544424019608
-ID=gentilis_Australia Australian Territory_1.jpg
+ID=gentilis_Australia Australian Territory_1
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.43236400462963
-ID=chillan_Lgna del Diamante Mndza_3.jpg
+ID=chillan_Lgna del Diamante Mndza_3
 

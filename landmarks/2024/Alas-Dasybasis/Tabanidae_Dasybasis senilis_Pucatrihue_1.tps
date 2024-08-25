@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=3.12732514880953
-ID=senilis_Pucatrihue_1.jpg
+ID=senilis_Pucatrihue_1
 

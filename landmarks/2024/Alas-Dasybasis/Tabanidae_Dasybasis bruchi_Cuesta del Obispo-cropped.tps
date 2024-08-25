@@ -30,5 +30,5 @@ LM=30
 1340.42592936803 366.969702602231
 1320.41849442379 379.474349442379
 SCALE=4.76013519491782
-ID=bruchi_Cuesta del Obispo-cropped.jpg
+ID=bruchi_Cuesta del Obispo-cropped
 

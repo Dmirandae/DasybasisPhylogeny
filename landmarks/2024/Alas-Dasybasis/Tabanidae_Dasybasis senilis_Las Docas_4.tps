@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.57099998452889
-ID=senilis_Las Docas_4.jpg
+ID=senilis_Las Docas_4
 

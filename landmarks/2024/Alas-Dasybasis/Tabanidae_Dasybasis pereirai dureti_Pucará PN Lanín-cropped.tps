@@ -30,5 +30,5 @@ NA NA
 NA NA
 NA NA
 SCALE=4.70268791998751
-ID=pereirai dureti_Pucará PN Lanín-cropped.jpg
+ID=pereirai dureti_Pucará PN Lanín-cropped
 

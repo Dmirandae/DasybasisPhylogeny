@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=6.06914926271242
-ID=angusta_Sierra Ventana_1-cropped.jpg
+ID=angusta_Sierra Ventana_1-cropped
 

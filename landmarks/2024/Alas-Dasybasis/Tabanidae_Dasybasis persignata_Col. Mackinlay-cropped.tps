@@ -30,5 +30,5 @@ NA NA
 NA NA
 NA NA
 SCALE=4.63630916837077
-ID=persignata_Col. Mackinlay-cropped.jpg
+ID=persignata_Col. Mackinlay-cropped
 

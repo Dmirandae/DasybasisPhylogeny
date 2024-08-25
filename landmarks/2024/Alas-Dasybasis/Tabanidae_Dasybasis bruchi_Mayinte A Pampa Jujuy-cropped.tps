@@ -30,5 +30,5 @@ LM=30
 1409.15408921933 374.044981412639
 1401.6094795539 379.074721189591
 SCALE=4.96423464815484
-ID=bruchi_Mayinte A Pampa Jujuy-cropped.jpg
+ID=bruchi_Mayinte A Pampa Jujuy-cropped
 

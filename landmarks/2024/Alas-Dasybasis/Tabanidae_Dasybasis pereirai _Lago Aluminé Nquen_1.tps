@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=7.94496536827741
-ID=pereirai _Lago Aluminé Nquen_1.jpg
+ID=pereirai _Lago Aluminé Nquen_1
 

@@ -30,5 +30,5 @@ LM=30
 1165.69479553903 333.417100371747
 1149.1 347.937546468401
 SCALE=4.78644927514305
-ID=subtrita_El Manchado_1-cropped.jpg
+ID=subtrita_El Manchado_1-cropped
 

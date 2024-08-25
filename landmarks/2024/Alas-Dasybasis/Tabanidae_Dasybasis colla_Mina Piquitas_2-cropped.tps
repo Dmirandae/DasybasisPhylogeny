@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.22301948977561
-ID=colla_Mina Piquitas_2-cropped.jpg
+ID=colla_Mina Piquitas_2-cropped
 

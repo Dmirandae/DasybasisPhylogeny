@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.46814652193357
-ID=opaca_Chapelco_2-cropped.jpg
+ID=opaca_Chapelco_2-cropped
 

@@ -30,5 +30,5 @@ LM=30
 1150.9782527881 379.502602230483
 1130.14553903346 395.127137546468
 SCALE=4.57156452873798
-ID=chubutensis_Río Gallegos-cropped.jpg
+ID=chubutensis_Río Gallegos-cropped
 

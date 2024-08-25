@@ -30,5 +30,5 @@ NA NA
 NA NA
 NA NA
 SCALE=5.50071355328889
-ID=pallipes_El Manchado_1-cropped.jpg
+ID=pallipes_El Manchado_1-cropped
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.10468035400898
-ID=caprii_Niquiril_1-cropped.jpg
+ID=caprii_Niquiril_1-cropped
 

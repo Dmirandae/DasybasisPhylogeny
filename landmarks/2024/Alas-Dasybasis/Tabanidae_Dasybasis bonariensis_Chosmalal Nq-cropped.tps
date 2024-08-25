@@ -30,5 +30,5 @@ LM=30
 1290.09135687732 340.089591078067
 1259.75399628253 361.092379182156
 SCALE=4.46369308376477
-ID=bonariensis_Chosmalal Nq-cropped.jpg
+ID=bonariensis_Chosmalal Nq-cropped
 

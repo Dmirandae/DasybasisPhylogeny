@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.66821795617608
-ID=penai_Belén Arica-cropped.jpg
+ID=penai_Belén Arica-cropped
 

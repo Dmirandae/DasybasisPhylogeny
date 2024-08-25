@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.79998779296875
-ID=andicola_Río Clarillo_1.jpg
+ID=andicola_Río Clarillo_1
 

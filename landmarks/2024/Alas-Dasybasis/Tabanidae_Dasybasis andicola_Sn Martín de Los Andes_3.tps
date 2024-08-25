@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=3.72042127762726
-ID=andicola_Sn Martín de Los Andes_3.jpg
+ID=andicola_Sn Martín de Los Andes_3
 

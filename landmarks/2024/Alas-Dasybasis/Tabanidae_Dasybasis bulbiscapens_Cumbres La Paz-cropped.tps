@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.40449291024005
-ID=bulbiscapens_Cumbres La Paz-cropped.jpg
+ID=bulbiscapens_Cumbres La Paz-cropped
 

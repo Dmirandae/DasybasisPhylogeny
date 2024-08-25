@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.20667401469265
-ID=chilensis_Techos Chapelco-cropped.jpg
+ID=chilensis_Techos Chapelco-cropped
 

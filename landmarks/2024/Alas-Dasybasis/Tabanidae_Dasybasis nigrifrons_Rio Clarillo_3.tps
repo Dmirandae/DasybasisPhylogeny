@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.57544424019608
-ID=nigrifrons_Rio Clarillo_3.jpg
+ID=nigrifrons_Rio Clarillo_3
 

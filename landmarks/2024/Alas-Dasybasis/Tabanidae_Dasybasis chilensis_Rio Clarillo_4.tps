@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.73640950520832
-ID=chilensis_Rio Clarillo_4.jpg
+ID=chilensis_Rio Clarillo_4
 

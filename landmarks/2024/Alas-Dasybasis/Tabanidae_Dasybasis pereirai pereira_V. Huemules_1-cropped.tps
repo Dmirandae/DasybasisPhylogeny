@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=5.04558574695451
-ID=pereirai pereira_V. Huemules_1-cropped.jpg
+ID=pereirai pereira_V. Huemules_1-cropped
 

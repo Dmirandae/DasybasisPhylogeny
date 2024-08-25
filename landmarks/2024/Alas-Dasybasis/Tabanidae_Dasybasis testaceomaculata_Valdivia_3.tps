@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.57544424019608
-ID=testaceomaculata_Valdivia_3.jpg
+ID=testaceomaculata_Valdivia_3
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.20361821515777
-ID=chilensis_Kilka Nq-cropped.jpg
+ID=chilensis_Kilka Nq-cropped
 

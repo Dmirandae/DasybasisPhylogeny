@@ -30,5 +30,5 @@ LM=30
 1400.9123605948 417.338847583643
 1345.69953531599 446.259851301115
 SCALE=4.52280848100244
-ID=chubutensis_C. Costa Genoa-cropped.jpg
+ID=chubutensis_C. Costa Genoa-cropped
 

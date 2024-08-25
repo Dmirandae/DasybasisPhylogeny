@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.89236196049663
-ID=frequens_Limbani-cropped.jpg
+ID=frequens_Limbani-cropped
 

@@ -30,5 +30,5 @@ LM=30
 1127.63494423792 307.771003717472
 1084.80966542751 324.901115241636
 SCALE=5.83767361111111
-ID=chilensis_SM de los Andes_3-cropped.jpg
+ID=chilensis_SM de los Andes_3-cropped
 

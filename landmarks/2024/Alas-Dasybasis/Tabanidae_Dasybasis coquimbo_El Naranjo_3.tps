@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.43236400462962
-ID=coquimbo_El Naranjo_3.jpg
+ID=coquimbo_El Naranjo_3
 

@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=3.14313208150583
-ID=persignata_Termas Palguin_1.jpg
+ID=persignata_Termas Palguin_1
 

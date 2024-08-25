@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.76871101871102
-ID=andicola_Cerro Catedral-cropped.jpg
+ID=andicola_Cerro Catedral-cropped
 

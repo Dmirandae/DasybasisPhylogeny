@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.667008846175
-ID=pruinivitta_SM de Los Andes_1-cropped.jpg
+ID=pruinivitta_SM de Los Andes_1-cropped
 

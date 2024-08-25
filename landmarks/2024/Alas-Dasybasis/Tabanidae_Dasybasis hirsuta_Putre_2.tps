@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.73108056245826
-ID=hirsuta_Putre_2.jpg
+ID=hirsuta_Putre_2
 

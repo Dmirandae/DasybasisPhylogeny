@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=2.42861902318664
-ID=elquiensis_Elqui_1.jpg
+ID=elquiensis_Elqui_1
 

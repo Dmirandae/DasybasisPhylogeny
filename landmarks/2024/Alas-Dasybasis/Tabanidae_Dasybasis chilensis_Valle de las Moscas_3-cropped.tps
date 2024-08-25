@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.0549299808559
-ID=chilensis_Valle de las Moscas_3-cropped.jpg
+ID=chilensis_Valle de las Moscas_3-cropped
 

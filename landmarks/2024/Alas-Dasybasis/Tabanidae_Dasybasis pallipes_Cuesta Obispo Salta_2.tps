@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.60868969298246
-ID=pallipes_Cuesta Obispo Salta_2.jpg
+ID=pallipes_Cuesta Obispo Salta_2
 

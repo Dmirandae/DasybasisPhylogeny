@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.43932414268529
-ID=diaguita_Huaca Huasi_1-cropped.jpg
+ID=diaguita_Huaca Huasi_1-cropped
 

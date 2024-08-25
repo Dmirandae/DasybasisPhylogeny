@@ -30,5 +30,5 @@ LM=30
 NA NA
 NA NA
 SCALE=4.51619711974482
-ID=andicola_Chapelco-cropped.jpg
+ID=andicola_Chapelco-cropped
 
