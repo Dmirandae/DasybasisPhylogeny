@@ -22,9 +22,20 @@ DasybasisLM <- readmulti.tps(
   readcurves = FALSE,specID = "ID")
 # b <- readland.tps(input_file,readcurves = FALSE,specID = "ID")
 
-shortDasybasis <- DasybasisLM[-c(29,30),,]
 
-shortDasybasis[29,,]
+
+getNA <- function (x,y) any(is.na(y[x,,]) )
+
+lM <- c(1:30)
+
+lM
+
+quitar <- which(unlist(lapply(lM,getNA,y=DasybasisLM)))
+
+quitar
+
+shortDasybasis <- DasybasisLM[-c(quitar),,]
+
 
 getTheID <- function(TPSobject) {attr(TPSobject, "dimnames")[[3]]}
 
@@ -47,13 +58,14 @@ getTheID(shortDasybasis)
 #?estimate.missing
 
 DasybasisTPS <- estimate.missing(DasybasisLM,method = "TPS")
+
 DasybasisREG <- estimate.missing(DasybasisLM,method = "Reg")
 
 ### TPS
 
 CamaUnica <- gpagen(DasybasisTPS,Parallel = T)
 
-shortCamaUnica  <- gpagen(DasybasisTPS,Parallel = T)
+shortCamaUnica  <- gpagen(shortDasybasis,Parallel = T)
 
 ##?gm.prcomp
 
@@ -71,37 +83,80 @@ plot(DasybasyisPCA)
 plot(shortDasybasyisPCA)
 
 
+
+tail(shortCamaUnica$coords[1,,],n=2)
+tail(shortCamaUnica$coords[1,1,],n=4)
+
+#"## extraer landmark uno a uno"
+
+a <- data.matrix(shortCamaUnica$coords[2,,])
+
+a
+
+unlist(a)
+
+a <- as.data.frame(unlist(a))
+
+##as.data.frame(a)
+
+length(a)
+
+a2 <- (dist(t(a)))
+
+## sumar las dos matrices de distancia
+
+a1
+a2
+
+a1 + a2
+
+## via suma y con for
+
+xx
+
+#distancia <- dist(shortCamaUnica$coords)
+
+## nop thios is not right
+#d2 <- data.frame(shortDasybasis)
+
+#str(d2)
+
+#length(d2[1,])
+
+#d2[,1]
+                                        #~ print(distancia)
+
+clusterDasybasis <- hclust(distancia)
+
+
+print(clusterDasybasis)
+
+clusDendro <- as.dendrogram(as.hclust(clusterDasybasis))                             
+
+
+par(mfrow = c(1,1))
+
+
+plot(clusDendro,horiz=F,axes=T, ylab= "Height", cex.axis=1.3,cex.lab=1.7)
+
+
 ### Reg
 
-CamaUnica <- gpagen(DasybasisREG,Parallel = T)
+#CamaUnica <- gpagen(DasybasisREG,Parallel = T)
 
 ##?gm.prcomp
 
-DasybasyisPCA <- gm.prcomp(CamaUnica$coords)
+#DasybasyisPCA <- gm.prcomp(CamaUnica$coords)
 
-summary(DasybasyisPCA)
+#summary(DasybasyisPCA)
 
-plot(DasybasyisPCA)
-
-
+#plot(DasybasyisPCA)
 
 
 
 
-dist(DasybasyisPCA$A)
 
 
+#dist(shortDasybasyisPCA$A)
 
-##### coords??? 
-                                        # Extract Procrustes coordinates
-coords <- gpa$coords
 
-                                        # Choose a distance metric
-dist_matrix <- dist(coords, method = "euclidean")  # Replace "euclidean" with your preferred metric
-
-                                        # Perform K-means clustering
-k <- 3  # Choose the number of clusters
-kmeans_result <- kmeans(dist_matrix, centers = k)
-
-                                        # Visualize results (e.g., using plot.kmeans)
-plot(kmeans_result)
