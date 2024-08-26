@@ -123,7 +123,6 @@ inata_Inata Puno Peru-cropped
 kroeberi_Los Carpitos-cropped
 kroeberi_Peine_2
 kroeberi_Toconce_1
-listadoSpArchivos.txt
 mendozana_Salta_1
 mendozana_Salta_3
 mendozana_Salta_4

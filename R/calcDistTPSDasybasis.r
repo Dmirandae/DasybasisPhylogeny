@@ -2,6 +2,13 @@ library(geomorph)
 
 packageVersion("geomorph")
 
+## in house functions
+
+EuclidDistPP <- function (EDpuntox,EDpuntoy) { sqrt((EDpuntox[1]-EDpuntoy[1])^2+(EDpuntox[2]-EDpuntoy[2])^2) }
+
+
+pdf("Dasybasis.pdf", paper="special",width = 15, height = 50)
+
 ## get a rps file and write it scaled with id
 
 getwd()
@@ -63,38 +70,59 @@ DasybasisREG <- estimate.missing(DasybasisLM,method = "Reg")
 
 ### TPS
 
+
 CamaUnica <- gpagen(DasybasisTPS,Parallel = T)
 
-shortCamaUnica  <- gpagen(shortDasybasis,Parallel = T)
+CamaUnicaR <- gpagen(DasybasisREG,Parallel = T)
 
-##?gm.prcomp
+shortCamaUnica  <- gpagen(shortDasybasis,Parallel = F, Proj = TRUE, ProcD = TRUE)
+
+##
+?gpagen
+
+shortCamaUnica$points.var
+
+plot(shortCamaUnica)
 
 DasybasyisPCA <- gm.prcomp(CamaUnica$coords)
 
+DasybasyisPCAR <- gm.prcomp(CamaUnicaR$coords)
+
 shortDasybasyisPCA <- gm.prcomp(shortCamaUnica$coords)
+
+
+##?gm.prcomp
 
 summary(DasybasyisPCA)
 summary(shortDasybasyisPCA)
 
 
-par(mfrow = c(1, 2))
+#par(mfrow = c(3, 1))
 
 plot(DasybasyisPCA)
+
+plot(DasybasyisPCAR)
+
 plot(shortDasybasyisPCA)
 
 
 
 tail(shortCamaUnica$coords[1,,],n=2)
+
 tail(shortCamaUnica$coords[1,1,],n=4)
 
 #"## extraer landmark uno a uno"
 
-a <- data.matrix(shortCamaUnica$coords[2,,])
 
-a
+shortCamaUnica$consensus
 
-unlist(a)
+terminales <-  dim(shortCamaUnica$coords[,,])[1]
 
+for( sp in 1:terminales){
+
+  a <- data.matrix(shortCamaUnica$coords[1,,])
+
+  a
 a <- as.data.frame(unlist(a))
 
 ##as.data.frame(a)
@@ -103,60 +131,24 @@ length(a)
 
 a2 <- (dist(t(a)))
 
+if (sp == 1){distancia <- a2}else{   
 ## sumar las dos matrices de distancia
+distancia <- distancia + a2}
+                              
+}                              
 
-a1
-a2
 
-a1 + a2
-
-## via suma y con for
-
-xx
-
-#distancia <- dist(shortCamaUnica$coords)
-
-## nop thios is not right
-#d2 <- data.frame(shortDasybasis)
-
-#str(d2)
-
-#length(d2[1,])
-
-#d2[,1]
-                                        #~ print(distancia)
 
 clusterDasybasis <- hclust(distancia)
 
 
-print(clusterDasybasis)
-
 clusDendro <- as.dendrogram(as.hclust(clusterDasybasis))                             
 
+#?as.hclust
 
-par(mfrow = c(1,1))
-
-
-plot(clusDendro,horiz=F,axes=T, ylab= "Height", cex.axis=1.3,cex.lab=1.7)
+#par(mfrow = c(1,1))
 
 
-### Reg
-
-#CamaUnica <- gpagen(DasybasisREG,Parallel = T)
-
-##?gm.prcomp
-
-#DasybasyisPCA <- gm.prcomp(CamaUnica$coords)
-
-#summary(DasybasyisPCA)
-
-#plot(DasybasyisPCA)
-
-
-
-
-
-
-#dist(shortDasybasyisPCA$A)
+plot(clusDendro,horiz=T,axes=T, ylab= "Height", cex.axis=1.3,cex.lab=1.7)
 
 
