@@ -1,0 +1,111 @@
+Space for 100000 trees in memory 
+Implied Weighting is ON 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE   25000           ------      32.96958     0:19:51    71,389,974,568 
+Completed search.
+Total rearrangements examined: 71,389,974,568. 
+No target score defined.  Best score hit 1 times.
+Best score: 32.96958.  5 trees retained. 
+Taxon names is ON 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 5 trees (0 taxa excluded) calculated, as tree 5 
+Saved trees (Nexus format) to file DasybasisPiwe3.tre 
+ 
+GC values, 10000 replicates, cut=0 (tree 0) - Symmetric Resampling (P=33) 
+   ,-- Tabanus_importunus
+   |          ,-- Dicladocera
+   |     ,--16--- Nubiloides
+   |     |   ,-- Agelanius
+   |     |   |   ,-- excelsior
+|--|     |   |   |    ,-- Dasybasis_nemopunctata
+   |     |   |--4|    |    ,-- Dasybasis_trilinealis
+   |     |   |   |    |--37--- Stenotabanus_incipiens
+   |     |   |   `--28|    ,-- Dasybasis_gentilis
+   |     |   |        |    |-- Dasybasis_appendiculata
+   `--100|   |        `--12|   ,-- Dasybasis_dixoni
+         |   |             `--0--- Dasybasis_dubiosa
+         |   |         ,-- Stenotabanus_sandyi
+         |   |    ,--29--- Scaptiodes_gagatina
+         |   |    |    ,-- Acellomyia
+         |   |    |    |-- subtrita
+         |   |    |    |-- schnusei
+         |   |    |    |-- schineri
+         `--6|    |    |-- punensis
+             |    |    |-- pruinivitta
+             |    |    |-- pallipes
+             |    |    |-- ornatissima
+             |    |    |-- opaca
+             |    |    |-- nigrifrons
+             |    |    |-- nigra
+             |    |    |-- mendozana
+             |    |    |-- geminata
+             |    |    |-- frequens
+             |    |    |-- fornesi
+             |    |    |-- fairchildi
+             |    |    |-- diaguita
+             |    |    |-- delpontei
+             |    |    |-- coquimbo
+             `--12|    |-- chubutensis
+                  |    |-- chilensis
+                  |    |-- bulbula
+                  |    |-- belenensis
+                  |    |-- adornata
+                  |    |   ,-- n_sp_4
+                  |    |--7--- inata
+                  |    |    ,-- collagua
+                  |    |--22--- hirsuta
+                  |    |   ,-- antillanca
+                  |    |--2--- delpontei_sepiapes
+                  |    |   ,-- vasta
+                  |    |--8--- limbativena
+                  |    |   ,-- tritus
+                  |    |--1--- arauca
+                  |    |   ,-- trigonophora
+                  |    |--9--- shannoni
+                  |    |    ,-- poroma
+                  |    |--29--- neogrisescens
+                  `--12|   ,-- pilifer
+                       |--3--- penai
+                       |    ,-- n_sp_2
+                       |--13--- n_sp_1
+                       |    ,-- montium
+                       |--14--- andicola
+                       |    ,-- minor
+                       |--12--- boliviame
+                       |    ,-- kroeberi_picea
+                       |--37--- kroeberi
+                       |   ,-- hepperi
+                       |--6--- elquiensis
+                       |   ,-- fumifrons
+                       |--0--- bruchii
+                       |    ,-- colla
+                       |--10--- albosignata
+                       |   ,-- chillan
+                       |--1--- brethesi
+                       |    ,-- bonariensis
+                       |--23--- bejeranoi
+                       |   ,-- antilope
+                       |--0--- alticola
+                       |    ,-- testaceomaculata
+                       |--14|   ,-- testaceomaculata_molestissima
+                       |    `--0--- testaceomaculata_longifrons
+                       |   ,-- senilis
+                       |--3|    ,-- pereirai_dureti
+                       |   `--26--- pereirai
+                       |   ,-- albotibialis
+                       |--2|    ,-- persignata
+                       |   `--64--- albohirta
+                       |   ,-- caprii
+                       |--5|    ,-- missionum
+                       |   `--37--- erynnis
+                       |   ,-- arica
+                       |--0|   ,-- cumelafquen
+                       |   `--3--- canipilis
+                       |    ,-- nigrifemur
+                       `--13|    ,-- Haematopotina
+                            `--90|   ,-- H_pechumani
+                                 `--5--- H_argentina
+Average group support: 8.1 
+ 
