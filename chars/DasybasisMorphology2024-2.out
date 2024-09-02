@@ -1,0 +1,57 @@
+Taxon names is ON 
+Implied Weighting is ON 
+Space for 6000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE     500           ------      35.45943     1:06:46    385,311,292,275 
+Completed search.
+Total rearrangements examined: 385,311,292,275. 
+No target score defined.  Best score hit 1 times.
+Best score: 35.45943.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+999   RAT        0 of 1      35.45943    35.45943     0:00:05    429,915,539   
+1000 ratchet iterations completed. 
+Total rearrangements examined: 429,915,539. 
+Saved 1 trees of score 35.45943. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+Saved trees (Nexus format) to file DasybasisMorphology2024-2.p2.tre 
+Copied legends: "GC values, 5000 replicates, cut=0 (tree 0) - Symmetric Resampling (P=33)" 
+Average group support: 8.4 
+ 
+Saved trees (Nexus format) to file DasybasisMorphology2024-2.boot.p2.tre 
+ 
+WARNING: 
+Existing tree-tags will be erased 
+ 
+Implied Weighting is ON 
+Space for 1 trees in memory 
+Space for 6000 trees in memory 
+ 
+WARNING: 
+Non-binary starting trees will be dichotomized (randomly) 
+ 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE     500           ------      18.37818     1:03:58    387,593,095,958 
+Completed search.
+Total rearrangements examined: 387,593,095,958. 
+No target score defined.  Best score hit 1 times.
+Best score: 18.37818.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+999   RAT        0 of 1      18.37818    18.37818     0:00:04    406,589,816   
+1000 ratchet iterations completed. 
+Total rearrangements examined: 406,589,816. 
+Saved 1 trees of score 18.37818. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+Saved trees (Nexus format) to file DasybasisMorphology2024-2.p13.tre 
+Copied legends: "GC values, 5000 replicates, cut=0 (tree 0) - Symmetric Resampling (P=33)" 
+Average group support: 7.7 
+ 
+Saved trees (Nexus format) to file DasybasisMorphology2024-2.boot.p13.tre 
+Implied Weighting is ON 
+Space for 1 trees in memory 
+Space for 6000 trees in memory 

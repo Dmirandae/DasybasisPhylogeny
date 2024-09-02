@@ -82,6 +82,7 @@ shortCamaUnica  <- gpagen(shortDasybasis,Parallel = F, Proj = TRUE, ProcD = TRUE
 
 shortCamaUnica$points.var
 
+
 plot(shortCamaUnica)
 
 DasybasyisPCA <- gm.prcomp(CamaUnica$coords)

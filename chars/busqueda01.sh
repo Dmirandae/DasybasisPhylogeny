@@ -1,1 +1,2 @@
-tnt  mxram 500 \; p DasybasisMorphology2015.mtr \; log verpiwe3.out \;   hold 100000 \; piwe = 3 \;xmult = rep 25000 \; taxn = \; nel* \; export -DasybasisPiwe3.tre \; resample rep 10000 \; zz 
+tnt  mxram 150 \; p $1.mtr \; log $1.out \;  taxn = \;  piwe = 2  \; hold 6000 \;  xmult = rep 500 rat 1000 drift 1000 \; rat = iter 1000 \; nel* \; export -$1.p2.tre \; ttag= \; resample rep 5000 \; export -$1.boot.p2.tre \; ttag - \; piwe = 13 \; hold 1 \; hold 6000 \;  xmult \; rat \; nel* \; export -$1.p13.tre \; ttag= \; resample rep 5000 \; export -$1.boot.p13.tre \; piwe = 21 \; hold 1 \; hold 6000 \;  xmult \; rat \; nel* \; export -$1.p21.tre \; ttag= \; resample rep 5000 \; export -$1.boot.p21.tre \; zz 
+

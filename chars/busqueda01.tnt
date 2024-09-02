@@ -1,0 +1,12 @@
+macro=;
+taxn = ;
+  piwe = %1  ;
+ hold 6000 ;
+  xmult = rep 500 rat 1000 drift 1000 ;
+ rat = iter 1000 ;
+ nel* ;
+ export -Dasybasis.p%1.tre ;
+ ttag= ;
+ resample rep 5000 ;
+ export -Dasybasis.boot.p%1.tre ;
+proc/;
