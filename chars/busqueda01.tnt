@@ -7,6 +7,6 @@ taxn = ;
  nel* ;
  export -Dasybasis.p%1.tre ;
  ttag= ;
- resample rep 5000 ;
+ resample boot rep 5000 ;
  export -Dasybasis.boot.p%1.tre ;
 proc/;
