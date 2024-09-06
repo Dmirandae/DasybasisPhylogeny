@@ -7,13 +7,13 @@ packageVersion("geomorph")
 EuclidDistPP <- function (EDpuntox,EDpuntoy) { sqrt((EDpuntox[1]-EDpuntoy[1])^2+(EDpuntox[2]-EDpuntoy[2])^2) }
 
 
-pdf("Dasybasis.pdf", paper="special",width = 15, height = 50)
+pdf("Dasybasis.pdf", paper="special",width = 35, height = 20)
 
 ## get a rps file and write it scaled with id
 
 getwd()
 
-rutaDatos <- "/home/rafael/proyectosDRME/tabanos/Dasybasis/2024/landmarks/2024/Alas-Dasybasis"
+rutaDatos <- "/home/rafael/proyectosDRME/tabanos/Dasybasis/2024/landmarks/2024/completos/"
 
 
 archivosTps <- list.files(path=rutaDatos,"tps")
@@ -29,6 +29,34 @@ DasybasisLM <- readmulti.tps(
   readcurves = FALSE,specID = "ID")
 # b <- readland.tps(input_file,readcurves = FALSE,specID = "ID")
 
+
+
+v1 <- DasybasisLM[,,1][,1]
+v2 <- DasybasisLM[,,1][,2]
+
+v1[is.na(v1)] <- "?" 
+v2[is.na(v1)] <- "?" 
+
+
+cat("\n",dimnames(DasybasisLM)[[3]][numEspecie]," ")
+
+
+for (contador in 1:length(v1)){
+
+  cat(v1[contador],v1[contador],sep=",")
+  cat (" ")
+
+}
+
+
+## landmarks, 1,2 , species
+
+
+
+### otras cosas
+length(DasybasisLM[2,,])
+
+###writeland.tps(DasybasisLM,"teest.tps")
 
 
 getNA <- function (x,y) any(is.na(y[x,,]) )
@@ -73,7 +101,11 @@ DasybasisREG <- estimate.missing(DasybasisLM,method = "Reg")
 
 CamaUnica <- gpagen(DasybasisTPS,Parallel = T)
 
-CamaUnicaR <- gpagen(DasybasisREG,Parallel = T)
+plot(CamaUnica$coords)
+
+plot(CamaUnica)
+
+CamaUnicaR <- gpagen(DasybasisREG,Parallel = T, Proj = T)
 
 shortCamaUnica  <- gpagen(shortDasybasis,Parallel = F, Proj = TRUE, ProcD = TRUE)
 
@@ -83,7 +115,7 @@ shortCamaUnica  <- gpagen(shortDasybasis,Parallel = F, Proj = TRUE, ProcD = TRUE
 shortCamaUnica$points.var
 
 
-plot(shortCamaUnica)
+plot(CamaUnica)
 
 DasybasyisPCA <- gm.prcomp(CamaUnica$coords)
 
@@ -150,6 +182,6 @@ clusDendro <- as.dendrogram(as.hclust(clusterDasybasis))
 #par(mfrow = c(1,1))
 
 
-plot(clusDendro,horiz=T,axes=T, ylab= "Height", cex.axis=1.3,cex.lab=1.7)
+plot(clusDendro,horiz=T,axes=T, ylab= "Height", cex.axis=1.3,cex.lab=1.2)
 
 
