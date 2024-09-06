@@ -31,8 +31,12 @@ DasybasisLM <- readmulti.tps(
 
 
 
-v1 <- DasybasisLM[,,1][,1]
+v1 <-  DasybasisLM[,,1][,1]
+
 v2 <- DasybasisLM[,,1][,2]
+
+v1
+v2
 
 v1[is.na(v1)] <- "?" 
 v2[is.na(v1)] <- "?" 
@@ -43,7 +47,7 @@ cat("\n",dimnames(DasybasisLM)[[3]][numEspecie]," ")
 
 for (contador in 1:length(v1)){
 
-  cat(v1[contador],v1[contador],sep=",")
+  cat(v1[contador],v2[contador],sep=",")
   cat (" ")
 
 }
