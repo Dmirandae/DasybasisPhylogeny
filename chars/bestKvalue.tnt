@@ -1,0 +1,21 @@
+log bestPiweValue.out;
+
+quote 2024 09 06 ;
+
+quote Best K value using resample ;
+
+macro=;
+loop  1  100
+ piwe  = #1 ;
+ hold 1;
+ hold 10000;
+  xmult =  rat 500;
+  rat   = iter 500;
+  nel*;
+  quote piwe #1 ;
+
+ resa sibyl replic 1000;
+
+stop
+
+proc/;

@@ -1,9 +1,11 @@
 macro=;
+collap 3; 
+log ouotPiwe%1.out;
 taxn = ;
   piwe = %1  ;
  hold 6000 ;
-  xmult = rep 500 rat 1000 drift 1000 ;
- rat = iter 1000 ;
+  xmult = rep 500 rat 500 drift 500 ;
+ rat = iter 2500 ;
  nel* ;
  export -Dasybasis.p%1.tre ;
  ttag= ;

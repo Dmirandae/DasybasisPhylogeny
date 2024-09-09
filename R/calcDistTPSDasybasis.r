@@ -7,7 +7,7 @@ packageVersion("geomorph")
 EuclidDistPP <- function (EDpuntox,EDpuntoy) { sqrt((EDpuntox[1]-EDpuntoy[1])^2+(EDpuntox[2]-EDpuntoy[2])^2) }
 
 
-pdf("Dasybasis.pdf", paper="special",width = 35, height = 20)
+pdf("Dasybasis.pdf", paper="special",width = 40, height = 20)
 
 ## get a rps file and write it scaled with id
 
@@ -42,7 +42,7 @@ v1[is.na(v1)] <- "?"
 v2[is.na(v1)] <- "?" 
 
 
-cat("\n",dimnames(DasybasisLM)[[3]][numEspecie]," ")
+#~ cat("\n",dimnames(DasybasisLM)[[3]][numEspecie]," ")
 
 
 for (contador in 1:length(v1)){
