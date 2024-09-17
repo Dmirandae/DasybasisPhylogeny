@@ -1,2 +1,25 @@
 Implied Weighting is ON 
 Space for 6000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE     500           ------      35.33764     0:33:52    201,568,894,313 
+Completed search.
+Total rearrangements examined: 201,568,894,313. 
+No target score defined.  Best score hit 1 times.
+Best score: 35.33764.  4 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+2499  RAT        0 of 4      35.33764    35.33764     0:00:11    1,079,469,323 
+2500 ratchet iterations completed. 
+Total rearrangements examined: 1,079,469,323. 
+Saved 4 trees of score 35.33764. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 4 trees (0 taxa excluded) calculated, as tree 4 
+Tree file: arbolpiwe2.tre 
+5 trees saved to arbolpiwe2.tre           
+Taxon names is ON 
+Saved trees (Nexus format) to file DasybasisClasicMorphology.p2.tre 
+Copied legends: "GC values, 5000 replicates, cut=0 (tree 0) - Standard Bootstrap" 
+Average group support: 5.6 
+ 
+Saved trees (Nexus format) to file DasybasisClasicMorphologyBootPiwe2.tre 
