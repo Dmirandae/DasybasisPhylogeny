@@ -1,0 +1,559 @@
+2024 09 16 
+Best K value using resample 
+Macro language is ON 
+Macros: 50.5 Kb in use, 51.8 Kb free
+Implied Weighting is ON 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      39.34085     0:00:11    1,016,623,814 
+Completed search.
+Total rearrangements examined: 1,016,623,814. 
+No target score defined.  Best score hit 1 times.
+Best score: 39.34085.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 1      39.34085    39.34085     0:00:01    42,017,659    
+100 ratchet iterations completed. 
+Total rearrangements examined: 42,017,659. 
+Saved 1 trees of score 39.34085. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+piwe 1 
+Stability indices, for p(del)=33%
+    Supported 0.204, compatible 0.205
+    Normalized: supported 0.162, compatible 0.163
+    Average distortion coeff.: 0.612-0.570 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 2 trees in memory. 
+Resetting maxtrees to 1 will discard 1 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      35.33764     0:00:11    1,053,960,479 
+Completed search.
+Total rearrangements examined: 1,053,960,479. 
+No target score defined.  Best score hit 1 times.
+Best score: 35.33764.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      35.33764    35.33764     0:00:00    41,599,791    
+100 ratchet iterations completed. 
+Total rearrangements examined: 41,599,791. 
+Saved 2 trees of score 35.33764. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 2 
+Stability indices, for p(del)=33%
+    Supported 0.208, compatible 0.212
+    Normalized: supported 0.167, compatible 0.171
+    Average distortion coeff.: 0.633-0.620 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      32.32606     0:00:10    1,069,606,022 
+Completed search.
+Total rearrangements examined: 1,069,606,022. 
+No target score defined.  Best score hit 1 times.
+Best score: 32.32606.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 3      32.32606    32.32606     0:00:00    39,882,629    
+100 ratchet iterations completed. 
+Total rearrangements examined: 39,882,629. 
+Saved 3 trees of score 32.32606. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 3 trees (0 taxa excluded) calculated, as tree 3 
+piwe 3 
+Stability indices, for p(del)=33%
+    Supported 0.170, compatible 0.179
+    Normalized: supported 0.137, compatible 0.144
+    Average distortion coeff.: 0.593-0.575 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 4 trees in memory. 
+Resetting maxtrees to 1 will discard 3 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      29.78988     0:00:09    1,071,787,322 
+Completed search.
+Total rearrangements examined: 1,071,787,322. 
+No target score defined.  Best score hit 1 times.
+Best score: 29.78988.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 3      29.78988    29.78988     0:00:00    37,972,075    
+100 ratchet iterations completed. 
+Total rearrangements examined: 37,972,075. 
+Saved 3 trees of score 29.78988. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 3 trees (0 taxa excluded) calculated, as tree 3 
+piwe 4 
+Stability indices, for p(del)=33%
+    Supported 0.177, compatible 0.190
+    Normalized: supported 0.144, compatible 0.155
+    Average distortion coeff.: 0.621-0.599 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 4 trees in memory. 
+Resetting maxtrees to 1 will discard 3 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      27.69373     0:00:08    1,000,885,032 
+Completed search.
+Total rearrangements examined: 1,000,885,032. 
+No target score defined.  Best score hit 1 times.
+Best score: 27.69373.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      27.69373    27.69373     0:00:01    40,613,857    
+100 ratchet iterations completed. 
+Total rearrangements examined: 40,613,857. 
+Saved 2 trees of score 27.69373. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 5 
+Stability indices, for p(del)=33%
+    Supported 0.153, compatible 0.164
+    Normalized: supported 0.125, compatible 0.134
+    Average distortion coeff.: 0.628-0.537 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      25.91744     0:00:09    1,033,489,995 
+Completed search.
+Total rearrangements examined: 1,033,489,995. 
+No target score defined.  Best score hit 1 times.
+Best score: 25.91744.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      25.91744    25.91744     0:00:00    34,377,113    
+100 ratchet iterations completed. 
+Total rearrangements examined: 34,377,113. 
+Saved 2 trees of score 25.91744. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 6 
+Stability indices, for p(del)=33%
+    Supported 0.163, compatible 0.175
+    Normalized: supported 0.133, compatible 0.144
+    Average distortion coeff.: 0.644-0.545 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      24.39368     0:00:09    1,039,358,959 
+Completed search.
+Total rearrangements examined: 1,039,358,959. 
+No target score defined.  Best score hit 1 times.
+Best score: 24.39368.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      24.39368    24.39368     0:00:00    36,293,144    
+100 ratchet iterations completed. 
+Total rearrangements examined: 36,293,144. 
+Saved 2 trees of score 24.39368. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 7 
+Stability indices, for p(del)=33%
+    Supported 0.168, compatible 0.180
+    Normalized: supported 0.138, compatible 0.148
+    Average distortion coeff.: 0.650-0.564 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      23.07301     0:00:09    982,591,976   
+Completed search.
+Total rearrangements examined: 982,591,976. 
+No target score defined.  Best score hit 1 times.
+Best score: 23.07301.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 1      23.07301    23.07301     0:00:00    36,929,602    
+100 ratchet iterations completed. 
+Total rearrangements examined: 36,929,602. 
+Saved 1 trees of score 23.07301. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+piwe 8 
+Stability indices, for p(del)=33%
+    Supported 0.165, compatible 0.172
+    Normalized: supported 0.136, compatible 0.141
+    Average distortion coeff.: 0.654-0.543 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 2 trees in memory. 
+Resetting maxtrees to 1 will discard 1 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      21.89644     0:00:10    974,039,978   
+Completed search.
+Total rearrangements examined: 974,039,978. 
+No target score defined.  Best score hit 1 times.
+Best score: 21.89644.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      21.89644    21.89644     0:00:00    35,546,098    
+100 ratchet iterations completed. 
+Total rearrangements examined: 35,546,098. 
+Saved 2 trees of score 21.89644. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 9 
+Stability indices, for p(del)=33%
+    Supported 0.178, compatible 0.186
+    Normalized: supported 0.147, compatible 0.153
+    Average distortion coeff.: 0.671-0.568 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      20.83936     0:00:10    986,809,108   
+Completed search.
+Total rearrangements examined: 986,809,108. 
+No target score defined.  Best score hit 1 times.
+Best score: 20.83936.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 1      20.83690    20.83690     0:00:00    40,178,578    
+100 ratchet iterations completed. 
+Total rearrangements examined: 40,178,578. 
+Saved 1 trees of score 20.83690. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+piwe 10 
+Stability indices, for p(del)=33%
+    Supported 0.181, compatible 0.185
+    Normalized: supported 0.149, compatible 0.153
+    Average distortion coeff.: 0.682-0.603 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 2 trees in memory. 
+Resetting maxtrees to 1 will discard 1 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      19.88038     0:00:10    1,010,902,469 
+Completed search.
+Total rearrangements examined: 1,010,902,469. 
+No target score defined.  Best score hit 1 times.
+Best score: 19.88038.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 1      19.88038    19.88038     0:00:00    40,988,351    
+100 ratchet iterations completed. 
+Total rearrangements examined: 40,988,351. 
+Saved 1 trees of score 19.88038. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+piwe 11 
+Stability indices, for p(del)=33%
+    Supported 0.183, compatible 0.188
+    Normalized: supported 0.151, compatible 0.155
+    Average distortion coeff.: 0.685-0.609 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 2 trees in memory. 
+Resetting maxtrees to 1 will discard 1 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      19.01760     0:00:10    994,296,935   
+Completed search.
+Total rearrangements examined: 994,296,935. 
+No target score defined.  Best score hit 1 times.
+Best score: 19.01760.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      19.01760    19.01760     0:00:01    39,302,979    
+100 ratchet iterations completed. 
+Total rearrangements examined: 39,302,979. 
+Saved 2 trees of score 19.01760. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 12 
+Stability indices, for p(del)=33%
+    Supported 0.181, compatible 0.193
+    Normalized: supported 0.150, compatible 0.160
+    Average distortion coeff.: 0.690-0.618 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      18.22903     0:00:10    1,024,819,986 
+Completed search.
+Total rearrangements examined: 1,024,819,986. 
+No target score defined.  Best score hit 1 times.
+Best score: 18.22903.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 1      18.22903    18.22903     0:00:00    39,747,260    
+100 ratchet iterations completed. 
+Total rearrangements examined: 39,747,260. 
+Saved 1 trees of score 18.22903. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+piwe 13 
+Stability indices, for p(del)=33%
+    Supported 0.185, compatible 0.193
+    Normalized: supported 0.154, compatible 0.160
+    Average distortion coeff.: 0.691-0.622 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 2 trees in memory. 
+Resetting maxtrees to 1 will discard 1 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      17.50351     0:00:10    1,016,759,238 
+Completed search.
+Total rearrangements examined: 1,016,759,238. 
+No target score defined.  Best score hit 1 times.
+Best score: 17.50351.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      17.50351    17.50351     0:00:00    38,975,529    
+100 ratchet iterations completed. 
+Total rearrangements examined: 38,975,529. 
+Saved 2 trees of score 17.50351. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 14 
+Stability indices, for p(del)=33%
+    Supported 0.178, compatible 0.195
+    Normalized: supported 0.148, compatible 0.162
+    Average distortion coeff.: 0.701-0.628 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      16.83830     0:00:10    1,012,843,178 
+Completed search.
+Total rearrangements examined: 1,012,843,178. 
+No target score defined.  Best score hit 1 times.
+Best score: 16.83830.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      16.83830    16.83830     0:00:01    38,022,032    
+100 ratchet iterations completed. 
+Total rearrangements examined: 38,022,032. 
+Saved 2 trees of score 16.83830. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 15 
+Stability indices, for p(del)=33%
+    Supported 0.179, compatible 0.195
+    Normalized: supported 0.150, compatible 0.163
+    Average distortion coeff.: 0.704-0.632 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      16.22465     0:00:10    1,031,337,034 
+Completed search.
+Total rearrangements examined: 1,031,337,034. 
+No target score defined.  Best score hit 1 times.
+Best score: 16.22465.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      16.22465    16.22465     0:00:01    40,321,086    
+100 ratchet iterations completed. 
+Total rearrangements examined: 40,321,086. 
+Saved 2 trees of score 16.22465. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 16 
+Stability indices, for p(del)=33%
+    Supported 0.180, compatible 0.196
+    Normalized: supported 0.150, compatible 0.164
+    Average distortion coeff.: 0.700-0.636 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      15.65619     0:00:10    1,063,894,588 
+Completed search.
+Total rearrangements examined: 1,063,894,588. 
+No target score defined.  Best score hit 1 times.
+Best score: 15.65619.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      15.65619    15.65619     0:00:01    38,542,977    
+100 ratchet iterations completed. 
+Total rearrangements examined: 38,542,977. 
+Saved 2 trees of score 15.65619. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 17 
+Stability indices, for p(del)=33%
+    Supported 0.178, compatible 0.194
+    Normalized: supported 0.149, compatible 0.162
+    Average distortion coeff.: 0.704-0.638 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      15.12839     0:00:11    1,033,556,983 
+Completed search.
+Total rearrangements examined: 1,033,556,983. 
+No target score defined.  Best score hit 1 times.
+Best score: 15.12839.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      15.12839    15.12839     0:00:01    39,650,247    
+100 ratchet iterations completed. 
+Total rearrangements examined: 39,650,247. 
+Saved 2 trees of score 15.12839. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 18 
+Stability indices, for p(del)=33%
+    Supported 0.180, compatible 0.195
+    Normalized: supported 0.150, compatible 0.163
+    Average distortion coeff.: 0.705-0.641 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      14.63618     0:00:11    1,045,588,338 
+Completed search.
+Total rearrangements examined: 1,045,588,338. 
+No target score defined.  Best score hit 1 times.
+Best score: 14.63618.  2 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 2      14.63618    14.63618     0:00:00    44,088,077    
+100 ratchet iterations completed. 
+Total rearrangements examined: 44,088,077. 
+Saved 2 trees of score 14.63618. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 2 trees (0 taxa excluded) calculated, as tree 2 
+piwe 19 
+Stability indices, for p(del)=33%
+    Supported 0.173, compatible 0.185
+    Normalized: supported 0.145, compatible 0.155
+    Average distortion coeff.: 0.705-0.645 
+Implied Weighting is ON 
+ 
+WARNING: 
+There are 3 trees in memory. 
+Resetting maxtrees to 1 will discard 2 trees 
+ 
+Space for 1 trees in memory 
+Space for 10000 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE       5           ------      14.17359     0:00:11    1,006,372,101 
+Completed search.
+Total rearrangements examined: 1,006,372,101. 
+No target score defined.  Best score hit 1 times.
+Best score: 14.17359.  1 trees retained. 
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+99    RAT        0 of 1      14.17359    14.17359     0:00:00    36,179,823    
+100 ratchet iterations completed. 
+Total rearrangements examined: 36,179,823. 
+Saved 1 trees of score 14.17359. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Strict consensus of 1 trees (0 taxa excluded) calculated, as tree 1 
+piwe 20 
+Stability indices, for p(del)=33%
+    Supported 0.187, compatible 0.199
+    Normalized: supported 0.157, compatible 0.167
+    Average distortion coeff.: 0.701-0.641 

@@ -68,18 +68,4 @@ DasybasisPiwe$k[which.max(DasybasisPiwe$comp)]
 DasybasisPiwe$k[which.max(DasybasisPiwe$compN)]
 savehistory("chechDasybasisPiwe.r")
 q()
-DasybasisPiwe <- read.csv("leer", sep=";",stringsAsFactors=F)
-DasybasisPiwe
-DasybasisPiwe <- read.csv("leer", sep=";",stringsAsFactors=F, header=F)
-DasybasisPiwe
-which.max(DasybasisPiwe$V3)
-which.max(DasybasisPiwe$V1)
-which.max(DasybasisPiwe$V2)
-head(DasybasisPiwe)
-DasybasisPiwe <- read.csv("leer", sep=";",stringsAsFactors=F, header=T)
-head(DasybasisPiwe)
-which.max(DasybasisPiwe$supported)
-which.max(DasybasisPiwe$Nsupported)
-which.max(DasybasisPiwe$compatible)
-which.max(DasybasisPiwe$Ncompatible)
-q()
+savehistory("chechDasybasisPiwe.r")
