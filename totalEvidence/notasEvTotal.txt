@@ -1,0 +1,7 @@
+Landmark matrix modified for 1 configuration(s)                                
+minimizing linear distances against taxon Dasybasis_appendiculata
+Reading from todosLosArboles 
+Implied Weighting is ON 
+ratchet>;                                                                      
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+999   RAT        0 of 2      36.32784    36.32784
