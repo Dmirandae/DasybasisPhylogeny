@@ -5,3 +5,19 @@ Implied Weighting is ON
 ratchet>;                                                                      
 Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
 999   RAT        0 of 2      36.32784    36.32784
+
+
+
+#####
+
+
+minimizing linear distances against taxon Tabanus
+Reading from todosLosArboles 
+Reading file todosLosArboles as NEXUS 
+Read 2 trees (0-1) from NEXUS file 
+Closing NEXUS file                                                             
+Implied Weighting is ON 
+Note: setting number of threads to 9 (i.e. the recommended number              
+for 12 CPUs). This can be changed with "lmark threads N".
+Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.    
+4999  RAT        0 of 1      36.23716    36.23716
