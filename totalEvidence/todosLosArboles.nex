@@ -1,0 +1,100 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=85;
+	taxlabels
+	Acellomyia
+	Agelanius
+	Dasybasis_appendiculata
+	Dicladocera
+	Haematopotina
+	Nubiloides
+	Scaptiodes_gagatina
+	Stenotabanus_incipiens
+	Stenotabanus_sandyi
+	Tabanus
+	adornata
+	albohirta
+	albosignata
+	albotibialis
+	alticola
+	andicola
+	antillanca
+	antilope
+	arauca
+	arica
+	bejeranoi
+	belenensis
+	boliviame
+	bonariensis
+	brethesi
+	bruchii
+	bulbula
+	canipilis
+	caprii
+	chilensis
+	chillan
+	chubutensis
+	colla
+	collagua
+	coquimbo
+	cumelafquen
+	delpontei
+	delpontei_sepiapes
+	diaguita
+	dixoni
+	dubiosa
+	elquiensis
+	erynnis
+	excelsior
+	fairchildi
+	fornesi
+	frequens
+	fumifrons
+	geminata
+	gentilis
+	hepperi
+	hirsuta
+	inata
+	kroeberi
+	limbativena
+	mendozana
+	minor
+	missionum
+	montium
+	nemopunctata
+	neogrisescens
+	nigra
+	nigrifemur
+	nigrifrons
+	opaca
+	ornatissima
+	pallipes
+	penai
+	pereirai
+	pereirai_dureti
+	persignata
+	pilifer
+	poroma
+	pruinivitta
+	punensis
+	schineri
+	schnusei
+	senilis
+	shannoni
+	subtrita
+	testaceomaculata
+	trigonophora
+	trilinealis
+	tritus
+	vasta
+;
+end;
+
+begin trees;
+	tree evTotal_Dasyb1 = [&U] (Tabanus,(excelsior,(Agelanius,(((Dasybasis_appendiculata,gentilis),(dubiosa,(dixoni,(nemopunctata,(Stenotabanus_incipiens,trilinealis))))),(((((nigra,((coquimbo,((punensis,(chillan,((opaca,(pereirai,(arica,(cumelafquen,(canipilis,(schnusei,(((((Acellomyia,chubutensis),(alticola,antilope)),(shannoni,trigonophora)),(tritus,((subtrita,(bejeranoi,bonariensis)),(hepperi,(diaguita,elquiensis))))),(arauca,(mendozana,ornatissima))))))))),(pereirai_dureti,senilis)))),(belenensis,(caprii,(erynnis,missionum))))),(((((pilifer,(penai,(collagua,(((Haematopotina,(neogrisescens,poroma)),(fairchildi,(limbativena,vasta))),(hirsuta,(bulbula,schineri)))))),(andicola,(albosignata,colla))),(chilensis,(montium,(pruinivitta,(frequens,nigrifrons))))),((antillanca,delpontei_sepiapes),(delpontei,pallipes))),(inata,(kroeberi,((geminata,(adornata,brethesi)),(albotibialis,((albohirta,persignata),(boliviame,minor))))))))),(fornesi,fumifrons)),(bruchii,(nigrifemur,testaceomaculata))),(Scaptiodes_gagatina,Stenotabanus_sandyi)),(Nubiloides,Dicladocera))))));
+	tree evTotal_Dasyb2 = [&U] (Tabanus,(excelsior,(Agelanius,(((Dasybasis_appendiculata,gentilis),(dubiosa,(dixoni,(nemopunctata,(Stenotabanus_incipiens,trilinealis))))),(((((nigra,((coquimbo,((chillan,((opaca,(pereirai,(arica,(cumelafquen,(canipilis,(schnusei,(((((Acellomyia,chubutensis),(alticola,antilope)),(shannoni,trigonophora)),(tritus,((subtrita,(bejeranoi,bonariensis)),(hepperi,(diaguita,elquiensis))))),(arauca,(mendozana,ornatissima))))))))),(pereirai_dureti,senilis))),(punensis,(belenensis,(caprii,(erynnis,missionum)))))),(((((pilifer,(penai,(collagua,(((Haematopotina,(neogrisescens,poroma)),(fairchildi,(limbativena,vasta))),(hirsuta,(bulbula,schineri)))))),(andicola,(albosignata,colla))),(chilensis,(montium,(pruinivitta,(frequens,nigrifrons))))),((antillanca,delpontei_sepiapes),(delpontei,pallipes))),(inata,(kroeberi,((geminata,(adornata,brethesi)),(albotibialis,((albohirta,persignata),(boliviame,minor))))))))),(fornesi,fumifrons)),(bruchii,(nigrifemur,testaceomaculata))),(Scaptiodes_gagatina,Stenotabanus_sandyi)),(Nubiloides,Dicladocera))))));
+	tree evTotal_Dasyb3 = [&U] (Tabanus,(excelsior,(Agelanius,(((Dasybasis_appendiculata,gentilis),(dubiosa,(dixoni,(nemopunctata,(Stenotabanus_incipiens,trilinealis))))),(((((nigra,((coquimbo,(punensis,((chillan,((opaca,(pereirai,(arica,(cumelafquen,(canipilis,(schnusei,(((((Acellomyia,chubutensis),(alticola,antilope)),(shannoni,trigonophora)),(tritus,((subtrita,(bejeranoi,bonariensis)),(hepperi,(diaguita,elquiensis))))),(arauca,(mendozana,ornatissima))))))))),(pereirai_dureti,senilis))),(belenensis,(caprii,(erynnis,missionum)))))),(((((pilifer,(penai,(collagua,(((Haematopotina,(neogrisescens,poroma)),(fairchildi,(limbativena,vasta))),(hirsuta,(bulbula,schineri)))))),(andicola,(albosignata,colla))),(chilensis,(montium,(pruinivitta,(frequens,nigrifrons))))),((antillanca,delpontei_sepiapes),(delpontei,pallipes))),(inata,(kroeberi,((geminata,(adornata,brethesi)),(albotibialis,((albohirta,persignata),(boliviame,minor))))))))),(fornesi,fumifrons)),(bruchii,(nigrifemur,testaceomaculata))),(Scaptiodes_gagatina,Stenotabanus_sandyi)),(Nubiloides,Dicladocera))))));
+	tree evTotal_DasCons = [&U] (Tabanus,(excelsior,(Agelanius,(((Dasybasis_appendiculata,gentilis),(dubiosa,(dixoni,(nemopunctata,(Stenotabanus_incipiens,trilinealis))))),(((((nigra,((coquimbo,(punensis,(chillan,((opaca,(pereirai,(arica,(cumelafquen,(canipilis,(schnusei,(((((Acellomyia,chubutensis),(alticola,antilope)),(shannoni,trigonophora)),(tritus,((subtrita,(bejeranoi,bonariensis)),(hepperi,(diaguita,elquiensis))))),(arauca,(mendozana,ornatissima))))))))),(pereirai_dureti,senilis))),(belenensis,(caprii,(erynnis,missionum))))),(((((pilifer,(penai,(collagua,(((Haematopotina,(neogrisescens,poroma)),(fairchildi,(limbativena,vasta))),(hirsuta,(bulbula,schineri)))))),(andicola,(albosignata,colla))),(chilensis,(montium,(pruinivitta,(frequens,nigrifrons))))),((antillanca,delpontei_sepiapes),(delpontei,pallipes))),(inata,(kroeberi,((geminata,(adornata,brethesi)),(albotibialis,((albohirta,persignata),(boliviame,minor))))))))),(fornesi,fumifrons)),(bruchii,(nigrifemur,testaceomaculata))),(Scaptiodes_gagatina,Stenotabanus_sandyi)),(Nubiloides,Dicladocera))))));
+	tree evTotal_Tabanus = [&U] (Tabanus,(excelsior,(Agelanius,(((Dasybasis_appendiculata,gentilis),(dubiosa,(dixoni,(nemopunctata,(Stenotabanus_incipiens,trilinealis))))),(((((nigra,((coquimbo,(punensis,((chillan,((opaca,(pereirai,(arica,(cumelafquen,(canipilis,(schnusei,(((((Acellomyia,chubutensis),(alticola,antilope)),(shannoni,trigonophora)),(tritus,((subtrita,(bejeranoi,bonariensis)),(hepperi,(diaguita,elquiensis))))),(arauca,(mendozana,ornatissima))))))))),(pereirai_dureti,senilis))),(belenensis,(caprii,(erynnis,missionum)))))),(((((pilifer,(penai,(collagua,(((Haematopotina,(neogrisescens,poroma)),(fairchildi,(limbativena,vasta))),(hirsuta,(bulbula,schineri)))))),(andicola,(albosignata,colla))),(chilensis,(montium,(pruinivitta,(frequens,nigrifrons))))),((antillanca,delpontei_sepiapes),(delpontei,pallipes))),(inata,(kroeberi,((geminata,(adornata,brethesi)),(albotibialis,((albohirta,persignata),(boliviame,minor))))))))),(fornesi,fumifrons)),(bruchii,(nigrifemur,testaceomaculata))),(Scaptiodes_gagatina,Stenotabanus_sandyi)),(Nubiloides,Dicladocera))))));
+end;
+

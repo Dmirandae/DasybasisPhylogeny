@@ -1,0 +1,7 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Tabanus ,(testaceomaculata ,(Acellomyia ,(hirsuta ,(schnusei ,(neogrisescens ,(chubutensis ,(Agelanius ,(vasta ,(((pereirai_dureti ,(bonariensis ,((cumelafquen ,((((((pereirai ,((Stenotabanus_sandyi ,(Dasybasis_appendiculata ,(erynnis ,frequens ))),(albotibialis ,(alticola ,(dubiosa ,(trigonophora ,(schineri ,(boliviame ,(fumifrons ,(delpontei ,(poroma ,(bejeranoi ,(missionum ,((canipilis ,((((albohirta ,(tritus ,((caprii ,(antilope ,(Haematopotina ,((fornesi ,((collagua ,(albosignata ,nigrifrons )),(hepperi ,dixoni ))),(delpontei_sepiapes ,nigra ))))),(chilensis ,(diaguita ,mendozana ))))),(montium ,(pilifer ,(bruchii ,minor )))),(bulbula ,(trilinealis ,(arica ,belenensis )))),(persignata ,(Stenotabanus_incipiens ,kroeberi )))),(arauca ,((limbativena ,pruinivitta ),(ornatissima ,subtrita ))))))))))))))))),(excelsior ,(Nubiloides ,(adornata ,pallipes )))),(Scaptiodes_gagatina ,((elquiensis ,(nigrifemur ,nemopunctata )),(geminata ,gentilis )))),(shannoni ,(Dicladocera ,punensis ))),(fairchildi ,penai )),(chillan ,opaca ))),(antillanca ,inata )))),(coquimbo ,(colla ,senilis ))),(andicola ,brethesi )))))))))));
+
+end ; 
