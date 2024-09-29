@@ -1,0 +1,69 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=59;
+	taxlabels
+	Acellomyia
+	Agelanius
+	Dasybasis_appendiculata
+	Haematopotina
+	Stenotabanus_sandyi
+	Tabanus
+	albohirta
+	albosignata
+	alticola
+	andicola
+	antillanca
+	antilope
+	arauca
+	arica
+	belenensis
+	bonariensis
+	bruchii
+	bulbula
+	canipilis
+	caprii
+	chilensis
+	chillan
+	chubutensis
+	collagua
+	coquimbo
+	cumelafquen
+	delpontei_sepiapes
+	diaguita
+	dixoni
+	dubiosa
+	elquiensis
+	erynnis
+	fairchildi
+	fornesi
+	frequens
+	hepperi
+	hirsuta
+	inata
+	kroeberi
+	mendozana
+	minor
+	missionum
+	nigra
+	nigrifrons
+	opaca
+	ornatissima
+	pallipes
+	penai
+	pereirai
+	pereirai_dureti
+	persignata
+	pruinivitta
+	senilis
+	shannoni
+	subtrita
+	testaceomaculata
+	trigonophora
+	tritus
+	vasta
+;
+end;
+
+begin trees;
+	tree piwe2LMcompacto = [&U] (Tabanus,(testaceomaculata,(Acellomyia,(hirsuta,(chubutensis,(Agelanius,(vasta,((penai,(cumelafquen,(fairchildi,(shannoni,(pallipes,((elquiensis,(chillan,(opaca,((arauca,(missionum,(trigonophora,(dubiosa,(bruchii,(canipilis,((persignata,((minor,(tritus,(albohirta,((caprii,(antilope,(chilensis,(diaguita,(mendozana,(dixoni,(hepperi,(fornesi,(collagua,(albosignata,nigrifrons)))))))))),(Haematopotina,(delpontei_sepiapes,nigra)))))),(arica,(kroeberi,subtrita)))),(belenensis,bulbula)))))))),(ornatissima,pruinivitta))))),(pereirai,((alticola,(erynnis,frequens)),(Stenotabanus_sandyi,Dasybasis_appendiculata))))))))),((pereirai_dureti,(bonariensis,(antillanca,inata))),(andicola,(senilis,coquimbo)))))))))));
+end;
