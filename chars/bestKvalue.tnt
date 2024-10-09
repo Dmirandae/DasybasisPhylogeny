@@ -1,17 +1,39 @@
 log bestPiweValue.out;
 
-quote 2024 09 16 ;
+quote 2024 10 09 ;
 
 quote Best K value using resample ;
 
+
+taxname = ;
+
+
+
 macro=;
-loop  1  50
+
+run searchLight.tnt;
+
+
+  
+  tsave *arbolPiwe0.tre;
+  save;
+  tsave/;
+
+  quote piwe 0 ;
+  
+ resample sibyl replic 1000;
+
+
+loop  1  10
  piwe  = #1 ;
- hold 1;
- hold 10000;
-  xmult =  rat 1000;
-  rat   = iter 200;
-  nel*;
+
+run searchLight.tnt;
+
+  tsave *arbolPiwe#1.tre;
+  save;
+  tsave/;
+
+
   quote piwe #1 ;
 
  resample sibyl replic 1000;
