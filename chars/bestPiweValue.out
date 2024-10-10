@@ -8,195 +8,125 @@ Running searchLight.tnt (with no arguments)
 Space for 1 trees in memory 
 Space for 10000 trees in memory 
 Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    23,581,259    
+1     FUSE      50           ------      574          0:00:07    1,562,215,800 
 Completed search.
-Total rearrangements examined: 23,581,259. 
+Total rearrangements examined: 1,562,215,800. 
 No target score defined.  Best score hit 1 times.
-Best score: 579.  3 trees retained. 
+Best score: 574.  5 trees retained. 
 Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 8      577         577          0:00:00    14,946,817    
-50 ratchet iterations completed. 
-Total rearrangements examined: 14,946,817. 
-Saved 8 trees of score 577. 
+499   RAT        0 of 180    574         574          0:00:00    133,765,424   
+500 ratchet iterations completed. 
+Total rearrangements examined: 133,765,424. 
+Saved 180 trees of score 574. 
 Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe0.tre 
-8 trees saved to arbolPiwe0.tre           
-Closing arbolPiwe0.tre (with 8 trees saved)
+Saved trees (Nexus format) to file arbolPiwe0.tre 
 piwe 0 
 Stability indices, for p(del)=33%
-    Supported 0.223, compatible 0.279
-    Normalized: supported 0.122, compatible 0.155
-    Average distortion coeff.: 0.647-0.553 
+    Supported 0.237, compatible 0.305
+    Normalized: supported 0.130, compatible 0.173
+    Average distortion coeff.: 0.666-0.559 
 Implied Weighting is ON 
 Reading from searchLight.tnt 
 Running searchLight.tnt (with no arguments) 
  
 WARNING: 
-There are 8 trees in memory. 
-Resetting maxtrees to 1 will discard 7 trees 
+There are 180 trees in memory. 
+Resetting maxtrees to 1 will discard 179 trees 
  
 Space for 1 trees in memory 
 Space for 10000 trees in memory 
 Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:01    39,086,824    
+1     FUSE      50           ------      40.71122     0:00:17    2,709,071,774 
 Completed search.
-Total rearrangements examined: 39,086,824. 
+Total rearrangements examined: 2,709,071,774. 
 No target score defined.  Best score hit 1 times.
-Best score: 39.61638.  1 trees retained. 
+Best score: 40.71122.  1 trees retained. 
 Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 1      39.61416    39.61416     0:00:00    23,312,593    
-50 ratchet iterations completed. 
-Total rearrangements examined: 23,312,593. 
-Saved 1 trees of score 39.61416. 
+499   RAT        0 of 2      40.71122    40.71122     0:00:01    229,965,288   
+500 ratchet iterations completed. 
+Total rearrangements examined: 229,965,288. 
+Saved 2 trees of score 40.71122. 
 Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe1tre 
-1 trees saved to arbolPiwe1tre           
-Closing arbolPiwe1tre (with 1 trees saved)
+Saved trees (Nexus format) to file arbolPiwe1.tre 
 piwe 1 
 Stability indices, for p(del)=33%
-    Supported 0.205, compatible 0.205
-    Normalized: supported 0.164, compatible 0.164
-    Average distortion coeff.: 0.605-0.561 
+    Supported 0.159, compatible 0.160
+    Normalized: supported 0.128, compatible 0.129
+    Average distortion coeff.: 0.561-0.502 
 Implied Weighting is ON 
 Reading from searchLight.tnt 
 Running searchLight.tnt (with no arguments) 
+ 
+WARNING: 
+There are 2 trees in memory. 
+Resetting maxtrees to 1 will discard 1 trees 
+ 
 Space for 1 trees in memory 
 Space for 10000 trees in memory 
 Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    36,197,868    
+1     FUSE      50           ------      36.57729     0:00:17    2,767,259,102 
 Completed search.
-Total rearrangements examined: 36,197,868. 
+Total rearrangements examined: 2,767,259,102. 
 No target score defined.  Best score hit 1 times.
-Best score: 35.74718.  1 trees retained. 
+Best score: 36.57729.  1 trees retained. 
 Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 2      35.74718    35.74718     0:00:00    22,358,152    
-50 ratchet iterations completed. 
-Total rearrangements examined: 22,358,152. 
-Saved 2 trees of score 35.74718. 
+499   RAT        0 of 1      36.57729    36.57729     0:00:02    243,870,358   
+500 ratchet iterations completed. 
+Total rearrangements examined: 243,870,358. 
+Saved 1 trees of score 36.57729. 
 Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe2tre 
-2 trees saved to arbolPiwe2tre           
-Closing arbolPiwe2tre (with 2 trees saved)
+Saved trees (Nexus format) to file arbolPiwe2.tre 
 piwe 2 
 Stability indices, for p(del)=33%
-    Supported 0.200, compatible 0.200
-    Normalized: supported 0.161, compatible 0.161
-    Average distortion coeff.: 0.623-0.556 
+    Supported 0.192, compatible 0.192
+    Normalized: supported 0.155, compatible 0.155
+    Average distortion coeff.: 0.599-0.563 
 Implied Weighting is ON 
 Reading from searchLight.tnt 
 Running searchLight.tnt (with no arguments) 
- 
-WARNING: 
-There are 2 trees in memory. 
-Resetting maxtrees to 1 will discard 1 trees 
- 
 Space for 1 trees in memory 
 Space for 10000 trees in memory 
 Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    39,854,688    
+1     FUSE      50           ------      33.47620     0:00:17    2,736,479,939 
 Completed search.
-Total rearrangements examined: 39,854,688. 
+Total rearrangements examined: 2,736,479,939. 
 No target score defined.  Best score hit 1 times.
-Best score: 32.89427.  2 trees retained. 
+Best score: 33.47620.  1 trees retained. 
 Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 2      32.85658    32.85658     0:00:00    22,854,224    
-50 ratchet iterations completed. 
-Total rearrangements examined: 22,854,224. 
-Saved 2 trees of score 32.85658. 
+499   RAT        0 of 1      33.47620    33.47620     0:00:02    209,752,732   
+500 ratchet iterations completed. 
+Total rearrangements examined: 209,752,732. 
+Saved 1 trees of score 33.47620. 
 Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe3tre 
-2 trees saved to arbolPiwe3tre           
-Closing arbolPiwe3tre (with 2 trees saved)
+Saved trees (Nexus format) to file arbolPiwe3.tre 
 piwe 3 
 Stability indices, for p(del)=33%
-    Supported 0.210, compatible 0.212
-    Normalized: supported 0.169, compatible 0.170
-    Average distortion coeff.: 0.633-0.567 
+    Supported 0.163, compatible 0.163
+    Normalized: supported 0.133, compatible 0.133
+    Average distortion coeff.: 0.575-0.520 
 Implied Weighting is ON 
 Reading from searchLight.tnt 
 Running searchLight.tnt (with no arguments) 
- 
-WARNING: 
-There are 2 trees in memory. 
-Resetting maxtrees to 1 will discard 1 trees 
- 
 Space for 1 trees in memory 
 Space for 10000 trees in memory 
 Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    38,279,740    
+1     FUSE      50           ------      30.87738     0:00:14    2,553,629,320 
 Completed search.
-Total rearrangements examined: 38,279,740. 
+Total rearrangements examined: 2,553,629,320. 
 No target score defined.  Best score hit 1 times.
-Best score: 30.40207.  2 trees retained. 
+Best score: 30.87738.  3 trees retained. 
 Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 1      30.40175    30.40175     0:00:00    23,407,683    
-50 ratchet iterations completed. 
-Total rearrangements examined: 23,407,683. 
-Saved 1 trees of score 30.40175. 
+499   RAT        0 of 3      30.87738    30.87738     0:00:02    203,180,821   
+500 ratchet iterations completed. 
+Total rearrangements examined: 203,180,821. 
+Saved 3 trees of score 30.87738. 
 Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe4tre 
-1 trees saved to arbolPiwe4tre           
-Closing arbolPiwe4tre (with 1 trees saved)
+Saved trees (Nexus format) to file arbolPiwe4.tre 
 piwe 4 
 Stability indices, for p(del)=33%
-    Supported 0.195, compatible 0.195
-    Normalized: supported 0.159, compatible 0.159
-    Average distortion coeff.: 0.610-0.589 
-Implied Weighting is ON 
-Reading from searchLight.tnt 
-Running searchLight.tnt (with no arguments) 
-Space for 1 trees in memory 
-Space for 10000 trees in memory 
-Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    39,606,302    
-Completed search.
-Total rearrangements examined: 39,606,302. 
-No target score defined.  Best score hit 1 times.
-Best score: 28.44415.  1 trees retained. 
-Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 2      28.40940    28.40940     0:00:00    21,913,500    
-50 ratchet iterations completed. 
-Total rearrangements examined: 21,913,500. 
-Saved 2 trees of score 28.40940. 
-Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe5tre 
-2 trees saved to arbolPiwe5tre           
-Closing arbolPiwe5tre (with 2 trees saved)
-piwe 5 
-Stability indices, for p(del)=33%
-    Supported 0.206, compatible 0.206
-    Normalized: supported 0.169, compatible 0.169
-    Average distortion coeff.: 0.647-0.563 
-Implied Weighting is ON 
-Reading from searchLight.tnt 
-Running searchLight.tnt (with no arguments) 
- 
-WARNING: 
-There are 2 trees in memory. 
-Resetting maxtrees to 1 will discard 1 trees 
- 
-Space for 1 trees in memory 
-Space for 10000 trees in memory 
-Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    41,971,423    
-Completed search.
-Total rearrangements examined: 41,971,423. 
-No target score defined.  Best score hit 1 times.
-Best score: 26.58527.  2 trees retained. 
-Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 3      26.58527    26.58527     0:00:01    22,864,231    
-50 ratchet iterations completed. 
-Total rearrangements examined: 22,864,231. 
-Saved 3 trees of score 26.58527. 
-Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe6tre 
-3 trees saved to arbolPiwe6tre           
-Closing arbolPiwe6tre (with 3 trees saved)
-piwe 6 
-Stability indices, for p(del)=33%
-    Supported 0.204, compatible 0.211
-    Normalized: supported 0.168, compatible 0.175
-    Average distortion coeff.: 0.651-0.632 
+    Supported 0.171, compatible 0.173
+    Normalized: supported 0.141, compatible 0.142
+    Average distortion coeff.: 0.592-0.522 
 Implied Weighting is ON 
 Reading from searchLight.tnt 
 Running searchLight.tnt (with no arguments) 
@@ -208,25 +138,23 @@ Resetting maxtrees to 1 will discard 2 trees
 Space for 1 trees in memory 
 Space for 10000 trees in memory 
 Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    43,763,585    
+1     FUSE      50           ------      28.75651     0:00:14    2,482,243,394 
 Completed search.
-Total rearrangements examined: 43,763,585. 
+Total rearrangements examined: 2,482,243,394. 
 No target score defined.  Best score hit 1 times.
-Best score: 25.06738.  3 trees retained. 
+Best score: 28.75651.  4 trees retained. 
 Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 4      25.06738    25.06738     0:00:00    24,812,382    
-50 ratchet iterations completed. 
-Total rearrangements examined: 24,812,382. 
-Saved 4 trees of score 25.06738. 
+499   RAT        0 of 4      28.75651    28.75651     0:00:01    203,936,622   
+500 ratchet iterations completed. 
+Total rearrangements examined: 203,936,622. 
+Saved 4 trees of score 28.75651. 
 Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe7tre 
-4 trees saved to arbolPiwe7tre           
-Closing arbolPiwe7tre (with 4 trees saved)
-piwe 7 
+Saved trees (Nexus format) to file arbolPiwe5.tre 
+piwe 5 
 Stability indices, for p(del)=33%
-    Supported 0.200, compatible 0.209
-    Normalized: supported 0.165, compatible 0.173
-    Average distortion coeff.: 0.656-0.644 
+    Supported 0.183, compatible 0.196
+    Normalized: supported 0.151, compatible 0.162
+    Average distortion coeff.: 0.620-0.554 
 Implied Weighting is ON 
 Reading from searchLight.tnt 
 Running searchLight.tnt (with no arguments) 
@@ -237,78 +165,3 @@ Resetting maxtrees to 1 will discard 3 trees
  
 Space for 1 trees in memory 
 Space for 10000 trees in memory 
-Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    40,322,825    
-Completed search.
-Total rearrangements examined: 40,322,825. 
-No target score defined.  Best score hit 1 times.
-Best score: 23.74628.  1 trees retained. 
-Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 1      23.72168    23.72168     0:00:00    24,495,432    
-50 ratchet iterations completed. 
-Total rearrangements examined: 24,495,432. 
-Saved 1 trees of score 23.72168. 
-Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe8tre 
-1 trees saved to arbolPiwe8tre           
-Closing arbolPiwe8tre (with 1 trees saved)
-piwe 8 
-Stability indices, for p(del)=33%
-    Supported 0.198, compatible 0.198
-    Normalized: supported 0.164, compatible 0.164
-    Average distortion coeff.: 0.658-0.606 
-Implied Weighting is ON 
-Reading from searchLight.tnt 
-Running searchLight.tnt (with no arguments) 
-Space for 1 trees in memory 
-Space for 10000 trees in memory 
-Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    38,178,279    
-Completed search.
-Total rearrangements examined: 38,178,279. 
-No target score defined.  Best score hit 1 times.
-Best score: 22.54121.  2 trees retained. 
-Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 3      22.54121    22.54121     0:00:00    23,894,572    
-50 ratchet iterations completed. 
-Total rearrangements examined: 23,894,572. 
-Saved 3 trees of score 22.54121. 
-Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe9tre 
-3 trees saved to arbolPiwe9tre           
-Closing arbolPiwe9tre (with 3 trees saved)
-piwe 9 
-Stability indices, for p(del)=33%
-    Supported 0.202, compatible 0.209
-    Normalized: supported 0.168, compatible 0.173
-    Average distortion coeff.: 0.678-0.614 
-Implied Weighting is ON 
-Reading from searchLight.tnt 
-Running searchLight.tnt (with no arguments) 
- 
-WARNING: 
-There are 3 trees in memory. 
-Resetting maxtrees to 1 will discard 2 trees 
- 
-Space for 1 trees in memory 
-Space for 10000 trees in memory 
-Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-1     FUSE       5           ------      ------       0:00:00    39,892,522    
-Completed search.
-Total rearrangements examined: 39,892,522. 
-No target score defined.  Best score hit 1 times.
-Best score: 21.49295.  1 trees retained. 
-Iter. Algor.     Tree        Score       Best Score   Time       Rearrangs.
-49    RAT        0 of 4      21.48877    21.48877     0:00:00    23,273,023    
-50 ratchet iterations completed. 
-Total rearrangements examined: 23,273,023. 
-Saved 4 trees of score 21.48877. 
-Again reading from bestKvalue.tnt 
-Tree file: arbolPiwe10tre 
-4 trees saved to arbolPiwe10tre           
-Closing arbolPiwe10tre (with 4 trees saved)
-piwe 10 
-Stability indices, for p(del)=33%
-    Supported 0.206, compatible 0.207
-    Normalized: supported 0.171, compatible 0.172
-    Average distortion coeff.: 0.676-0.631 

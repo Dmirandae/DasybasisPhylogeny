@@ -1,0 +1,7 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Tabanus_importunus ,((Agelanius ,(excelsior ,((Stenotabanus_taeniotes ,(schnusei ,((nigra ,((((((pereirai_dureti ,(pereirai ,(opaca ,(arica ,(cumelafquen ,(canipilis ,((antilope ,(((geminata ,((adornata ,brethesi ),((neogrisescens ,poroma ),(Haematopotina ,(Haematopotina_argentina ,Haematopotina_pechumani ))))),((inata ,(chilensis ,montium )),(kroeberi ,kroeberi_picea ))),((fornesi ,(diaguita ,(elquiensis ,(hepperi ,(subtrita ,(bejeranoi ,bonariensis )))))),(bruchii ,fumifrons )))),(((alticola ,(chubutensis ,(antillanca ,Acellomyia ))),(tritus ,(arauca ,(mendozana ,ornatissima )))),(shannoni ,trigonophora ))))))))),(punensis ,(schineri ,((bulbula ,fairchildi ),(penai ,(hirsuta ,collagua )))))),(senilis ,(chillan ,((((albotibialis ,(albohirta ,persignata )),(boliviame ,minor )),(limbativena ,vasta )),(belenensis ,(caprii ,(erynnis ,missionum ))))))),((coquimbo ,(albosignata ,colla )),(andicola ,pilifer ))),((delpontei ,delpontei_sepiapes ),(pallipes ,(nigrifrons ,(frequens ,pruinivitta ))))),(testaceomaculata_longifrons ,(testaceomaculata_molestissima ,(nigrifemur ,testaceomaculata ))))),(Scaptiodes_gagatina ,Stenotabanus_sandyi )))),(Nubiloides ,Dicladocera )))),(nemopunctata ,((Stenotabanus_incipiens ,trilinealis ),(dixoni ,(dubiosa ,(Dasybasis_appendiculata ,gentilis )))))));
+
+end ; 

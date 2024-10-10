@@ -8,20 +8,11 @@ quote Best K value using resample ;
 taxname = ;
 
 
+
 macro=;
 
-run searchLight.tnt;
 
-  
-  export -arbolPiwe0.tre;
-
-
-  quote piwe 0 ;
-  
- resample sibyl replic 1000;
-
-
-loop  1  70
+loop  13  70
  piwe  = #1 ;
 
 run searchLight.tnt;
@@ -36,4 +27,5 @@ run searchLight.tnt;
 
 stop
 
+zz;
 proc/;

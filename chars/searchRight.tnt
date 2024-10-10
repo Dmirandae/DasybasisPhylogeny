@@ -1,14 +1,13 @@
 macro=;
 collap 3; 
-log outPiwe%1.out;
+log outPiweBest-k_%1.out;
+
 
   piwe = %1  ;
  hold 6000 ;
   xmult = rep 500 rat 500 drift 500 ;
  rat = iter 2500 ;
  nel* ;
- tsave * arbolpiwe%1.tre;
- save ;
  taxn = ;
  export -DasybasisClasicMorphology.p%1.tre ;
  ttag= ;

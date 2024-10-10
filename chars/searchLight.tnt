@@ -1,5 +1,5 @@
  hold 1;
  hold 10000;
-  xmult =  rat 10;
-  rat   = iter 50;
+  xmult =  rep 50 rat 100 drift 10;
+  rat   = iter 500;
 proc/;
