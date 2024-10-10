@@ -1,4 +1,4 @@
-log bestPiweValue.out;
+log +bestPiweValue.out;
 
 quote 2024 10 09 ;
 
@@ -16,12 +16,12 @@ run searchLight.tnt;
   export -arbolPiwe0.tre;
 
 
-  quote piwe 0 ;
+  quote piwe 999 ;
   
  resample sibyl replic 1000;
 
 
-loop  1  70
+loop  61  70
  piwe  = #1 ;
 
 run searchLight.tnt;
