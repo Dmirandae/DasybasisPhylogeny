@@ -1,1 +1,1 @@
-/home/rafael/proyectosDRME/tabanos/Dasybasis/2024/R/TPS2TNT.r
+/home/rafael/Documents/tabanos/Dasybasis/2024/R/TPS2TNT.r
