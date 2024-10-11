@@ -1,0 +1,7 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Tabanus_importunus ,(Dicladocera ,(Nubiloides ,(Agelanius ,(Acellomyia ,(antillanca ,(fairchildi ,(limbativena ,(neogrisescens ,((bulbula ,((schineri ,(punensis ,((senilis ,(((pruinivitta ,(((frequens ,(adornata ,(coquimbo ,((albotibialis ,colla ),(brethesi ,chillan ))))),(((fumifrons ,(((nigrifrons ,((albohirta ,persignata ),(nigrifemur ,(Haematopotina_argentina ,(Haematopotina ,Haematopotina_pechumani ))))),(elquiensis ,hepperi )),(bruchii ,(fornesi ,(diaguita ,(albosignata ,nigra )))))),(testaceomaculata_longifrons ,(testaceomaculata ,testaceomaculata_molestissima ))),(geminata ,(kroeberi ,kroeberi_picea )))),(pallipes ,(delpontei ,delpontei_sepiapes )))),(((andicola ,montium ),(chilensis ,(inata ,penai ))),(pilifer ,(opaca ,Scaptiodes_gagatina )))),(pereirai ,pereirai_dureti ))),(arica ,(cumelafquen ,(canipilis ,(shannoni ,(trigonophora ,(((arauca ,((chubutensis ,(alticola ,(caprii ,(bejeranoi ,bonariensis )))),(ornatissima ,(mendozana ,subtrita )))),(tritus ,(antilope ,boliviame ))),(schnusei ,((minor ,(erynnis ,missionum )),((excelsior ,(Stenotabanus_incipiens ,(Stenotabanus_sandyi ,Stenotabanus_taeniotes ))),(Dasybasis_appendiculata ,(dubiosa ,(gentilis ,(dixoni ,(nemopunctata ,trilinealis ))))))))))))))))),(belenensis ,vasta ))),(poroma ,(hirsuta ,collagua ))))))))))));
+
+end ; 

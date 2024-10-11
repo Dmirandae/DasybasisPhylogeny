@@ -1,0 +1,7 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Tabanus_importunus ,(Dicladocera ,(Nubiloides ,(Agelanius ,(Acellomyia ,(antillanca ,(shannoni ,(trigonophora ,(tritus ,((schnusei ,(canipilis ,(cumelafquen ,(arica ,((senilis ,((((delpontei_sepiapes ,((coquimbo ,(brethesi ,(chillan ,(adornata ,(albotibialis ,(colla ,nigra )))))),(opaca ,Scaptiodes_gagatina ))),(delpontei ,(pallipes ,(pruinivitta ,((((((nigrifemur ,(albohirta ,persignata )),(Stenotabanus_sandyi ,(Stenotabanus_incipiens ,Stenotabanus_taeniotes ))),(testaceomaculata ,(testaceomaculata_longifrons ,testaceomaculata_molestissima ))),(albosignata ,bruchii )),(elquiensis ,hepperi )),((diaguita ,((fornesi ,fumifrons ),(frequens ,(nigrifrons ,(Haematopotina_pechumani ,(Haematopotina ,Haematopotina_argentina )))))),(geminata ,(kroeberi ,kroeberi_picea )))))))),(inata ,((andicola ,montium ),(chilensis ,(penai ,pilifer ))))),(pereirai ,pereirai_dureti ))),(punensis ,((belenensis ,(vasta ,(excelsior ,(Dasybasis_appendiculata ,(gentilis ,((nemopunctata ,trilinealis ),(dubiosa ,dixoni ))))))),(schineri ,(fairchildi ,(bulbula ,((poroma ,(hirsuta ,collagua )),(limbativena ,neogrisescens )))))))))))),(arauca ,((chubutensis ,((alticola ,(antilope ,boliviame )),(minor ,((bejeranoi ,bonariensis ),(caprii ,(erynnis ,missionum )))))),(ornatissima ,(mendozana ,subtrita ))))))))))))));
+
+end ; 

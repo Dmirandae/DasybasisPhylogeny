@@ -1,0 +1,7 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Tabanus_importunus ,(Dicladocera ,(Nubiloides ,(Agelanius ,(Acellomyia ,(antillanca ,(shannoni ,(trigonophora ,((((canipilis ,(arica ,(((punensis ,(belenensis ,((adornata ,(nigra ,(diaguita ,(geminata ,(kroeberi ,kroeberi_picea ))))),((coquimbo ,(((delpontei_sepiapes ,(delpontei ,((pallipes ,(((((albohirta ,persignata ),(nigrifemur ,(Haematopotina_argentina ,(Haematopotina ,Haematopotina_pechumani )))),(albosignata ,bruchii )),(elquiensis ,hepperi )),(fumifrons ,(fornesi ,(testaceomaculata_longifrons ,(testaceomaculata ,testaceomaculata_molestissima )))))),(nigrifrons ,(frequens ,pruinivitta ))))),(opaca ,Scaptiodes_gagatina )),((albotibialis ,colla ),(brethesi ,chillan )))),(inata ,((andicola ,montium ),(chilensis ,(penai ,pilifer )))))))),(cumelafquen ,(schineri ,(fairchildi ,(bulbula ,((poroma ,(hirsuta ,collagua )),(limbativena ,neogrisescens ))))))),(senilis ,(pereirai ,pereirai_dureti ))))),(schnusei ,((excelsior ,(Stenotabanus_incipiens ,(Stenotabanus_sandyi ,Stenotabanus_taeniotes ))),(Dasybasis_appendiculata ,(dubiosa ,(gentilis ,(dixoni ,(nemopunctata ,trilinealis )))))))),(arauca ,((chubutensis ,(alticola ,((caprii ,(bejeranoi ,bonariensis )),(erynnis ,missionum )))),(ornatissima ,(mendozana ,subtrita ))))),(tritus ,(antilope ,(boliviame ,(minor ,vasta )))))))))))));
+
+end ; 

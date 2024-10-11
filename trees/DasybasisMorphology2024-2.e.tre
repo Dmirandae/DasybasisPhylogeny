@@ -1,7 +1,0 @@
-#NEXUS
-
-begin trees ; 
-tree tnt_342 = [&U] 
-(Tabanus_importunus ,(Dicladocera ,(Nubiloides ,(Agelanius ,(Acellomyia ,(ornatissima ,((((arauca ,(adornata ,antillanca ,arica ,brethesi ,bulbula ,canipilis ,chillan ,coquimbo ,cumelafquen ,delpontei ,delpontei_sepiapes ,diaguita ,excelsior ,fairchildi ,fornesi ,frequens ,fumifrons ,hirsuta ,inata ,limbativena ,neogrisescens ,nigrifrons ,pallipes ,poroma ,pruinivitta ,punensis ,schineri ,schnusei ,senilis ,shannoni ,collagua ,(((nigrifemur ,testaceomaculata ,Stenotabanus_sandyi ,(albohirta ,persignata )),(albosignata ,bruchii )),(elquiensis ,hepperi )),(albotibialis ,colla ),(chilensis ,(andicola ,montium ),(penai ,pilifer )),((antilope ,nigra ),(boliviame ,(bonariensis ,(erynnis ,missionum )))),(belenensis ,(Dasybasis_appendiculata ,(Dasybasis_gentilis ,((Dasybasis_nemopunctata ,(Stenotabanus_incipiens ,Dasybasis_trilinealis )),(Dasybasis_dubiosa ,Dasybasis_dixoni ))))),(geminata ,(kroeberi ,kroeberi_picea )),(opaca ,Scaptiodes_gagatina ),(pereirai ,pereirai_dureti ),(Haematopotina_argentina ,Haematopotina_pechumani ))),(tritus ,(minor ,vasta ))),((alticola ,caprii ),(bejeranoi ,chubutensis ))),(trigonophora ,(mendozana ,subtrita )))))))));
-
-end ; 
