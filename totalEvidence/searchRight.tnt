@@ -1,0 +1,11 @@
+macro=;
+collap 3; 
+
+ hold 6000 ;
+  xmult = rep 500 rat 500 drift 500 ;
+ rat = iter 2500 ;
+ nel* ;
+ taxn = ;
+ export -DasybasisTotalEvidence.tre ;
+
+proc/;

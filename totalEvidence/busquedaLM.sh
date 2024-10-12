@@ -1,0 +1,1 @@
+tnt p totalEvidenceDasybasis-2024-10-10.mtr \; tsave \!600 salvar \;  lmark threads 8 \; piwe = 26 \; hold 6000 \; xmult = rep 100 rat 0 drift 50 \; taxnam= \; rat = iter 500  \;  export -DasybasisTotEvpiwe26.tre \;zz
