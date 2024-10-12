@@ -1,0 +1,7 @@
+#NEXUS
+
+begin trees ; 
+tree evTotal-AlignTabanus = [&U] 
+(Tabanus ,(Dicladocera ,(Nubiloides ,(Agelanius ,(Acellomyia ,(antillanca ,(shannoni ,(trigonophora ,((((schnusei ,((Dasybasis_appendiculata ,(dubiosa ,(gentilis ,(dixoni ,(nemopunctata ,trilinealis ))))),(excelsior ,(Stenotabanus_incipiens ,(Stenotabanus_sandyi ,Stenotabanus_taeniotes ))))),((arauca ,((chubutensis ,(alticola ,((bejeranoi ,bonariensis ),(caprii ,(erynnis ,missionum ))))),(ornatissima ,(mendozana ,subtrita )))),(tritus ,(boliviame ,(minor ,vasta ))))),(canipilis ,(cumelafquen ,(belenensis ,(arica ,(((inata ,(chilensis ,((andicola ,montium ),(penai ,pilifer )))),(pereirai ,(pereirai_dureti ,senilis ))),(punensis ,(schineri ,(fairchildi ,(bulbula ,((poroma ,(hirsuta ,collagua )),(limbativena ,neogrisescens )))))))))))),(((elquiensis ,((pruinivitta ,(frequens ,(nigrifrons ,(pallipes ,(delpontei ,(delpontei_sepiapes ,(((adornata ,coquimbo ),(brethesi ,(chillan ,(albotibialis ,colla )))),(opaca ,Scaptiodes_gagatina )))))))),((albohirta ,persignata ),(nigrifemur ,(Haematopotina_argentina ,(Haematopotina ,Haematopotina_pechumani )))))),((fornesi ,((albosignata ,nigra ),(diaguita ,(geminata ,(kroeberi ,kroeberi_picea ))))),(bruchii ,(fumifrons ,(testaceomaculata_longifrons ,(testaceomaculata ,testaceomaculata_molestissima )))))),(antilope ,hepperi )))))))))));
+
+end ; 
