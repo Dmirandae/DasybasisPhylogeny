@@ -1,0 +1,7 @@
+#NEXUS
+
+begin trees ; 
+tree tnt_1 = [&U] 
+(Tabanus ,(Dicladocera ,(Nubiloides ,(Agelanius ,(Acellomyia ,(antillanca ,((shannoni ,(trigonophora ,(((((Dasybasis_appendiculata ,(gentilis ,((nemopunctata ,trilinealis ),(dubiosa ,dixoni )))),(excelsior ,(Stenotabanus_incipiens ,(Stenotabanus_sandyi ,Stenotabanus_taeniotes )))),(schnusei ,(arauca ,tritus ))),(canipilis ,(cumelafquen ,(arica ,(((((delpontei_sepiapes ,((adornata ,(coquimbo ,(brethesi ,(chillan ,(albotibialis ,colla ))))),(opaca ,Scaptiodes_gagatina ))),(delpontei ,(pallipes ,(nigrifrons ,(frequens ,(pruinivitta ,(Haematopotina_pechumani ,(Haematopotina ,Haematopotina_argentina )))))))),(inata ,(chilensis ,((andicola ,montium ),(penai ,pilifer ))))),(pereirai_dureti ,(pereirai ,senilis ))),(punensis ,(schineri ,((belenensis ,vasta ),(bulbula ,(((fairchildi ,limbativena ),(neogrisescens ,poroma )),(hirsuta ,collagua ))))))))))),(hepperi ,(antilope ,(((bruchii ,(fumifrons ,(elquiensis ,((nigrifemur ,(testaceomaculata ,(albohirta ,persignata ))),(testaceomaculata_longifrons ,testaceomaculata_molestissima ))))),(fornesi ,(diaguita ,(albosignata ,nigra )))),(geminata ,(kroeberi ,kroeberi_picea )))))))),(subtrita ,(mendozana ,(chubutensis ,(ornatissima ,(minor ,(boliviame ,(alticola ,((caprii ,(bejeranoi ,bonariensis )),(erynnis ,missionum ))))))))))))))));
+
+end ; 
