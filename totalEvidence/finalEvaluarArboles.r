@@ -7,7 +7,27 @@ options(width = 500)
 arbolesDasybasisEvTotal <-  read.nexus("DasybasisAllK26.tre")
 
 
-names( arbolesDasybasisEvTotal)
+names(arbolesDasybasisEvTotal)
+
+
+par(mfrow = c(1, 2)) 
+plot.phylo(arbolesDasybasisEvTotal[[1]])
+plot.phylo(arbolesDasybasisEvTotal[[5]])
+
+obj<-cophylo(arbolesDasybasisEvTotal[[3]],arbolesDasybasisEvTotal[[4]])
+
+obj<-cophylo(arbolesDasybasisEvTotal[[3]],
+             consensus(arbolesDasybasisEvTotal[[3]],arbolesDasybasisEvTotal[[4]]))
+
+
+
+
+par(mfrow = c(1, 1)) 
+
+plot(obj,type=c("cladogram","cladogram"),
+     fsize=0.9,part=0.2,pts=FALSE,
+     lwd=2,link.type="curved")
+
 
 
 ##dev.off()
@@ -29,10 +49,10 @@ plot(arbolesDasybasisEvTotal[[topologia]], main=names(arbolesDasybasisEvTotal)[t
 #~ for (topologia in 1:2){
 
 
-#~ obj<-cophylo(arbolesDasybasisEvTotal[[1]],arbolesDasybasisEvTotal[[topologia]])
+                                        #~ obj<-cophylo(arbolesDasybasisEvTotal[[1]],arbolesDasybasisEvTotal[[topologia]])
 
-#~ plot(obj,type=c("cladogram","cladogram"),fsize=0.9,part=0.2,pts=FALSE,
-#~      lwd=2,link.type="curved")
+                                        #~ plot(obj,type=c("cladogram","cladogram"),fsize=0.9,part=0.2,pts=FALSE,
+                                        #~      lwd=2,link.type="curved")
 #~ mtext("a) Classical morphology.",at=-10,adj=0)
 mtext("b) Totla evidence.",at=10,adj=0)
 #mtext("a) Classical morphology.",at=-0.5,adj=0)
