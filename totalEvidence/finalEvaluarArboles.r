@@ -20,15 +20,15 @@ obj<-cophylo(arbolesDasybasisEvTotal[[3]],
              consensus(arbolesDasybasisEvTotal[[3]],arbolesDasybasisEvTotal[[4]]))
 
 
-
+p
 
 par(mfrow = c(1, 1)) 
 
-plot(obj,type=c("cladogram","cladogram"),
+plot(obj,type=c("cladogram","phylogram"),
      fsize=0.9,part=0.2,pts=FALSE,
      lwd=2,link.type="curved")
 
-
+21
 
 ##dev.off()
 pdf("Phylogenies_Dasybasis_2024-10-13.pdf", paper="special",
