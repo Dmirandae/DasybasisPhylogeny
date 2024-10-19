@@ -1,0 +1,940 @@
+killall R 
+sudo killall R 
+exit
+evince arthropoda-filog.pdf &
+acpi
+sensors | grep °
+sudo Rscript update.R 
+acpi
+init 0
+sensors | grep °
+sudo Rscript update.R 
+keyB-latam.sh 
+udiskie &
+cd Documents/uis/
+mc
+acpi
+sudo nala update 
+sudo nala upgrade 
+sudo nala autoremove 
+sudo nala autopurge 
+init 0
+sudo nala autoremove 
+sudo nala autopurge 
+keyB-latam.sh 
+evince /home/rafael/Downloads/bioeticaBuenasPracticasPos.pdf
+cd /home/rafael/Downloads/
+acpi
+ls *.pdf
+ls c*.pdf
+sudo apt-get install pdftk
+ls cienciaIntro.pdf 
+evince cienciaIntro.pdf  &
+pdftk a=cienciaIntro.pdf cat a1-4 a47-56 out cudos.pdf
+pdftk cienciaIntro.pdf cat 1-4 47-56 out cudos.pdf
+pdftk cienciaIntro.pdf cat 1-4 47-56 output cudos.pdf
+evince cudos.pdf &
+pdftk cienciaIntro.pdf cat 1-5 47-56 output cudos.pdf
+udiskie &
+mc
+sudo nala update
+sudo nala upgrade 
+init 0
+sudo nala upgrade 
+keyB-latam.sh 
+acpi
+init 0
+sudo nala update
+init 0
+init 0
+keyB-latam.sh 
+sudo nala autopurge 
+sudo nala autoremove 
+sudo nala update 
+sudo nala upgrade 
+acpi
+mc
+init 0
+sudo nala upgrade 
+keyB-latam.sh 
+acpi
+init 0
+find . -name R
+find . -name R | grep library
+cd 
+cxd ..
+sudo find . -name R | grep library
+cd usr/lib
+sudo -r rm R/*
+sudo rm -r rm R/*
+cd ..
+sudo rm -r rm R/
+cd  R
+cd
+sudo nala remove r-cran-*
+sudo nala install r-base-core 
+R
+sudo R
+sudo apt install imagemagick
+sudo apt-get install libmagick++-dev
+acpi
+## instalr cosas
+## sudo apt-get install libmagick++-dev
+sudo apt-get install libicu66
+sudo apt-get install libicu70
+sudo apt-get install libicu-dev 
+sudo apt-get install libicu-74
+sudo apt-get install libicu
+history | tail  -100
+history | tail  -100 | awf -F " " '{ print $2,$3,$4,$5,$6,$7 }'
+history | tail  -100 | awk -F " " '{ print $2,$3,$4,$5,$6,$7 }'
+history | tail  -150 | awk -F " " '{ print $2,$3,$4,$5,$6,$7 }' > historia
+init 0
+keyB-latam.sh 
+cd
+find . -iname ceinci.pdf
+find . -iname ceinci*.pdf
+acpi
+init 0
+find . -iname ceinci.pdf
+find . -iname ceinci*.pdf
+acpi
+init 0
+keyB-latam.sh 
+sudo nala update 
+sudo nala upgrade 
+sudo Rscript update.R 
+sudo R
+init 0
+ACPI
+sudo nala install libcurl4-openssl-dev
+acpi
+shutdown -r now
+sudo nala install libcurl4-openssl-dev
+shutdown -r now
+keyB-latam.sh 
+libreoffice --version
+sudo nala update 
+sudo nala upgrade 
+sudo Rscript update.R 
+acpi
+killall firefox 
+free
+emacs &
+init 0
+keyB-latam.sh 
+acpi
+init 0
+free
+emacs &
+acpi
+keyB-latam.sh 
+udiskie &
+find /media/rafael/WIN32/ -iname cein*.pdf
+find /media/rafael/WIN32/ -iname cein*.pdf -exec evince {} \;
+geany  /media/rafael/WIN32/buenasPracticas/dataCollada.txt
+ls  /media/rafael/WIN32/buenasPracticas/dataCollada.txt
+rm -r  /media/rafael/WIN32/buenasPracticas/Nueva\ carpeta/
+ls  /media/rafael/WIN32/buenasPracticas/*
+cat revisar 
+TAIL revisar 
+tail revisar 
+rm revisar 
+cat RRevisar 
+cat errorR 
+cat historia 
+init 0
+cat historia 
+init 0
+keyB-latam.sh 
+acpi
+cd software/filogenia/tnt/
+geany manual*
+tnt
+head data0
+tail data0
+tnt p data0
+acpi
+init 0
+tnt p data0
+acpi
+keyB-latam.sh 
+sudo nala update
+sudo nala upgrade 
+sudo Rscript update.R 
+init 0
+keyB-latam.sh 
+keyB-latam.sh 
+ifconfig 
+nmcli --help
+nmcli wifi list
+nmcli service wifi list
+nmcli general
+man nmcli
+nmcli radio wifi list
+nmcli radio wifi 
+nmcli radio wifi status
+acpi
+init 0
+nmcli radio wifi 
+nmcli radio wifi status
+init 0
+acpi
+cd 
+cd Documents/ceinci
+udiskie ^
+keyB-latam.sh 
+udiskie &
+sudo mc
+mc
+nmcli radio wifi status
+acpi
+evince bioeticaBuenasPracticasPos.pdf &
+cd /media/rafael/
+mkdir oldies
+cd oldies/
+evince *.pdf &
+tnt
+sudo nala update 
+sudo nala upgrade -y
+sudo nala autoremove 
+sudo nala autopurge 
+df -h
+init 0
+sudo nala upgrade -y
+sudo nala autoremove 
+sudo nala autopurge 
+df -h
+keyB-latam.sh 
+libreoffice 
+acpi
+libreoffice --version
+sudo R
+R --version
+lsb_release -a
+# Fingerprint: E298A3A825C0D65DFD57CBB651716619E084DAB9
+wget -qO- https://cloud.r-project.org/bin/linux/ubuntu/marutter_pubkey.asc | sudo tee -a /etc/apt/trusted.gpg.d/cran_ubuntu_key.asc
+# add the R 4.0 repo from CRAN -- adjust 'focal' to 'groovy' or 'bionic' as needed
+sudo add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/"
+sudo nala update 
+sudo nala upgrade 
+sudo Rscript update.R 
+init 0
+sudo nala install gdal gdal-devel 
+sudo nala install gdal-bin 
+sudo nala install gdal-plugins 
+sudo nala install gdal-data 
+sudo nala install libgdal-dev 
+keyB-latam.sh 
+sudo nala update 
+sudo nala upgrade 
+init 0
+acpi
+keyB-latam.sh 
+acpi
+init 0
+sudo nala install gdal-bin 
+sudo nala install gdal-plugins 
+sudo nala install gdal-data 
+sudo nala install libgdal-dev 
+init 0
+init 0
+keyB-latam.sh 
+sudo nala update 
+sudo nala upgrade 
+sudo Rscript update.R 
+find . -iname clave*.txt
+cd claves/
+geany claves2022-01-06.txt 
+acpi
+cd
+sudo R
+cd Documents/papers/Dasybasis/morphometrics/landmarks/
+mkdir 2024-a
+mv *.tps ./2024-a/.
+ls ls
+mkdir 2024-b
+mc
+sudo nala upgrade 
+keyB-latam.sh 
+cd Downloads/
+grep ID unificados_landmarks.tps 
+sed 's/\.jpg//g'
+sed 's/\.jpg//g' unificados_landmarks.tps 
+sed -r 's/\.jpg//g' unificados_landmarks.tps 
+sed -i 's/\.jpg//g' unificados_landmarks.tps 
+grep ID unificados_landmarks.tps | sort
+cd
+cd Documents/papers/Dasybasis/morphometrics/landmarks/2024-b
+R
+geany lmDasydasis.r
+acpi
+init 0
+keyB-latam.sh 
+cat errorR 
+sudo Rscript update.R 
+acpi
+mc
+cd
+umount /media/rafael/WIN32 
+init 0
+keyB-latam.sh 
+ping www.gmail.com
+cd Documents/papers/Dasybasis/morphometrics/landmarks/2024-b/
+mkdir completos
+cd completos/
+mc
+R
+geany lmDasydasis.r
+keyB-latam.sh 
+cat errorR 
+sudo Rscript update.R 
+mc
+umount /media/rafael/WIN32 
+cd
+cd Downloads/
+ls *.zip
+LS
+geany calcDistTPSDasybasis.r 
+evince Dasybasis.pdf &
+ls 
+sed 's/D\. /D_/g' lote3.tps 
+sed -i 's/D\. /D_/g' lote3.tps 
+geany lote3.tps 
+grep ID lote3.tps 
+grep ID *.tps
+cd ..
+zip -9r lmDasybasis2024-07-11.zip ./2024-b/
+cat *.tps > DasybasisLandmarks-2024-9-13.tps 
+rm lote3.tps 
+rm DasybasisLandmarks-2024-9-9.tps 
+Rscript calcDistTPSDasybasis.r 
+evince Dasybasis.pdf 
+acpi
+init 0
+evince Dasybasis.pdf 
+keyB-latam.sh 
+sudo nala update 
+sudo nala upgrade 
+acpi
+cd
+sudo Rscript update.R 
+init 0
+evince Dasybasis.pdf 
+evince Dasybasis.pdf 
+keyB-latam.sh 
+acpi
+cd
+sudo Rscript update.R 
+sudo nala update 
+sudo nala upgrade 
+init 0
+sudo nala update 
+sudo nala upgrade 
+init 0
+cd Documents/ceinci/
+cd cursoSolidario/
+geany *.tex 
+xelatex
+sudo nala install texlive-xetex 
+xelatex fair001.tex 
+evince fair001.pdf &
+cleanTex.sh 
+udiskie &
+mc
+cd /media/rafael/WIN32/buenasPracticas/
+EXIT
+keyB-latam.sh 
+acpi
+cd /home/rafael/Downloads
+mc
+init 0
+cd /media/rafael/WIN32/buenasPracticas/clasePosgrado/
+cleanTex.sh 
+evince fair001.pdf &
+cleanTex.sh 
+cd /media/rafael/WIN32/buenasPracticas/
+EXIT
+cd /home/rafael/Downloads
+keyB-latam.sh 
+evince &
+cd Documents/ceinci/cursoSolidario/2024/tex/
+xelatex fair001.tex 
+udiskie &
+mc
+umount /media/rafael/*
+acpi
+sudo nala update 
+sudo nala upgrade 
+cd
+sudo Rscript update.R 
+init 0
+mc
+umount /media/rafael/*
+sudo nala update 
+sudo nala upgrade 
+sudo Rscript update.R 
+init 0
+keyB-latam.sh 
+cd software/filogenia/winclada/
+geany matrizProblemaYesid.mtr
+tnt p matrizProblemaYesid.mtr 
+wincladax220 matrizProblemaYesid.mtr 
+wincladax220 matrizProblemaYesid.mtr &
+tnt p matrizProblemaYesid.mtr \;
+cd
+cd Documents/
+mkdir ento
+cd ento/
+acpi
+evince tagmatizacion-1.pdf &
+xelatex fair001.tex 
+udiskie &
+mc
+umount /media/rafael/*
+sudo nala update 
+sudo nala upgrade 
+sudo Rscript update.R 
+cd
+ls changeDisplay.sh 
+cat changeDisplay.sh 
+geany changeDisplay.sh 
+xrandr 
+sh changeDisplay.sh 
+acpi
+init 0
+keyB-latam.sh 
+cd Documents/ento/
+init 0
+cd Documents/ento/
+keyB-latam.sh 
+sudo nala update 
+sudo nala upgrade 
+sudo nala autoremove 
+ifconfig 
+acpi
+time
+times
+date
+date & acpi
+date | acpi
+xrandr 
+date && acpi
+init 0
+xrandr 
+init 0
+keyB-latam.sh 
+date && acpi
+acpi
+ping www.gmail.com
+ifconfig 
+sudo nala update
+sudo nala upgrade 
+sudo Rscript update.R 
+acpi
+init 0
+keyB-latam.sh 
+acpi
+init 0
+cd Downloads/
+keyB-latam.sh 
+cd
+cd bin
+ls keyB-latam.sh 
+mv keyB-latam.sh  keyb-latam.sh 
+init 0
+keyb-latam.sh 
+acpi
+cd Music/
+mplayer Various\ -\ Musica\ Cubana\ en\ el\ Siglo\ XX\ \(Vol2\)/*
+sudo apt install git
+git clone https://github.com/asus-linux-drivers/asus-numberpad-driver
+cd asus-numberpad-driver
+sudo bash ./install.sh --user
+bash ./install.sh --user
+exit
+byobu
+exit
+mplayer -h
+mplayer Various\ -\ Musica\ Cubana\ en\ el\ Siglo\ XX\ \(Vol2\)/*
+acpi
+init 0
+git clone https://github.com/asus-linux-drivers/asus-numberpad-driver
+cd asus-numberpad-driver
+sudo bash ./install.sh --user
+bash ./install.sh --user
+keyb-latam.sh 
+cd Music/1
+cd Music/
+uname -a
+amixer set Master 50%
+mplayer Various\ -\ Musica\ Cubana\ en\ el\ Siglo\ XX\ \(Vol2\)/*
+amixer
+alsamixer 
+sudo alsamixer 
+sudo nala update 
+sudo nala upgrade 
+cd
+sudo Rscript update.R 
+acpi
+keyb-latam.sh 
+sudo nala upgrade 
+cd
+sudo Rscript update.R 
+keyb-latam.sh 
+zoom 
+zoom  &
+free
+killall firefox 
+free -h
+alsamixer 
+cpi
+acpi
+init 0
+cd
+cd claves/
+geany claves2022-01-06.txt 
+killall firefox 
+free -h
+alsamixer 
+cpi
+init 0
+cd
+cd claves/
+geany claves2022-01-06.txt 
+grep Dasyb DasybasisLandmarks-2024-9-13.tps 
+mkdir lmVictoria
+cd lmVictoria/
+cd Downloads/
+git commit -m"lm digitalised Victoria"
+cd ..
+cd totalEvidence/
+git add .
+git commit -m"lm piwe 2 realgn pair Dasy"
+git push
+grep Dasy *.tps
+grep appen *.tps
+acpi
+sudo nala update 
+sudo nala upgrade 
+exit
+geany claves2022-01-06.txt 
+cd ..
+cd DasybasisPhylogeny/
+find . -iname *manual*
+geany chars/tntManual 
+cd totalEvidence/
+head totalEvidenceDasybasis.mtr 
+less totalEvidenceDasybasis.mtr 
+cat *.tre > todosLosArboles
+geany todosLosArboles 
+free -h
+geany notasEvTotal.txt
+acpi
+history 
+mc
+exit
+zoom &
+killall zoom 
+exit
+exit
+byobu
+exit
+mplayer -h
+mplayer Various\ -\ Musica\ Cubana\ en\ el\ Siglo\ XX\ \(Vol2\)/*
+git clone https://github.com/asus-linux-drivers/asus-numberpad-driver
+cd asus-numberpad-driver
+sudo bash ./install.sh --user
+bash ./install.sh --user
+keyb-latam.sh 
+cd Music/1
+cd Music/
+uname -a
+amixer set Master 50%
+mplayer Various\ -\ Musica\ Cubana\ en\ el\ Siglo\ XX\ \(Vol2\)/*
+amixer
+alsamixer 
+sudo alsamixer 
+sudo nala update 
+sudo nala upgrade 
+sudo Rscript update.R 
+keyb-latam.sh 
+sudo nala upgrade 
+sudo Rscript update.R 
+keyb-latam.sh 
+zoom 
+zoom  &
+free
+alsamixer 
+cpi
+cd claves/
+geany claves2022-01-06.txt 
+git commit -m"piwe 2 lm appendiculata"
+git push
+cd
+cd -
+killall firefox 
+ps -u rafael
+ps  | grep tnt
+ps -u rafael | grep tnt
+ps -u rafael | less
+killall emacs 
+free -h
+cat todo1
+cat todosLosArboles 
+mv todo1 todosLosArboles 
+cat *.tre > todosLosArboles 
+figtre evTotalPiwe2LMDasybas_appendiculata.tre &
+git add .
+git commit -m"ev total LM Daysy / Tabanus"
+git push 
+acpi
+init 0
+sudo nala upgrade 
+cd
+sudo Rscript update.R 
+sudo nala upgrade 
+cd
+sudo Rscript update.R 
+zoom 
+zoom  &
+free
+killall firefox 
+free -h
+alsamixer 
+cpi
+init 0
+cd
+keyb-latam.sh 
+acpi
+cd claves/
+ls 
+geany claves2022-01-06.txt 
+sudo nala install gh
+gh auth login
+cd 
+cd Documents/
+gh repo clone Dmirandae/DasybasisPhylogeny
+cd DasybasisPhylogeny/
+cd totalEvidence/
+tnt
+tnt p totalEvidenceDasybasis.mtr \; 
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [0] / 58 \;
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [1] / 58 \;
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [1] / 58 \; p todosLosArboles \; piwe = 2 \;  rat = replic 1000 ;
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [1] / 58 \; p todosLosArboles \; piwe = 2 \;  rat = nreplic 1000 ;
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [1] / 58 \; p todosLosArboles \; piwe = 2 \;  rat = iter 1000 ;
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [0] / 58 \; p todosLosArboles \; piwe = 2 \;  rat = iter 5000 ;
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [0] / 58 \; p todosLosArboles \; piwe = 2 \;  rat = iter 5000 \;
+rm evtotalPiwe2.tre 
+cat evtotalPiwe2-01.tre 
+cat *.tre
+cat *.tre > todosLosArboles 
+geany todosLosArboles 
+rk piwe2evtotalLmContraDasybasis.tre 
+rm piwe2evtotalLmContraDasybasis.tre 
+rm evtotalPiwe2-01.tre 
+head *.tre
+cat *.tre > todo1 
+geany todo1 
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [0] / 58 \; piwe = 2 \; p todo1 \;
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [1] / 58 \; piwe = 2 \; p todosLosArboles \;
+keyb-latam.sh 
+acpi
+init 0
+tnt p totalEvidenceDasybasis.mtr \; lmre pai [1] / 58 \; piwe = 2 \; p todosLosArboles \;
+keyb-latam.sh 
+cat launch.sh |
+cat launch.sh 
+acpi
+init 0
+keyb-latam.sh 
+acpi
+init 0
+keyb-latam.sh 
+init 0
+keyb-latam.sh 
+acpi
+cd Downloads/
+mc
+}
+cp Informe\ de\ proyectos\ 2024\ Comite\ CEINCI\ Ajustado.xlsx informe.xlsx
+libreoffice informe.xlsx &
+init 0
+mc
+}
+cp Informe\ de\ proyectos\ 2024\ Comite\ CEINCI\ Ajustado.xlsx informe.xlsx
+libreoffice informe.xlsx &
+keyb-latam.sh 
+cd
+sudo nala  update 
+lsb -s
+lsb -a
+lsb_release -a
+sudo nala  upgrade 
+sudo Rscript update.R 
+sudo R
+acpi
+init 0
+}
+cp Informe\ de\ proyectos\ 2024\ Comite\ CEINCI\ Ajustado.xlsx informe.xlsx
+libreoffice informe.xlsx &
+init 0
+cd Documents/DasybasisPhylogeny/
+git pull
+acpi
+sensors | grep "°"
+git pull
+sensors | grep "°"
+keyb-latam.sh 
+sudo nala update 
+sudo nala upgrade 
+acpi
+cat errorR 
+sudo Rscript update.R 
+sudo R
+cd Documents/DasybasisPhylogeny/
+cd chars/
+mc
+ls *.xlsx
+libreoffice Matriz\ Stenotabanus\ taeniotes.xlsx 
+init 0
+keyb-latam.sh 
+sudo nala update 
+sudo nala upgrade 
+cat errorR 
+sudo Rscript update.R 
+sudo R
+cd Documents/DasybasisPhylogeny/
+cd chars/
+mc
+ls *.xlsx
+libreoffice Matriz\ Stenotabanus\ taeniotes.xlsx 
+init 0
+rm *.tre
+cat MatrizDatosDasybasis2024.mtr 
+ls *.mtr
+cat MatrizDatosDasybasis2024.mtr > total2
+cat DasybasisLM.mtr >> total2
+emacs total* &
+mb busqudaLM13.sh busqudaLM.sh 
+mv busqudaLM13.sh busqudaLM.sh 
+cat DasybasisLM.mtr 
+cat DasybasisLM.mtr | awk '{ print $1}'
+cat DasybasisLM.mtr | awk '{ print $1}' | sort
+cat DasybasisLM.mtr | awk '{ print $1}' | sort > listaLM
+emacs-gtk total2 listaLM &
+geany total2
+geany total2 listaLM &
+geany MatrizDatosDasybasis2024.mtr 
+tnt p MatrizDatosDasybasis2024.mtr 
+geany  totalEvidenceDasybasis.mtr 
+geany test.tre 
+figtre test.tre 
+tnt p total2 \;
+cat *.tre > tdosArbolesevTotallmContraTabanus
+geany tdosArbolesevTotallmContraTabanus 
+acpi
+tnt p total2 \; p tdosArbolesevTotallmContraTabanus \;
+exit
+cd chars/
+mc
+exit
+sudo nala upgrade 
+cat errorR 
+sudo Rscript update.R 
+sudo R
+cd chars/
+mc
+ls *.xlsx
+libreoffice Matriz\ Stenotabanus\ taeniotes.xlsx 
+keyb-latam.sh 
+cd Documents/DasybasisPhylogeny/
+git pull
+free -h
+cd totalEvidence/
+figtre evTotalPiwe26.tre &
+R
+cat piwe2LM-compacto-ContraTabanus.nex 
+acpi
+init 0
+cat DasybasisLM.mtr | awk '{ print $1}' | sort > listaLM
+emacs-gtk total2 listaLM &
+geany total2
+geany total2 listaLM &
+geany MatrizDatosDasybasis2024.mtr 
+tnt p MatrizDatosDasybasis2024.mtr 
+geany  totalEvidenceDasybasis.mtr 
+geany test.tre 
+figtre test.tre 
+tnt p total2 \;
+cat *.tre > tdosArbolesevTotallmContraTabanus
+geany tdosArbolesevTotallmContraTabanus 
+tnt p total2 \; p tdosArbolesevTotallmContraTabanus \;
+exit
+cd chars/
+mc
+exit
+sudo nala upgrade 
+cat errorR 
+sudo Rscript update.R 
+sudo R
+cd chars/
+mc
+ls *.xlsx
+libreoffice Matriz\ Stenotabanus\ taeniotes.xlsx 
+cd Documents/DasybasisPhylogeny/
+git pull
+free -h
+figtre evTotalPiwe26.tre &
+R
+cat piwe2LM-compacto-ContraTabanus.nex 
+ifconfig 
+cd Documents/
+mv DasybasisPhylogeny/ d1
+gh repo clone Dmirandae/DasybasisPhylogeny
+cd DasybasisPhylogeny/
+du /sh
+keyb-latam.sh 
+du -sh
+geany busquedaLM.sh 
+tnt p totalEvidenceDasybasis-2024-10-10.mtr \; tsave \!600 salvar \;  lmark threads 4 \; piwe = 26 \; hold 6000 \; xmult = rep 100 rat 0 drift 50 \; taxnam= \; rat = iter 500  \;  export -DasybasisTotEvpiwe26002.tre \;zz
+ls -lsh
+ls -lsh *.tre
+geany todos 
+less arbol1-piwe26evTotal.tre 
+rm arbol1-piwe26evTotal.tre 
+head -2 *.tre 
+head -2 dasy*.tre 
+head  dasy*.tre 
+cat  dasy*.tre 
+ls  dasy*.tre  
+cat  dasy*.tre > dasyk26-contraDasybasis
+geany dasyk26-contraDasybasis 
+tnt p totalEvidenceDasybasis-2024-10-10.mtr \; tsave \!600 salvar \;  lmark threads 4 \; piwe = 26 \; p dasyk26-contraDasybasis \;
+cat todos 
+rm todos 
+ls dasyEvTotalK26-contraDasybasis00*
+rm dasyEvTotalK26-contraDasybasis00*
+cat *.tre
+cat *.tre > todos
+ls *.mtr
+tail *.mtr
+tnt p totalEvidenceDasybasis-2024-10-10.mtr \; tsave \!600 salvar \;  lmark threads 4 \; piwe = 26 \; p todos \;
+geany t1
+geany *.mtr
+tnt p totalEvidenceDasybasis-2024-10-10.mtr \; tsave \!600 salvar \;  lmark threads 4 \; piwe = 26 \; taxn = \;  p todos2 \; best \;
+ls finalDasybasisEvTotalk26Contra
+ls finalDasybasisEvTotalk26Contra*
+geany finalDasybasisEvTotalk26Contra*
+cat finalDasybasisEvTotalk26Contra*
+cat finalDasybasisEvTotalk26Contra* > finalAll.tre
+geany finalAll.tre 
+rm todos
+rm arbol*
+cd ..
+zip -9r zip/DasybasisEvTotal2024-10-11.zip totalEvidence/*
+zip -9r zip/DasybasisEvTotal2024-10-11.zip totalEvidence/
+cd totalEvidence/
+ls Dasybasis*.tre
+rm Dasybasis*.tre
+ls salvar*
+rm salvar*
+rm dasyk26-contraDasybasis 
+rm t1
+cat tdosArbolesevTotallmContraTabanus 
+mv finalAll.tre finalDasybasisEvTotalAll.tre 
+cat revisarArboles.r 
+cat compararArbolesConLM.r 
+geany *.[Rr]
+ls *.[Rr]
+emacs-gtk revisarArboles.r &
+ls finalDasybasisEvTotal*
+cp finalDasybasisEvTotalAll.tre tmp1.tre
+cp finalDasybasisEvTotalAll.tre tmp1.nex
+geany tmp1.nex 
+figtre tmp1.nex
+geany  tmp1.tre 
+figtre tmp1.tre &
+tnt p totalEvidenceDasybasis-2024-10-10.mtr \; tsave \!600 salvar \;  lmark threads 4 \; piwe = 26 \; taxn = \;  p tmp1.tre \;
+geany finalConsensus.tre 
+figtre finalConsensus.tre 
+git add .
+git commit -m"ev total final round"
+git push 
+acpi
+init 0
+cd totalEvidence/
+figtre evTotalPiwe26.tre &
+R
+cat piwe2LM-compacto-ContraTabanus.nex 
+init 0
+free -h
+geany notesEvT
+ls *Dasy*
+cat arbolDasybasis >> todos2
+ls *Dasy*.tre
+cat *Dasy*.tre 
+cat *Dasy*.tre >> todos2
+geany todos2 
+geany todos
+acpi
+geany notesEvT
+ls *Dasy*
+cat arbolDasybasis >> todos2
+ls *Dasy*.tre
+cat *Dasy*.tre 
+cat *Dasy*.tre >> todos2
+geany todos2 
+geany todos
+keyb-latam.sh 
+cd Documents/DasybasisPhylogeny/
+git push
+git fetch --all
+git branch backup-main
+git reset --hard origin/main
+git pull
+cd ..
+mv DasybasisPhylogeny/ DasybasisPhylogenyold
+gh repo clone Dmirandae/DasybasisPhylogeny
+mc
+sudo nala update 
+sudo nala upgrade 
+cd
+sudo Rscript update.R 
+DF -H
+df -h
+acpi
+init 0
+keyb-latam.sh 
+acpi
+init 0
+cd /media
+keyb-latam.sh 
+udiskie &
+cd Downloads/
+LS
+mc
+acpi
+init 0
+LS
+mc
+keyb-latam.sh 
+udiskie &
+cd /media/
+ls rafael/WIN32/
+cd rafael/WIN32/buenasPracticas/
+acpi
+init 0
+ls *.tre
+geany finalTrees-Das-2024-10-18.tre 
+evince resolucion_mineducacion_17907_2016.pdf buenasPracticasDatos.pdf ley-del-biologo.pdf 
+htop
+evince Phylogenies_Dasybasis_2024-10-19.pdf &
+sensors
+man history 
+history -h
+history --help
+ls
+history -f historiaDasybasis-2024-10-19.txt 
+history -w historiaDasybasis-2024-10-19.txt 
