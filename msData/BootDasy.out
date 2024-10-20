@@ -1,0 +1,322 @@
+Reading from totalEvidenceDasybasis-2024-10-19.mtr 
+Matrices will be read as alpha-numeric data 
+Matrix space: allocate for up to 16 states 
+'Dasybasis
+2024 10 19
+Classical Morphology
+LM
+'
+Matrix (59x91, 16 states). Memory required for data: 0.27 Mbytes 
+Landmark matrix modified for 1 configuration(s) 
+minimizing linear distances against taxon Dasybasis_appendiculata
+Reading from finalTrees-Das-2024-10-18.tre 
+Reading file finalTrees-Das-2024-10-18.tre as NEXUS 
+  ... Skipping taxa block ... 
+Read 3 trees (0-2) from NEXUS file 
+Closing NEXUS file 
+Implied Weighting is ON 
+Note: setting number of threads to 10 (i.e. the recommended number
+for 16 CPUs). This can be changed with "lmark threads N".
+1 trees retained (score 13.415242) 
+ 
+RESAMPLE
+    Resample matrix, and calculate group supports. 
+    Usage: "resample options [ search commands ];"  Options are: 
+       allow           during each replication, allow execution of 
+                       (almost) all commands, including dangerous ones. 
+                       This option should be used sparingly and only when 
+                       you really know what you're doing! 
+       boot            use normal bootstrapping instead of the default 
+                       resampling ("sym"). 
+       cut N           cutoff frequency or support 
+       errcount N      valid only under sibyl.  This counts the  
+                       proportion of groups (out of the total 
+                       supported groups) in the reduced data set 
+                       that are not supported in the complete data 
+                       set (wrong groups) and the proportion of groups 
+                       (out of the total) in reference tree N (presu- 
+                       mably, consensus of optimal trees for the 
+                       complete data set) that are not supported by 
+                       the reduced data set (mist groups). 
+       frequency       summarize results with absolute frequencies 
+                       instead of the default ("gc"). 
+       from N          calculate support for groups in tree N 
+       gc              summarize results with frequency differences 
+       jak             use normal jacknifing (i.e. independent deletion) 
+       poisson         use Poisson-modified bootstrapping 
+       probability N   change probability for "jak" or "sym" 
+       replications N  number of replications 
+       savetrees       save consensus for each replication 
+       sibyl           perform a backwards-jacknife; if used, this 
+                       must precede all other arguments. See below 
+                       for details. 
+       slope           summarize results with frequency slopes 
+       softboot N      make resampling in bootstrapping milder, by 
+                       creating datasets with more characters (as in 
+                       Kopuchian & Ramirez 2010). This has an effect 
+                       only for "boot" or "poisson"; none for "sym" 
+                       or "jak". 
+       sym             use symmetric resampling, with p(up)=p(del) 
+       zerowt          if doing symmetric resampling, eliminated (give 
+                       weight 0) to downweighted characters (=default); 
+                       otherwise, divide their weight by 2 (uncontra- 
+                       dicted groups appear in all replicates) 
+    Taxa can be excluded from consensus calculations, using "/" followed  
+    by the list of taxa to exclude.  All options are persistent, except 
+    taxon exclusion and "from" 
+      
+       The backwards jacknife is not a measure of support, but provides 
+    instead a sort of stability test. It deletes characters (under 
+    independent character removal, with p(del)=0.33); for each case, 
+    runs the data (as indicated within square brackets) and count the 
+    number of groups supported by the reduced data set that are present 
+    in all previously existing trees ("supported") or present in some 
+    but not all existing trees ("compatible").  Divide that number by 
+    the total number of groups supported in the reduced data set, or by 
+    the total number of groups that _could_ be supported in the reduced 
+    data set (i.e. nr. of taxa-2 , "normalized"). The existing trees must 
+    be provided by the user, and should correspond to a set of optimal 
+    trees under current settings. Other than search commands, only the 
+    number of replications can be changed, and taxa can be disregarded. 
+ 
+TAGSET
+    N;  set tag to N (parallel versions only) 
+P-TNT: setting tag = -1 
+For help on command "xxxx" enter "help xxxx" 
+For help on ALL commands, enter "help*" 
+For help with scripting language, enter "help+" 
+Enter "help [ topic ]" for possible help topics.
+ 
+COMMANDS: 
+    absincl     agroup   alltrees  ancstates        apo     bbreak       beep 
+       best    bground    blength     blocks      break   bsupport      ccode 
+       cdir     change   chkmoves      chomo      ckeep        cls   clbuffer 
+     cnames   collapse    comcomp   condense  constrain      costs    cscores 
+     cstree      dcomp     dmerge      drift       edit       echo     export 
+       exit        fit   fillsank      force   freqdifs       help       hold 
+     hybrid      ienum    incltax       info        log   lintrees       keep 
+      kleex     length        lik      lmark      lmbox  lmrealign     lquote 
+       lset   majority   matchtax        map     minmax   mixtrees      mkmap 
+       mono        mrp       mult      mxram     mxproc      naked     nelsen 
+    nstates   outgroup  procedure      pause   pcrprune      pfijo       piwe 
+    pruncom  prunmajor prunnelsen    pruntax     prupdn       ptnt  qcollapse 
+    qnelsen      quote       quit  randtrees    ratchet     rcompl       rdir 
+    rebuild     recons     report     reroot   resample     resols     rfreqs 
+     riddup      rseed        run       runc       save     screen     scores 
+    sectsch  shortread    shpcomp     silent      slfwt  slaveproc    smatrix 
+       sort    sprdiff     subopt      svtxt     system     tables     tagset 
+    taxcode  taxlabels   taxonomy    taxname    tchoose      tcomp     tequal 
+      tfuse     tgroup     thanks    timeout     tnodes      tplot      tread 
+      tsave    tshrink      tsize      ttags     tvault    txtsize      tzert 
+       view     vlinks   vversion       warn      watch      xcomp     xgroup 
+     xinact     xlinks      xmult      xperm      xpiwe      xread      xwipe 
+     unique   unshared   usminmax        zzz 
+ 
+TTAGS
+    Handle tree-tag settings. Note that specific tag separators can be 
+    defined with the "tread" command. 
+    ;       show tree tag(s). 
+    |       same, but displaying multiple lines as such in text trees 
+    =       store tree tags for subsequent tree printing command(s) 
+            (first tree printing command sets the target tree) 
+            N.B. If tree and tags stored already, and macros are ON, this  
+            can be followed by "<ray" or ">ray". First case sets 
+            the tags to the values stored in array "ray"; second case 
+            sets values in the array to the values in the tags (tags 
+            must be numbers!). Using "<<" or ">>", negative numbers 
+            between -1 and -5 are interconverted with symbols "-", "Y", 
+            "N", " " (blank), and "X". Using "[" instead of 
+            "<", it copies only to internal branches. Instead of printing 
+            the values contained the array, it is also possible to print 
+            the state names of character C, with "<&C ray" or "[&C ray" 
+            (this may greatly facilitate showing specific mappings of a 
+            character on a a tree, e.g. in conjunction with "iterrecs"). 
+    (       synonym of "=" 
+    )       stop storing tags (but don't erase them) 
+    -       clear all existing tags 
+    +N txt  write "txt" to node N of target tree (copies from first 
+            non-blank in "txt" all the way to ending semicolon). 
+    >XXX    Change title of tree-tags to XXX 
+    <N      erase (i.e. reduce to a minimum) tree-tag for node N 
+            Using a second "<" instead of N, erase tree-tags for 
+            all terminal branches; with ">", the opposite 
+    *N      set tree N as target tree (no labels written). Using 
+            "!" instead of "N" the last tree is used 
+            If N is followed by "<ray" (or "<<", as in  
+            "ttag="), and macros or ON, then  it also sets the  
+            tags from the values of the array "ray". Using "[" 
+            instead of "<", it copies only to internal branches. 
+    /;      save tags in a readable form 
+    [       separate tags in new lines, using "\" as separator 
+            for each legend (only in graphic trees).  If followed 
+            by a number N, then it sets N to be the maximum width 
+            of text to be output in multiple lines (0 = no limit, 
+            default). If "[" is followed by a, b, c or d, then it 
+            sets the position of multiple line tags in graphic  
+            trees (i.e. in SVG files), to be 'a'bove, 'b'elow, 
+            'c'entered, or 'd'isregarded (height of labels not 
+            considered). Default is 'c'. 
+    ]       don't separate legends in new lines 
+    !       if some multiple lines are empty, wipe'em 
+    &xxx    save tree-tags as tree diagram, in SVG (Scalable Vector 
+            Graphics, XML) format, to file "xxx".  File name  
+            may be followed by: 
+               blength N    branch span (width; if using "colors", and 
+                            branch lengths indicated with :L, then used 
+                            as factor for tree-width). 
+               bheight N    branch height 
+               thickness N  branch thickness N 
+               colors       save as colors.  In this case, the color 
+                            is determined by the first digit in the tree- 
+                            legend; more than a single digit (or a non-digit) 
+                            colors the branch as gray (=ambiguous).  A text 
+                            can also be displayed, if the color code is  
+                            followed by a forward slash and text. 
+               fontsize N   use a font size of N.  Use "tfontsize" or  
+                            "bfontsize" to control size of font in terminal 
+                            taxa or in tree branches, respectively. 
+               italics      ditto, for taxon names (use "bitalics" for branch 
+                            legends) 
+               pendwidth N  use a font of stroke N (=boldness) 
+               txtsep N     if using multi-line legends, separate lines 
+                            by N points 
+               legup N      raise branch legends by N points 
+               shift N      move whole tree N pixels to the right 
+               xysave var   save coordinates of every node to variable "var" 
+                            (must be a 2-dimensional array), and leave SVG file 
+                            open, for subsequent additions of text or SVG  
+                            commands (with "ttag&+", see below). File 
+                            remains open until closed with "ttag&;". 
+               caption xxx  use xxx as caption for tree diagram (copies until  
+                            a semicolon found; last option for "ttag &") 
+               extra X,Y    leave X,Y points below and to the right of tree 
+               rotate       rotate diagram counter-clockwise 
+            The resulting SVG file can be opened with any appropriate program 
+            (including most web browsers: Firefox, Opera, Safari, Chrome). 
+            Color codes (from 0 to 9) are red, blue, green, cyan, brown, pink 
+            orange, purple, magenta, and yellow.  Instead of these color codes, 
+            it is also possible to indicate RGB codes (in parentheses, separated 
+            by commas, optionally followed by branch thickness:length, before 
+            closing the parenthesis). You can use dashed lines, if the first 
+            color in the RGB code is preceded by a "-". 
+    &+      If an SVG file previously left open (with the "xysave" option of 
+            "ttag&"), then add text or commands. Options are:  
+               write  copy (as in "quote"), verbatim from input to SVG file 
+                      Use this to insert SVG commands into file. 
+               text   Insert text into SVG file (no need to remember SVG  
+                      syntax!). Syntax is:  
+                        ttag &+text x y (R,G,B,font size:stroke width) TEXT; 
+                      if no RGB code indicated, use font size 12, stroke 1. 
+               line   Insert line into SVG file. Syntax:  
+                        ttag &+line x1 y1 x2 y2 (R,G,B,width); 
+                      If R code negative, then line is dashed. 
+               rect   Insert a rectangle into SVG file. Syntax:  
+                        ttag &+rect x1 y1 x2 y2 (R,G,B,W) (R,G,B,Op); 
+                      First RGB code indicates line color and width W,  
+                      second one fill color and opacity Op. If not  
+                      indicated, line black and no fill. If first R code  
+                      is negative, then line is dashed. Opacity: a 0-100  
+                      value (default 100) 
+    See also help for "tread", for an option to merge tags from tree-files. 
+    NB: thanks to Salvador Arias for showing me the SVG format! 
+    NB2: If you wish to display a text in a specific color (with 0-9, IUPAC 
+         codes for DNA, or RGB codes), then precede the text by a forward 
+         slash and precede the slash by the color code. 
+No messages to show 
+ttag;  
+   ^
+ 
+ 
+RESAMPLE
+    Resample matrix, and calculate group supports. 
+    Usage: "resample options [ search commands ];"  Options are: 
+       allow           during each replication, allow execution of 
+                       (almost) all commands, including dangerous ones. 
+                       This option should be used sparingly and only when 
+                       you really know what you're doing! 
+       boot            use normal bootstrapping instead of the default 
+                       resampling ("sym"). 
+       cut N           cutoff frequency or support 
+       errcount N      valid only under sibyl.  This counts the  
+                       proportion of groups (out of the total 
+                       supported groups) in the reduced data set 
+                       that are not supported in the complete data 
+                       set (wrong groups) and the proportion of groups 
+                       (out of the total) in reference tree N (presu- 
+                       mably, consensus of optimal trees for the 
+                       complete data set) that are not supported by 
+                       the reduced data set (mist groups). 
+       frequency       summarize results with absolute frequencies 
+                       instead of the default ("gc"). 
+       from N          calculate support for groups in tree N 
+       gc              summarize results with frequency differences 
+       jak             use normal jacknifing (i.e. independent deletion) 
+       poisson         use Poisson-modified bootstrapping 
+       probability N   change probability for "jak" or "sym" 
+       replications N  number of replications 
+       savetrees       save consensus for each replication 
+       sibyl           perform a backwards-jacknife; if used, this 
+                       must precede all other arguments. See below 
+                       for details. 
+       slope           summarize results with frequency slopes 
+       softboot N      make resampling in bootstrapping milder, by 
+                       creating datasets with more characters (as in 
+                       Kopuchian & Ramirez 2010). This has an effect 
+                       only for "boot" or "poisson"; none for "sym" 
+                       or "jak". 
+       sym             use symmetric resampling, with p(up)=p(del) 
+       zerowt          if doing symmetric resampling, eliminated (give 
+                       weight 0) to downweighted characters (=default); 
+                       otherwise, divide their weight by 2 (uncontra- 
+                       dicted groups appear in all replicates) 
+    Taxa can be excluded from consensus calculations, using "/" followed  
+    by the list of taxa to exclude.  All options are persistent, except 
+    taxon exclusion and "from" 
+      
+       The backwards jacknife is not a measure of support, but provides 
+    instead a sort of stability test. It deletes characters (under 
+    independent character removal, with p(del)=0.33); for each case, 
+    runs the data (as indicated within square brackets) and count the 
+    number of groups supported by the reduced data set that are present 
+    in all previously existing trees ("supported") or present in some 
+    but not all existing trees ("compatible").  Divide that number by 
+    the total number of groups supported in the reduced data set, or by 
+    the total number of groups that _could_ be supported in the reduced 
+    data set (i.e. nr. of taxa-2 , "normalized"). The existing trees must 
+    be provided by the user, and should correspond to a set of optimal 
+    trees under current settings. Other than search commands, only the 
+    number of replications can be changed, and taxa can be disregarded. 
+
+Ccode  
+   -[/1 =0  0        -[/1 =0  1        -[/1 =0  2        -[/1 =0  3        -[/1 =0  4      
+   -[/1 =0  5        -[/1 =0  6        -[/1 =0  7        -[/1 =0  8        -[/1 =0  9      
+   -[/1 =0  10       -[/1 =0  11       -[/1 =0  12       -[/1 =0  13       -[/1 =0  14     
+   -[/1 =0  15       -[/1 =0  16       -[/1 =0  17       -[/1 =0  18       -[/1 =0  19     
+   -[/1 =0  20       -[/1 =0  21       -[/1 =0  22       -[/1 =0  23       -[/1 =0  24     
+   -[/1 =0  25       -[/1 =0  26       -[/1 =0  27       -[/1 =0  28       -[/1 =0  29     
+   -[/1 =0  30       -[/1 =0  31       -[/1 =0  32       -[/1 =0  33       -[/1 =0  34     
+   -[/1 =0  35       -[/1 =0  36       -[/1 =0  37       -[/1 =0  38       -[/1 =0  39     
+   -[/1 =0  40       -[/1 =0  41       -[/1 =0  42       -[/1 =0  43       -[/1 =0  44     
+   -[/1 =0  45       -[/1 =0  46       -[/1 =0  47       -[/1 =0  48       -[/1 =0  49     
+   -[/1 =0  50       -[/1 =0  51       -[/1 =0  52       -[/1 =0  53       -[/1 =0  54     
+   -[/1 =0  55       -[/1 =0  56       -[/1 =0  57       +[/1 =0  58    ; 
+Implied weighting is ON 
+Extended implied weighting is disabled 
+Weighting strength is 26.00000 
+Reading from totalEvidenceDasybasis-2024-10-19.mtr 
+Matrices will be read as alpha-numeric data 
+Matrix space: allocate for up to 16 states 
+'Dasybasis
+2024 10 19
+Classical Morphology
+LM
+'
+Matrix (59x91, 16 states). Memory required for data: 0.27 Mbytes 
+Landmark matrix modified for 1 configuration(s) 
+minimizing linear distances against taxon Dasybasis_appendiculata
+Reading from finalTrees-Das-2024-10-18.tre 
+Reading file finalTrees-Das-2024-10-18.tre as NEXUS 
+  ... Skipping taxa block ... 
+Read 3 trees (0-2) from NEXUS file 
+Closing NEXUS file 
+Implied Weighting is ON 
