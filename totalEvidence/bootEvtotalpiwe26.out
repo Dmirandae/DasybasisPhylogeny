@@ -1,0 +1,143 @@
+Implied Weighting is ON 
+Taxon names is ON 
+Implied Weighting is ON 
+Taxon names is ON 
+Implied Weighting is ON 
+Taxon names is ON 
+Implied Weighting is ON 
+Taxon names is ON 
+Implied Weighting is ON 
+Taxon names is ON 
+Implied Weighting is ON 
+Implied Weighting is ON 
+Will auto-save results to files
+boot1-1 and boot1-2 every 10 seconds... 
+Implied Weighting is ON 
+Will auto-save results to files
+boot1-1 and boot1-2 every 10 seconds... 
+Implied Weighting is ON 
+Will auto-save results to files
+boot2-1 and boot2-2 every 10 seconds... 
+Implied Weighting is ON 
+Will auto-save results to files
+boot3-1 and boot3-2 every 10 seconds... 
+Implied Weighting is ON 
+Will auto-save results to files
+boot4-1 and boot4-2 every 10 seconds... 
+Implied Weighting is ON 
+Will auto-save results to files
+boot5-1 and boot5-2 every 10 seconds... 
+Implied Weighting is ON 
+Will auto-save results to files
+boot6-1 and boot6-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot7-1 and boot7-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot8-1 and boot8-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot9-1 and boot9-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot10-1 and boot10-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot11-1 and boot11-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot12-1 and boot12-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot13-1 and boot13-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Reading from evTotalBootArboles.tre 
+'arboles para boot'
+Taxon 0 repeated 
+Error reading evTotalBootArboles.tre 
+ 62 (()((((()(())))))))(42 73 (((((0 (82 (78 (75 (1 4 6 8 10 12 17 19 22 28 
+                                    ^
+ 
+Implied Weighting is ON 
+Reading from evTotalBootArboles.tre 
+'arboles boot'
+Taxon 0 repeated 
+Error reading evTotalBootArboles.tre 
+ 62 (()((((()(())))))))(42 73 (((((0 (82 (78 (75 (1 4 6 8 10 12 17 19 22 28 
+                                    ^
+ 
+Implied Weighting is ON 
+Reading from evTotalBootArboles.tre 
+'arboles boot'
+107 trees read (trees 0-106) 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Note: setting number of threads to 10 (i.e. the recommended number
+for 16 CPUs). This can be changed with "lmark threads N".
+Copied legends: "Majority rule tree (from 107 trees, cut 50)" 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when min. branch length = 0) 
+Majority rule tree (from 107 trees, cut 50) calculated as tree 107 
+Copied legends: "Tree 107:" 
+ 
+Copied legends: "Tree 106:" 
+ 
+Implied weighting is ON 
+Extended implied weighting is disabled 
+Weighting strength is 26.00000 
+Saved trees (Nexus format) to file bootEvTotal.tre 
+Implied Weighting is ON 
+Reading from evTotalBootArboles.tre 
+'arboles boot'
+107 trees read (trees 0-106) 
+Taxon names is ON 
+Saved trees (Nexus format) to file bootTrees.tre 
+Implied Weighting is ON 
+Will auto-save results to files
+boot99-1 and boot99-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot101-1 and boot101-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot102-1 and boot102-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot103-1 and boot103-2 every 10 seconds... 
+Space for 200 trees in memory 
+Implied Weighting is ON 
+Will auto-save results to files
+boot104-1 and boot104-2 every 10 seconds... 
+Space for 200 trees in memory 
+ 
+WARNING: 
+Sampling will be changed to entire configurations
+(with landmark and traditional characters,
+can't sample individual landmarks) 
+ 
+Note: setting number of threads to 10 (i.e. the recommended number
+for 16 CPUs). This can be changed with "lmark threads N".
+Copied legends: "GC values, 5 replicates, cut=0 (tree 0) - Standard Bootstrap" 
+Average group support: 10.6 
+ 
+Taxon names is ON 
+Saved trees (Nexus format) to file bootEvTotalPiwe26.tre 
+Implied Weighting is ON 
+Taxon names is ON 
+Will auto-save results to files
+boot105-1 and boot105-2 every 10 seconds... 
+Space for 200 trees in memory 
