@@ -1,0 +1,93 @@
+!!!
+
+Although support for most branches is limited, and  making final conclusions is tentative. However, given the available evidence, our results represent the best possible phylogenetic framework. Further analysis could potentially reduce uncertainty and refine clade composition. Nonetheless, we are confident that the general groups will remain unchanged.
+
+
+!!!!!
+
+Homoplasy is a common phenomenon in the evolution of life. Traditionally, morphological characters have been considered more homoplastic than molecular characters (de Santis, 2024). To address this issue with our dataset, we assigned weights to characters based on their homoplasy levels (Goloboff, 1993), improving the accuracy of our phylogenetic reconstructions. therefore, we defined clades based on the sum of character transformations at each node, allowing for more flexible and biologically meaningful groupings. This approach recognizes that clades can be defined by multiple, shared characteristics, providing a more robust framework for phylogenetic analysis.
+
+To ensure a robust analysis, we explicitly evaluated the best value for the K parameter, a statistical parameter used in phylogenetic analysis. This allowed us to minimize assumptions and obtain a compatible solution. Since there are no specialized algorithms or parameters for this purpose, we proposed a weighting scheme using implicit weights and explicitly evaluating the K parameter.
+
+When applied to our dataset of wing landmarks and classical morphology, our approach proved effective in addressing homoplasy and providing accurate phylogenetic reconstructions. Although the distribution of characters may not warrant higher numerical bootstrap support, our method offers a robust framework for defining clades and testing hypotheses.
+
+In this scenario, clades are defined by the sum of character transformations at the node, resulting in explicitly defined monophyletic groups according to the homoplasy of the characters. These groups are polythetic, as they are not necessarily defined by a single character with a unique transformation, but rather by a set of transformations that can be unambiguously assigned to the node.
+
+Additionally, we treated all characters as non-additive to avoid making unnecessary assumptions about their evolutionary relationships. Our clade definitions are based on our best estimate of character transformations at the node level, providing a formal framework for testing any other hypothesis.
+
+
+
+
+
+#####
+
+la homoplasia existe y debemosa tratar con ella, y el meujor acertcamiwento para tratAR la homolasia es pesarla diferencialmente; dado que no tenemos varios algoritomos y pasrametros para hacerlo nuestra propuesata es pesaje uanao pesos implicitos y evaluar le mejor valor de K de manra explcita.
+
+En este escenario los clados son definidos por la suma de las transformacipopone en el nodo lo que genera grupos monifileticos definidos de manera explicita acorde con las homoplaia de lso caracteres, los grupo saon politipicos dado que no necesriAMENTE ES un ubnico caracter  CON UNA UNICA TRASDFORMACIÓNN sino el conjuto de transformaCIONES QUE SON aginables de maneja no ambigua al nodo.
+
+
+Original sentence:
+
+    "la homoplasia existe y debemosa tratar con ella, y el meujor acertcamiwento para tratAR la homolasia es pesarla diferencialmente;"
+
+Improved translation:
+
+    "Homoplasy exists and we must account for it. The best approach to dealing with homoplasy is to differentially weight characters."
+
+Original sentence:
+
+    "dado que no tenemos varios algoritmos y pasrametros para hacerlo nuestra propuesata es pesaje uanao pesos implicitos y evaluar le mejor valor de K de manra explcita."
+
+Improved translation:
+
+    "Homoplasy exists and we must account for it. The best approach to dealing with homoplasy is to differentially weight characters. Since there are no multiple algorithms and parameters to do this, we propose a weighting scheme using implicit weights and explicitly evaluating the best value of K."
+
+Original sentence:
+
+    "En este escenario los clados son definidos por la suma de las transformacipopone en el nodo lo que genera grupos monifileticos definidos de manera explicita acorde con las homoplaia de lso caracteres, los grupo saon politipicos dado que no necesriAMENTE ES un ubnico caracter  CON UNA UNICA TRASDFORMACIÓNN sino el conjuto de transformaCIONES QUE SON aginables de maneja no ambigua al nodo."
+
+Improved translation:
+
+    "Homoplasy exists and we must account for it. The best approach to dealing with homoplasy is to differentially weight characters. Since there are no multiple algorithms and parameters to do this, we propose a weighting scheme using implicit weights and explicitly evaluating the best value of K. In this scenario, clades are defined by the sum of character transformations at the node, resulting in explicitly defined monophyletic groups according to the homoplasy of the characters. These groups are polythetic, as they are not necessarily defined by a single character with a unique transformation, but rather by a set of transformations that can be unambiguously assigned to the node."
+
+Overall Meaning:
+
+The original text discusses the issue of homoplasy in phylogenetic analysis and proposes a method to address it. The authors suggest that by differentially weighting characters based on their homoplasy levels, they can improve the accuracy of their phylogenetic reconstructions. They also introduce a new way to define clades, based on the sum of character transformations at each node, which allows for more flexible and biologically meaningful groupings.
+
+
+
+####
+
+
+To address the homoplasy of the dataset, we propose assigns weights to characters based on their homoplasy levels. This approach allows us to account for the varying degrees of homoplasy among our characters and improve the accuracy of our phylogenetic reconstructions.
+
+Furthermore to define clades we rely on all character unique transformations at the node level, therefor we define clades based on the sum of character transformations at each node. This approach allows for more flexible and biologically meaningful groupings, as it recognizes that clades can be defined by multiple, shared characteristics.
+
+
+Our approach involves explicitly evaluating the best value for the K parameter, so we can minimize the number of assumptions made and ensure that our analysis yields a compatible solution. Since there are no multiple algorithms and parameters to do this, we propose a weighting scheme using implicit weights and explicitly evaluating the best value of K.
+
+
+
+Applied  to our dataset of wing landmarks and classical morphology, this approach is effective in addressing homoplasy and providing accurate phylogenetic reconstructions. While the distribution of characters may not warrant higher numerical support, our method provides a robust framework for defining clades and testing hypotheses.
+
+In this scenario, clades are defined by the sum of character transformations at the node, resulting in explicitly defined monophyletic groups according to the homoplasy of the characters. These groups are polythetic, as they are not necessarily defined by a single character with a unique transformation, but rather by a set of transformations that can be unambiguously assigned to the node.
+
+Homoplasy exists and we must account for it. The best approach to dealing with homoplasy is to differentially weight characters. Since there are no multiple algorithms and parameters to do this, we propose a weighting scheme using implicit weights and explicitly evaluating the best value of K. In this scenario, clades are defined by the sum of character transformations at the node, resulting in explicitly defined monophyletic groups according to the homoplasy of the characters. These groups are polythetic, as they are not necessarily defined by a single character with a unique transformation, but rather by a set of transformations that can be unambiguously assigned to the node.
+
+####
+
+
+Homoplasy is a common phenomenon in the evolution of life, and traditionally morphological characters have been considered more homoplastic than molecular characters (de Santis, 2024). To address this issue, we assigned weights to characters based on their homoplasy levels (Goloboff, 1993), to account for the varying degrees of homoplasy among our characters. Furthermore, we considered all characters as non-additive to avoid making unnecessary assumptions about their evolutionary relationships. Our clade definitions are based on our best estimate of character transformations at the node level, providing a formal framework for testing any other hypothesis.
+
+To address the homoplasy present in our dataset, we proposed assigning weights to characters based on their homoplasy levels. This approach enables us to account for the varying degrees of homoplasy among our characters and thereby improve the accuracy of our phylogenetic reconstructions.
+
+Furthermore, to define clades, we relied on all unique character transformations at the node level. This allowed us to define clades based on the sum of character transformations at each node. This approach fosters more flexible and biologically meaningful groupings, recognizing that clades can be defined by multiple, shared characteristics.
+
+Our approach involves explicitly evaluating the best value for the K parameter, a statistical parameter used in phylogenetic analysis. By doing so, we can minimize the number of assumptions made and ensure that our analysis yields a compatible solution. Since there are no multiple algorithms and parameters specifically designed for this purpose, we propose a weighting scheme using implicit weights and explicitly evaluating the best value of K.
+
+When applied to our dataset of wing landmarks and classical morphology, this approach proves effective in addressing homoplasy and providing accurate phylogenetic reconstructions. While the distribution of characters may not warrant higher numerical support, our method provides a robust framework for defining clades and testing hypotheses.
+
+In this scenario, clades are defined by the sum of character transformations at the node, resulting in explicitly defined monophyletic groups according to the homoplasy of the characters. These groups are polythetic, as they are not necessarily defined by a single character with a unique transformation, but rather by a set of transformations that can be unambiguously assigned to the node.
+
+
+
