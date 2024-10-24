@@ -10,14 +10,14 @@ pdf("Phylogenies_Dasybasis_2024-10-19.pdf", paper="special",
 options(width = 500)
                                         #
 #~ arbolesDasybasisEvTotal <-  read.nexus("DasybasisAllK26.tre")
-arbolesDasybasisEvTotal <-  read.nexus("finalTrees-Das-2024-10-18.tre")
+arbolesDasybasisEvTotal <-  read.nexus("figurasPaper.tre")
 
 
 names(arbolesDasybasisEvTotal)
 
 for (arbol1 in 1:2){
 
-    for (arbol2 in arbol1:3){
+    for (arbol2 in arbol1:2){
 
 
 par(mfrow = c(1, 2)) 
@@ -44,7 +44,7 @@ plot(obj,type=c("cladogram","phylogram"),
 
 ape::dist.topo(unroot(arbolesDasybasisEvTotal))
 
-for (topologia in 1:3){
+for (topologia in 1:2){
 
 plot(arbolesDasybasisEvTotal[[topologia]], main=names(arbolesDasybasisEvTotal)[topologia],
      font = 2, cex = 2.3, label.offset = 1,
@@ -52,10 +52,10 @@ plot(arbolesDasybasisEvTotal[[topologia]], main=names(arbolesDasybasisEvTotal)[t
 
 }
 
-plot(root(consensus(arbolesDasybasisEvTotal[1:3]),"Tabanus"),main="Consensus all",
+plot(root(consensus(arbolesDasybasisEvTotal[1:2]),"Tabanus_importunus"),main="Consensus all",
      font = 2.5, cex = 2.3, label.offset = 1,
      no.margin = TRUE)
 
-plot(root(consensus(arbolesDasybasisEvTotal[1:2]),"Tabanus"),main="Consensus LM",
-     font = 3, cex = 2.3, label.offset = 1,
-     no.margin = TRUE)
+#~ plot(root(consensus(arbolesDasybasisEvTotal[1:2]),"Tabanus"),main="Consensus LM",
+#~      font = 3, cex = 2.3, label.offset = 1,
+#~      no.margin = TRUE)
