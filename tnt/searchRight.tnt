@@ -1,0 +1,16 @@
+macro=;
+collap 3; 
+log outPiweBest-k_%1.out;
+
+
+  piwe = %1  ;
+ hold 6000 ;
+  xmult = rep 500 rat 500 drift 500 ;
+ rat = iter 2500 ;
+ nel* ;
+ taxn = ;
+ export -DasybasisClasicMorphology.p%1.tre ;
+ ttag= ;
+ resample boot rep 5000 ;
+ export -DasybasisClasicMorphologyBootPiwe%1.tre ;
+proc/;

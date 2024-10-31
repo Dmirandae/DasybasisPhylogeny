@@ -1,6 +1,0 @@
-geomorph
-readtps function read the tps, and in case of scale, it scales the results (no need to re-scale)
-readtps function is not creating a s3 output, it creates an array
-
-phytools
-http://blog.phytools.org/2013/01/processing-tps-morphometric-files-in-r.html

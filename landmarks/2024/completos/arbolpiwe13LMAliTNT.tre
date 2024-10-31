@@ -1,7 +1,0 @@
-#NEXUS
-
-begin trees ; 
-tree tnt_1 = [&U] 
-(Tabanus ,(angusta ,(bruchi ,((Acellomyia_paulseni ,(hirsuta ,(chubutensis ,(Agelanius_meridiana ,(vasta ,(neobasis_Australia_1 ,(andicola ,((penai ,(cumelafquen ,(fairchildi ,(shannoni ,(pallipes ,(elquiensis ,(mendozana2 ,((pereirai_pereirai ,(fornesi2 ,(((pruinivitta ,(ornatissima ,(subtrita ,(belenensis ,(arica ,((bulbula ,(canipilis ,(bruchii ,((albohirta ,trita ),(neobasis_Australia ,(minor ,(gentilis_Australia ,((Haematopotina_argentina ,((dixoni_AUS ,(fornesi1 ,((collagua ,(albosignata ,nigrifrons )),(dixoni_1 ,hepperi )))),(caprii ,(oculata_Australia ,(antilope ,(chilensis ,(mendozana1 ,diaguita ))))))),(delpontei_sepiapes ,nigra ))))))))),(kroeberi ,persignata ))))))),(arauca ,(missionum ,(dubiosa ,trigonophora )))),(chillan ,opaca )))),((alticola ,(erynnis ,frequens )),(Stenotabanus ,Dasybasis_appendiculata )))))))))),((bonariensis ,(pereirai_dureti ,(antillanca ,inata ))),(angusta_2 ,(senilis ,coquimbo ))))))))))),(testacepmaculata ,senilis4 )))));
-
-end ; 
